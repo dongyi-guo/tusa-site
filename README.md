@@ -72,3 +72,20 @@ student-help-centre/
 Where the numbers for both tree structure identifies their order inside the list.
 
 ## Club & Society Blackbox Testing
+
+The Blackbox Testing of the Club & Society segment of the New TUSA Website should expose all functionalities that clubs expected to use our CRM for. This includes:
+
+* List an event to sell tickets.
+
+- Create and sell their own merch.
+- Complete an Event Application (to tell TUSA that they are running an event and acknowledge what risks are involved).
+- To complete a reaffiliation form annually .
+  - Part of this is to change their logo and photos displayed at the front page of their club.
+- To complete a Change of Bank Signatories Form (to notify TUSA that the banks signatories are changing).
+- To set up Club Deals (i.e. what does club have to offer to entice students to join).
+- See the status of their forms (once sent in + see who submitted).
+- Manage their memberships (rules for U18s, Current Students and Associates) + membership list.
+- Manage their club docs uploads (i.e. RSAs, Food Handling Certificates, Working With Vulnerable People Card uploads, First Aid Certs, etc.).
+- Submit a grant application form to claim reimbursement for expenses at an event or capital.
+- Make all required uploads.
+
