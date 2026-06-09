@@ -6,81 +6,67 @@ Want to start a new club at TUSA? Here’s the process.
 
 ## The Process Overview
 
-```text
-1. Submit Expression of Interest (EOI)
-       ↓
-2. Meeting with TUSA Club Officer
-       ↓
-3. Receive invitation to apply
-       ↓
-4. Submit full affiliation application
-       ↓
-5. Application reviewed and approved
-       ↓
-Club created and affiliated in the system! Yay!
-```
+To start a new club, the process includes following steps:
 
-**Important:** You cannot submit an affiliation application directly. You must first submit an EOI and meet with a Club Officer.
+1. Submit Expression of Interest (EOI)
+2. Meeting with TUSA Club Officer
+3. Receive invitation to apply
+4. Submit full affiliation application
+5. Application reviewed and approved
+6. Club created and affiliated in the system! Yay!
+
+**Important:** You **CANNOT directly** submit an affiliation application. You **MUST first** submit an EOI **AND** meet with a Club Officer.
 
 ---
 
 ## Step 1: Expression of Interest (EOI)
 
-Before you can apply for club affiliation, you need to submit an Expression of Interest.
+You must submit an EOI before applying for club affiliation.
 
-### What the EOI Asks
+Your EOI will require information about:
 
-- Your proposed club name
+- Your new club name.
+- Your contact details.
+- What the club is about.
+- Why you want to start this club.
 
-- What the club is about
-
-- Why you want to start this club
-
-- Your contact details
-
-### Where to Submit
-
-Find the EOI form on the TUSA website under Clubs & Societies.
-
-### What Happens Next
-
-A TUSA Club Officer will contact you to arrange a meeting.
+You will submit your EOI via **EOI Form**, located on the TUSA website under Clubs & Societies.
 
 ---
 
 ## Step 2: Meeting with Club Officer
 
-After submitting your EOI, you’ll meet with a TUSA Club Officer.
+Once your EOI form is submitted, a TUSA Club Officer will contact you to arrange a meeting.
 
 ### Purpose of the Meeting
 
-- Discuss your club idea
+The meeting is for you to:
 
-- Understand the requirements for affiliation
-
-- Get guidance on your constitution and documentation
-
-- Ask any questions you have
+- Discuss your club idea.
+- Understand the requirements for affiliation.
+- Get guidance on your constitution and documentation.
+- Ask any questions you have.
 
 ### What to Prepare
 
-- Your club concept clearly in mind
+Please be ready with your meeting by having:
 
-- Any questions about requirements
-
-- Ideas about who might be on your executive committee
-
-### After the Meeting
-
-If your club idea is viable and meets TUSA requirements, you’ll be invited to submit a full affiliation application.
+- Your club concept clearly in mind.
+- Any questions about requirements.
+- Ideas about who might be on your executive committee.
 
 ---
 
 ## Step 3: Affiliation Application
 
-Once invited to apply, you’ll need to prepare:
+You will be invited to submit a full affiliation application if:
+
+- Your meeting with the Club Officer is successful.
+- Your club idea is viable, and it meets all TUSA requirements.
 
 ### Required Documents
+
+Once you are invited to apply, you’ll need to prepare following documents:
 
 | Document|What It Is|
 | ---| --- |
@@ -93,18 +79,16 @@ Once invited to apply, you’ll need to prepare:
 You’ll need to nominate your founding executive committee:
 
 - President (required)
-
 - Other committee roles as per your constitution
 
 ### Application Details
 
-- Club name and acronym
+For your affiliation application, it must include:
 
-- Club description and purpose
-
-- Contact details for all committee members
-
-- Student IDs for verification
+- Your club's name and acronym.
+- Your club's description and purpose.
+- All committee members' contact details. 
+- Student IDs if possible.
 
 ---
 
@@ -126,16 +110,13 @@ You’ll receive login details by email and can start setting up your club.
 
 ## Timeline
 
-| Stage                         | Typical Time             |
-| ----------------------------- | ------------------------ |
-| EOI to meeting                | 1-2 weeks                |
-| Meeting to application invite | Same day (if successful) |
-| Application review            | 1-2 weeks                |
-| **Total**                     | 2-4 weeks                |
+The whole affiliation process will take approximately **2-4 weeks**.
+
+![affiliation_timeline](../media/affiliation_timeline.png)
 
 Plan ahead if you want to be affiliated by a specific date.
 
-------------------------------------------------------------------------
+---
 
 ## Frequently Asked Questions
 
