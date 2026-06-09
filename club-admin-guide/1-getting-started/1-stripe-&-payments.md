@@ -1,56 +1,71 @@
 # Stripe & Payments
 
-Stripe is **entirely managed by TUSA on your club’s behalf.** You don’t set it up, you don’t configure it, and **you never get a Stripe login or dashboard** — there’s nothing for you to sign into. TUSA creates and maintains the connection so your store can take payments and funds reach your club’s bank account.
+Stripe is the financial platform used in TUSA for clubs to accept payments, manage billing and revenues, and customise their own business models.
 
-------------------------------------------------------------------------
+It is **Entirely managed by TUSA** on the club’s behalf, it requires **No Setup**, **No Configuration**, and **No Login** from you.
+
+---
 
 ## What TUSA Handles
 
-When your club is affiliated, TUSA staff will:
+When your club is **affiliated**, TUSA staff will:
 
-- Create your club’s Stripe connected account
+- Create your club’s Stripe connected account.
+- Connect it to your store.
+- Complete the business verification.
 
-- Connect it to your store
+All you need to provide is your **club bank account details**:
 
-- Complete the business verification
+- Account Number.
+- BSB.
 
-All you need to provide is your **club bank account details** (BSB and account number). If you haven’t already provided these during affiliation, send them to the Clubs team.
+If you *haven’t* already provided these during affiliation, send them to the Clubs team.
 
-------------------------------------------------------------------------
+---
 
 ## After Setup
 
-Once TUSA has connected your Stripe account:
+TUSA will create and maintain the connection between your club's store and Stripe, once connected:
 
-- Your store can accept payments
+- Your club's store can take payments.
+- Your club’s bank account can receive funds.
+  - Stripe has a standard payout schedule, the money will reach the account in scheduled time.
+- TUSA can provide support with admin access.
 
-- Funds settle directly to your club’s bank account (Stripe’s standard payout schedule)
-
-- TUSA staff have admin access for support purposes
-
-------------------------------------------------------------------------
+---
 
 ## If Payments Stop Working or Stripe Disconnects
 
-If your store stops taking payments, or you’re told the Stripe connection has become disconnected, **do not try to fix or reconnect it yourself** — there’s no login for you to use, and it can only be repaired from the TUSA side.
+**DO NOT try to fix or reconnect it yourself, only TUSA will be able to fix this.**
 
-**Contact the Clubs team at clubs@tusa.utas.edu.au** and TUSA will reconnect or repair it for you. That’s the whole process: report it, and TUSA handles it on your behalf.
+
+This might happen if:
+
+- Your club's store stops taking payments.
+- You are notified about Stripe's disconnection.
+
+Once it happens, you should: 
+
+- **Contact the Clubs team** at **clubs@tusa.utas.edu.au** 
+
+Report the disconnection, and TUSA will handle the rest on your behalf.
+
+---
 
 ## Changing Bank Account Details
 
-If you need to update your club’s bank account or change signatories:
+If you ever need to:
 
-- Go to **Club Admin \> Bank Signatories**
+- Update your club’s bank account.
+- Change signatories.
 
-- Complete and submit the change form
+Please go to your **Club's Main Page**, then navigate with tab **Club Admin \> Bank Signatories**. Complete and submit the Request-to-Change Form, and TUSA staff will update the details for you.
 
-- TUSA staff will update the details
+**Note:** You cannot change bank details in any other way, you **MUST** use the form.
 
-You cannot change bank details directly in Stripe yourself — this must go through the form process.
+---
 
-------------------------------------------------------------------------
-
-## Common Questions[][5]
+## Common Questions
 
 ### Do I need to do this every year?
 
@@ -64,13 +79,13 @@ The Stripe account is connected to the club, not the individual. TUSA staff upda
 
 Stripe charges standard transaction fees on each sale. Check [Stripe’s pricing page](https://stripe.com/au/pricing) for current Australian rates.
 
-### How do I add people to help in my store?
+### How do I add staff to help in my store?
 
-Your club admins and president are automatically store staff. Anyone you promote to **Organiser** in your club group also gets store access automatically.
+- Club admins and president are automatically store staff.
+- Anyone you promote to **Organiser** in your club group also gets store access automatically.
+- For temporary staff, such as concierge or event assistant scanning tickets at an event, go to **Profile \> Store Management \> Team**. See [Managing Store Staff](../7-managing-your-club/3-managing-store-staff.md) for the full guide.
 
-For temporary helpers (e.g., scanning tickets at an event), go to **Profile \> Store Management \> Team**. See [Managing Store Staff] for the full guide.
-
-------------------------------------------------------------------------
+---
 
 ## Need Help?
 
