@@ -1,12 +1,10 @@
 # Managing Membership Rules and Tags
 
-[][1]
-
 As a club admin, you control when memberships expire, what tags are applied to your members, and who can purchase your products. This guide covers both the group-level settings and product-level settings.
 
-------------------------------------------------------------------------
+---
 
-## Overview: Two Places to Manage Tags[][2]
+## Overview: Two Places to Manage Tags
 
 There are two places where you configure membership tags:
 
@@ -17,9 +15,9 @@ There are two places where you configure membership tags:
 
 Both work together to create your membership system.
 
-------------------------------------------------------------------------
+---
 
-## What Are Membership Tags?[][3]
+## What Are Membership Tags?
 
 Membership tags are labels that:
 

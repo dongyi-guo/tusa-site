@@ -6,7 +6,7 @@ If you’re selling physical products (merchandise, not memberships or tickets),
 
 ## Do I Need Shipping?
 
-You will need to setup shipping for your physical products.
+You will need to set up shipping for your physical products.
 
 **No physical products? - Skip this Guide.**
 
