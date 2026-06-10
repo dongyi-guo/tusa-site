@@ -1,6 +1,6 @@
 # Adding Products to Your Club Store
 
-This guide teaches you how to add products to your club’s store from scratch. Whether you’re selling merchandise, memberships, or event tickets – start here.
+This guide will show you how to add products to your club’s store, whether they are merchandise, memberships, or event tickets.
 
 ---
 
@@ -8,9 +8,10 @@ This guide teaches you how to add products to your club’s store from scratch. 
 
 ### What You Need
 
-- You must be logged in as Club President or Club Admin
-- You need access to Store Manager (check your profile tabs)
-- For membership products: Your membership tags must already exist (created during affiliation)
+- A Club President or Club Admin account.
+- The account can access the "Store Management" page.
+  - Located at your account page as a tab.
+- If you are adding membership products, your membership tags must already exist (created during affiliation)
 
 ### Product Types You Can Sell
 
@@ -26,76 +27,92 @@ This guide teaches you how to add products to your club’s store from scratch. 
 
 ### Step 1: Log In
 
-- Go to the TUSA website
-- Log in with your club admin account
-- You should see your avatar in the top corner
+- Go to the TUSA website.
+- Log in with your club admin account.
+- You should see your avatar in the top-right corner.
 
 ### Step 2: Find Store Manager
 
-- Click your avatar or go to your **Profile**
-- Look for the **Store Manager** tab
-- Click it
+- Click your avatar or go to your **Profile**.
+- Click the **Store Management** tab located at the tab bar under your profile picture.
+- You will be redirect to the Store Manager.
 
-**Can’t see Store Manager?** You might not have the right permissions. Contact TUSA if you’re supposed to be a club admin.
+#### Can’t see the Store Management tab?
 
-### Step 3: Confirm You’re in the Right Store
+You might not have the right permissions. Contact TUSA if you’re supposed to be a club admin.
 
-At the top of Store Manager, you’ll see your club’s store name. Make sure it says YOUR club, not someone else’s.
+### Step 3: Confirm it's the Right Store
+
+The top of Store Manager will show your club’s store name in a bar ("Welcome to ...").
+
+**Make sure it says YOUR club, not someone else’s.**
 
 ---
 
-## Adding a Simple Product
+## Adding a Product
 
 ### Step 1: Go to Products
 
 - In Store Manager, click **Products** in the menu
 - Click **Add New Product**
 
+*If you can't see the Add New Product button, please contact TUSA.*
+
 ### Step 2: Enter Basic Details
+
+You are required to provide basic details about your product:
 
 #### Product Name
 
-- Be specific and clear
-- Include size/colour if relevant
-- Example: “Chess Club T-Shirt – Black”
+- Be specific and clear.
+- Include size/colour if relevant.
+- Example: “Chess Club T-Shirt – Black”.
 
 #### Price
 
-- Enter the price in dollars
-- Example: `25` for \$25
+- Enter the price in dollars.
+- Example: `25` for \$25.
 
 #### Product Description
 
 - What is the product?
 - What does the buyer get?
-- Any important details (material, sizing info, etc.)
+- Any important details (material, sizing info, etc.).
 
 ### Step 3: Add Product Image
 
-- Click **Add Image** or the image upload area
-- Upload a clear photo of your product
-- Use good lighting and show the product clearly
+Add images for your product to attract your customers:
 
-#### Tips:
+- Click **Add Image** or the image upload area.
+- Upload a clear photo of your product.
+- Use good lighting and show the product clearly.
 
-- Square images work best
-- Show the product from the front
-- If it’s a shirt, show it laid flat or on a person
+#### Tips
+
+- Square images work best.
+- Show the product from the front.
+- If it’s a shirt, show it laid flat or on a person.
 
 ### Step 4: Set the Category
 
-**This is important!** Categories control where your product appears.
+**This is important! Category defines how your products will be displayed.**
 
 - Find the **Category** section
 - Select the category that fits your product:
 
-| Category        | Use For                                            |
-|-----------------|----------------------------------------------------|
+| Category | Use For |
+| --- | --- |
 | **Merchandise** | Physical items (shirts, stickers, etc.)            |
 | **Membership**  | Club membership products                           |
-| **Tickets**     | Event entry (though usually use the events system) |
+| **Tickets**     | Event entry (although you might use the event's ticketing system) |
 
-**Warning:** Only use existing categories. If you create a new category, it won’t show up anywhere in the system.
+**Warning: ONLY use existing categories.**
+
+If you create a new category, it won’t show up anywhere in the system.
+
+### Step 5: Create Variations (Optional)
+
+If your product comes in different variations, such as clothes with different sizes or colours, you can create variations by [following steps here.](#adding-product-variations-sizes-colours).
 
 ### Step 5: Save Your Product
 
@@ -106,7 +123,7 @@ At the top of Store Manager, you’ll see your club’s store name. Make sure it
 
 ## Adding Product Variations (Sizes, Colours)
 
-If your product comes in different sizes or colours, you need variations.
+If your product comes in different variations, such as clothes with different sizes or colours, you can add them via following steps:
 
 ### Step 1: Create a Variable Product
 
@@ -116,9 +133,9 @@ If your product comes in different sizes or colours, you need variations.
 
 ### Step 2: Set Up Attributes
 
-Attributes are the options (like Size or Colour).
+Attributes are provided as options (like Size or Colour).
 
-#### Adding a Size Attribute:
+#### Adding a Size Attribute
 
 - Go to the **Attributes** section
 - Click **Add Attribute**
@@ -128,7 +145,7 @@ Attributes are the options (like Size or Colour).
 - Check **Used for variations**
 - Click **Save Attributes**
 
-#### Adding a Colour Attribute:
+#### Adding a Colour Attribute
 
 - Click **Add Attribute** again
 - Name it: `Colour`
@@ -189,15 +206,15 @@ If you don’t want to track stock:
 
 ### Where Products Appear
 
-Your products appear in:
+Your products appear in your club’s store page:
 
-- Your club’s store page
-- The “Our Store” tab in your club group
-- Search results (if someone searches for it)
+- Visit your club's main page.
+- Click the “Our Store” tab.
+- Your product will be listed respectively (Events / Merchandise).
 
 ### If Your Product Isn’t Showing
 
-Check these things:
+Troubleshoot your product's settings:
 
 | Issue                 | Solution                 |
 |-----------------------|--------------------------|
@@ -284,4 +301,4 @@ Now that you know how to add basic products:
 
 - **Can’t access Store Manager?** Contact TUSA to verify your admin status
 - **Product not showing?** Check status, category, and price
-- **Technical issues?** Contact clubs@tusa.edu.au
+- **Technical issues?** Contact <clubs@tusa.edu.au>
