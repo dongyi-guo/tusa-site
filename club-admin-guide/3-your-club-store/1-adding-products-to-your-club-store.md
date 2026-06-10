@@ -1,22 +1,18 @@
 # Adding Products to Your Club Store
 
-[][1]
-
 This guide teaches you how to add products to your club’s store from scratch. Whether you’re selling merchandise, memberships, or event tickets – start here.
 
-------------------------------------------------------------------------
+---
 
-## Before You Start[][2]
+## Before You Start
 
-### What You Need[][3]
+### What You Need
 
-\[ \] You must be logged in as Club President or Club Admin
+- You must be logged in as Club President or Club Admin
+- You need access to Store Manager (check your profile tabs)
+- For membership products: Your membership tags must already exist (created during affiliation)
 
-\[ \] You need access to Store Manager (check your profile tabs)
-
-\[ \] For membership products: Your membership tags must already exist (created during affiliation)
-
-### Product Types You Can Sell[][4]
+### Product Types You Can Sell
 
 | Type              | Examples                                 | Needs Shipping? |
 |-------------------|------------------------------------------|-----------------|
@@ -24,89 +20,74 @@ This guide teaches you how to add products to your club’s store from scratch. 
 | **Memberships**   | Annual membership, multi-year membership | No (digital)    |
 | **Event Tickets** | Event entry, workshop registration       | No (digital)    |
 
-------------------------------------------------------------------------
+---
 
-## Getting to Store Manager[][5]
+## Getting to Store Manager
 
-### Step 1: Log In[][6]
+### Step 1: Log In
 
-Go to the TUSA website
+- Go to the TUSA website
+- Log in with your club admin account
+- You should see your avatar in the top corner
 
-Log in with your club admin account
+### Step 2: Find Store Manager
 
-You should see your avatar in the top corner
-
-### Step 2: Find Store Manager[][7]
-
-Click your avatar or go to your **Profile**
-
-Look for the **Store Manager** tab
-
-Click it
+- Click your avatar or go to your **Profile**
+- Look for the **Store Manager** tab
+- Click it
 
 **Can’t see Store Manager?** You might not have the right permissions. Contact TUSA if you’re supposed to be a club admin.
 
-### Step 3: Confirm You’re in the Right Store[][8]
+### Step 3: Confirm You’re in the Right Store
 
 At the top of Store Manager, you’ll see your club’s store name. Make sure it says YOUR club, not someone else’s.
 
-------------------------------------------------------------------------
+---
 
-## Adding a Simple Product[][9]
+## Adding a Simple Product
 
-### Step 1: Go to Products[][10]
+### Step 1: Go to Products
 
-In Store Manager, click **Products** in the menu
+- In Store Manager, click **Products** in the menu
+- Click **Add New Product**
 
-Click **Add New Product**
+### Step 2: Enter Basic Details
 
-### Step 2: Enter Basic Details[][11]
+#### Product Name
 
-**Product Name**
+- Be specific and clear
+- Include size/colour if relevant
+- Example: “Chess Club T-Shirt – Black”
 
-Be specific and clear
+#### Price
 
-Include size/colour if relevant
+- Enter the price in dollars
+- Example: `25` for \$25
 
-Example: “Chess Club T-Shirt – Black”
+#### Product Description
 
-**Price**
+- What is the product?
+- What does the buyer get?
+- Any important details (material, sizing info, etc.)
 
-Enter the price in dollars
+### Step 3: Add Product Image
 
-Example: `25` for \$25
+- Click **Add Image** or the image upload area
+- Upload a clear photo of your product
+- Use good lighting and show the product clearly
 
-**Product Description**
+#### Tips:
 
-What is the product?
+- Square images work best
+- Show the product from the front
+- If it’s a shirt, show it laid flat or on a person
 
-What does the buyer get?
-
-Any important details (material, sizing info, etc.)
-
-### Step 3: Add Product Image[][12]
-
-Click **Add Image** or the image upload area
-
-Upload a clear photo of your product
-
-Use good lighting and show the product clearly
-
-**Tips:**
-
-Square images work best
-
-Show the product from the front
-
-If it’s a shirt, show it laid flat or on a person
-
-### Step 4: Set the Category[][13]
+### Step 4: Set the Category
 
 **This is important!** Categories control where your product appears.
 
-Find the **Category** section
-
-Select the category that fits your product:
+- Find the **Category** section
+- Select the category that fits your product:
 
 | Category        | Use For                                            |
 |-----------------|----------------------------------------------------|
@@ -116,67 +97,52 @@ Select the category that fits your product:
 
 **Warning:** Only use existing categories. If you create a new category, it won’t show up anywhere in the system.
 
-### Step 5: Save Your Product[][14]
+### Step 5: Save Your Product
 
-Set status to **Published** (or Draft if not ready)
+- Set status to **Published** (or Draft if not ready)
+- Click **Save Product**
 
-Click **Save Product**
+---
 
-------------------------------------------------------------------------
-
-## Adding Product Variations (Sizes, Colours)[][15]
+## Adding Product Variations (Sizes, Colours)
 
 If your product comes in different sizes or colours, you need variations.
 
-### Step 1: Create a Variable Product[][16]
+### Step 1: Create a Variable Product
 
-When creating/editing a product
+- When creating/editing a product
+- Find **Product Type** dropdown
+- Select **Variable Product**
 
-Find **Product Type** dropdown
-
-Select **Variable Product**
-
-### Step 2: Set Up Attributes[][17]
+### Step 2: Set Up Attributes
 
 Attributes are the options (like Size or Colour).
 
-**Adding a Size Attribute:**
+#### Adding a Size Attribute:
 
-Go to the **Attributes** section
+- Go to the **Attributes** section
+- Click **Add Attribute**
+- Name it: `Size`
+- Enter values: `Small | Medium | Large | XL`
+  - Separate each option with a `|` pipe character
+- Check **Used for variations**
+- Click **Save Attributes**
 
-Click **Add Attribute**
+#### Adding a Colour Attribute:
 
-Name it: `Size`
+- Click **Add Attribute** again
+- Name it: `Colour`
+- Enter values: `Black | White | Navy`
+- Check **Used for variations**
+- Click **Save Attributes**
 
-Enter values: `Small | Medium | Large | XL`
+### Step 3: Generate Variations
 
-– Separate each option with a `|` pipe character
+- Go to the **Variations** section
+- Click **Generate Variations** or **Create variations from all attributes**
+- The system creates all combinations (Small Black, Small White, Medium Black, etc.)
 
-Check **Used for variations**
-
-Click **Save Attributes**
-
-**Adding a Colour Attribute:**
-
-Click **Add Attribute** again
-
-Name it: `Colour`
-
-Enter values: `Black | White | Navy`
-
-Check **Used for variations**
-
-Click **Save Attributes**
-
-### Step 3: Generate Variations[][18]
-
-Go to the **Variations** section
-
-Click **Generate Variations** or **Create variations from all attributes**
-
-The system creates all combinations (Small Black, Small White, Medium Black, etc.)
-
-### Step 4: Set Variation Details[][19]
+### Step 4: Set Variation Details
 
 For each variation, you need to set:
 
@@ -188,57 +154,48 @@ For each variation, you need to set:
 
 **Click on each variation** to expand it and enter the details.
 
-### Step 5: Save[][20]
+### Step 5: Save
 
 Click **Save Product** when all variations are configured.
 
-------------------------------------------------------------------------
+---
 
-## Stock Management[][21]
+## Stock Management
 
-### Setting Stock Levels[][22]
+### Setting Stock Levels
 
-In the product editor, find **Inventory** section
+- In the product editor, find **Inventory** section
+- Check **Manage Stock**
+- Enter **Stock Quantity** (how many you have)
+- Set **Low Stock Threshold** (optional – get warned when running low)
 
-Check **Manage Stock**
+### What Happens When Stock Runs Out
 
-Enter **Stock Quantity** (how many you have)
+- Product shows “Out of Stock”
+- Customers can’t add it to cart
+- You’ll need to update the stock when you get more
 
-Set **Low Stock Threshold** (optional – get warned when running low)
-
-### What Happens When Stock Runs Out[][23]
-
-Product shows “Out of Stock”
-
-Customers can’t add it to cart
-
-You’ll need to update the stock when you get more
-
-### No Stock Tracking[][24]
+### No Stock Tracking
 
 If you don’t want to track stock:
 
-Leave **Manage Stock** unchecked
+- Leave **Manage Stock** unchecked
+- Set **Stock Status** to “In Stock”
+- Product will always be available
 
-Set **Stock Status** to “In Stock”
+---
 
-Product will always be available
+## Making Products Visible
 
-------------------------------------------------------------------------
-
-## Making Products Visible[][25]
-
-### Where Products Appear[][26]
+### Where Products Appear
 
 Your products appear in:
 
-Your club’s store page
+- Your club’s store page
+- The “Our Store” tab in your club group
+- Search results (if someone searches for it)
 
-The “Our Store” tab in your club group
-
-Search results (if someone searches for it)
-
-### If Your Product Isn’t Showing[][27]
+### If Your Product Isn’t Showing
 
 Check these things:
 
@@ -249,41 +206,35 @@ Check these things:
 | Price is \$0 or empty | Enter a valid price      |
 | No image              | Add a product image      |
 
-------------------------------------------------------------------------
+---
 
-## Editing Products[][28]
+## Editing Products
 
-### Finding Your Product[][29]
+### Finding Your Product
 
-Go to Store Manager → Products
+- Go to Store Manager → Products
+- Find your product in the list
+- Click **Edit**
 
-Find your product in the list
+### Making Changes
 
-Click **Edit**
+- Update any field you need to change
+- Click **Save Product** when done
+- Changes are live immediately (if product is Published)
 
-### Making Changes[][30]
+### Deleting Products
 
-Update any field you need to change
-
-Click **Save Product** when done
-
-Changes are live immediately (if product is Published)
-
-### Deleting Products[][31]
-
-Find the product
-
-Click **Delete** or move to Trash
-
-Confirm deletion
+- Find the product
+- Click **Delete** or move to Trash
+- Confirm deletion
 
 **Warning:** Deleting is permanent. Consider setting to Draft instead if you might need it later.
 
-------------------------------------------------------------------------
+---
 
-## Product Images – Best Practices[][32]
+## Product Images – Best Practices
 
-### What Makes a Good Product Image[][33]
+### What Makes a Good Product Image
 
 | Do                    | Don’t                             |
 |-----------------------|-----------------------------------|
@@ -292,27 +243,22 @@ Confirm deletion
 | Consistent style      | Different styles for each product |
 | Square format         | Odd dimensions                    |
 
-### Recommended Sizes[][34]
+### Recommended Sizes
 
-**Main image:** 800×800 pixels minimum
+- **Main image:** 800×800 pixels minimum
+- **Gallery images:** Same size for consistency
+- **File format:** JPG or PNG
+- **File size:** Under 2MB
 
-**Gallery images:** Same size for consistency
+### Adding Multiple Images
 
-**File format:** JPG or PNG
+- Add main image as the **Product Image**
+- Add additional angles in the **Product Gallery**
+- Gallery images show when customers click through
 
-**File size:** Under 2MB
+---
 
-### Adding Multiple Images[][35]
-
-Add main image as the **Product Image**
-
-Add additional angles in the **Product Gallery**
-
-Gallery images show when customers click through
-
-------------------------------------------------------------------------
-
-## Common Mistakes[][36]
+## Common Mistakes
 
 | Mistake | Why It’s Bad | How to Fix |
 |----|----|----|
@@ -322,24 +268,20 @@ Gallery images show when customers click through
 | Variations without prices | Customers can’t select options | Set price for each variation |
 | Creating new categories | They won’t work in the system | Use existing categories only |
 
-------------------------------------------------------------------------
+---
 
-## Next Steps[][37]
+## Next Steps
 
 Now that you know how to add basic products:
 
-**[Creating Membership Products]** – Special settings for memberships
+- **Creating Membership Products** – Special settings for memberships
+- **Setting Up Shipping** – Required for physical products
+- **Creating Events** – For event tickets
 
-**[Setting Up Shipping]** – Required for physical products
+---
 
-**[Creating Events]** – For event tickets
+## Need Help?
 
-------------------------------------------------------------------------
-
-## Need Help?[][38]
-
-**Can’t access Store Manager?** Contact TUSA to verify your admin status
-
-**Product not showing?** Check status, category, and price
-
-**Technical issues?** Contact clubs@tusa.edu.au
+- **Can’t access Store Manager?** Contact TUSA to verify your admin status
+- **Product not showing?** Check status, category, and price
+- **Technical issues?** Contact clubs@tusa.edu.au
