@@ -291,9 +291,9 @@ Troubleshoot your product's settings:
 
 Now that you know how to add basic products:
 
-- **Creating Membership Products** – Special settings for memberships
-- **Setting Up Shipping** – Required for physical products
-- **Creating Events** – For event tickets
+- [**Creating Membership Products**](./2-creating-membership-products.md) – Special settings for memberships
+- [**Setting Up Shipping**](./3-setting-up-shipping-for-your-store.md) – Required for physical products
+- [**Creating Events**](../4-events-&-activities/2-creating-events.md) – For event tickets
 
 ---
 
