@@ -12,20 +12,23 @@ This guide covers both the group-level settings and product-level settings.
 
 ## Overview: Two Places to Manage Tags
 
-There are two places where you configure membership tags:
+You need to config your tags to manage:
 
-| Location | What It Controls |
-|----|----|
-| **Membership Rules + Tags** (Group settings) | Which tags grant access to your club group |
-| **Product Settings** (When creating products) | Which tags are applied on purchase, who can buy |
+- Membership Rules
+- Products
 
-Both work together to create your membership system.
+Both work together to create your membership system, you can find the place to configure them as table below:
+
+| Item | Location | What It Controls |
+| ---- | ---- | ---- |
+| **Membership Rules** | Your Club's Page > Club Admin > Membership rules and tags | Which tags grant access to your club group |
+| **Products** | Product Settings (When creating or modifying products) | Which tags are applied on purchase, who can buy |
 
 ---
 
-## What Are Membership Tags?
+## What can Membership Tags do?
 
-Membership tags are labels that:
+Membership tags can:
 
 - **Grant access** to your club’s private members-only group
 - **Control** who can see member-only content and deals
@@ -44,7 +47,7 @@ When someone purchases a membership from your club store, they receive a tag. Th
 
 **Who Can Access:**
 
-- Club Presidents (organizers)
+- Club Presidents (organisers)
 - Club Admins (group admins)
 - TUSA Staff
 
