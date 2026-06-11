@@ -18,21 +18,22 @@ You will need to set up shipping for your physical products.
 
 ---
 
-## How Shipping Zones Work
+## Shipping Zones
 
-### The Basics
-
-TUSA has set up **shipping zones** – geographic regions where shipping can be offered. You don’t create zones, but you set your **shipping rates** within them.
+Shipping zones are geographic regions where shipping can be offered **set up and defined by TUSA**. You cannot create zones or modify zone's settings, but you will set your **shipping rates** within them.
 
 ### Available Zones
 
-| Zone               | Who It Covers                                       |
-|--------------------|-----------------------------------------------------|
-| **Sandy Bay Area** | Postcodes 7001-7007 (Sandy Bay campus area)         |
-| **Rozelle**        | Postcodes 2035-2040 (Sydney campus area)            |
-| **Tasmania**       | All of Tasmania                                     |
-| **Australia**      | All of Australia                                    |
-| **Everywhere**     | Rest of world (blocked – no international shipping) |
+Available zones are listed below:
+
+| Zone | Who It Covers |
+| --- | --- |
+| **Sandy Bay Area** | Postcodes 7001-7007 (Sandy Bay campus area) |
+| **Rozelle** | Postcodes 2035-2040 (Sydney campus area) |
+| **Tasmania** | All of Tasmania |
+| **Australia** | All of Australia |
+
+**Currently, International Shipping is NOT allowed.**
 
 ### Multiple Zone Matching
 
@@ -42,7 +43,7 @@ A customer can match **multiple zones**. For example, someone at Sandy Bay (post
 - Tasmania ✓
 - Australia ✓
 
-They see shipping options from **all matching zones** and choose what suits them.
+The customer will see shipping options from **all matching zones** and choose what suits them.
 
 ---
 
@@ -50,7 +51,9 @@ They see shipping options from **all matching zones** and choose what suits them
 
 ### Step 1: Go to Shipping Settings
 
-- Go to **Store Manager**
+You can configure shipping settings by:
+
+- Go to **Store Manager** from your account profile page via "Store Management"
 - Click **Settings**
 - Click **Shipping** tab
 
@@ -80,7 +83,7 @@ If customers can collect from your club's room or campus:
 
 ---
 
-## Recommended Setup for Most Clubs
+## Recommended Configuration for Most Clubs
 
 For clubs selling merchandise occasionally:
 
@@ -89,37 +92,41 @@ For clubs selling merchandise occasionally:
 | Australia | Flat Rate    | \$15.50 | Covers postage anywhere in Aus   |
 | Tasmania  | Local Pickup | Free    | Collection from campus/club room |
 
-This simple setup works for most situations.
+This configuration works for most situations.
 
 ---
 
-## What Customers See
+## What Customers Will See
 
 When a customer checks out with a physical product:
 
-- They enter their address
-- System matches their address to zones
-- They see available shipping options
-- They choose one
-- Shipping cost is added to their order
+- They will be prompted to provide their address
+- The address will be automatically matched to zones
+- They will see all available shipping options
+- Shipping cost will be added to their order automatically upon selection
 
 ### Example – Sandy Bay customer
 
-- Sees: Local Pickup (free), Flat Rate (\$15.50)
-- Chooses: Local Pickup
-- Pays: Product price only
+With the recommended configuration:
+
+- User will see two shipping options:
+  - "Local Pickup" (free)
+  - "Flat Rate" (\$15.50)
+- If the user choose "Local Pickup", they will only need to pay the product price only.
 
 ### Example – Melbourne customer
 
-- Sees: Flat Rate (\$15.50) only
-- No local pickup option (too far)
-- Pays: Product price + \$15.50
+With the recommended configuration:
+
+- User will only see:
+  - "Flat Rate" (\$15.50)
+- The user will have to pay product price + \$15.50
 
 ---
 
 ## Shipping Statuses
 
-When you ship an order, you update the status:
+You will need to update order's shipping status as order proceeds:
 
 | Status               | When to Use                         |
 |----------------------|-------------------------------------|
@@ -131,7 +138,9 @@ When you ship an order, you update the status:
 
 ### Updating Order Status
 
-- Go to Store Manager → Orders
+To update order status, while at Store Manager:
+
+- Go to "Orders"
 - Find the order
 - Click to open it
 - Change the status
@@ -145,33 +154,37 @@ When you ship an order, you update the status:
 
 Possible causes could be:
 
-- You haven’t set up any shipping methods
-- Customer is international (blocked)
 - Product is physical but shipping not configured
+- You haven’t set up any shipping methods
+- Customer's address is international (blocked)
 
 **Fix:** Add at least Flat Rate to Australia zone.
 
 ### “Customer sees too many options”
 
-This is normal! If they match multiple zones, they see all options. They choose what works for them.
+**This is intended.** If they match multiple zones, they see all options. They choose what works for them.
 
 ### “Can we ship internationally?”
 
-No. International shipping is blocked at the platform level.
+NO. International shipping is blocked at the platform level.
 
 ### “What should I charge for shipping?”
 
 #### Recommendations
 
-**Small items** (stickers, badges): \$5-10
-
-**Medium items** (t-shirts): \$12-15
-
-**Large items** (hoodies): \$15-20
+| Item Size | Suggested Price |
+| --- | --- |
+| **Small items** (stickers, badges) | \$5-10 |
+| **Medium items** (t-shirts) | \$12-15 |
+| **Large items** (hoodies) | \$15-20 |
 
 **Or use flat rate:** \$15.50 covers most things
 
-Consider: Australia Post costs + packaging + your time
+You need to consider:
+
+- Australia Post costs
+- Packaging
+- Time consumed
 
 ### “Can I offer free shipping?”
 
@@ -179,7 +192,9 @@ Yes! Set Flat Rate to \$0. Or only offer Local Pickup (which is usually free).
 
 ### “What if I only want local pickup?”
 
-Only add Local Pickup method to Tasmania (or relevant) zone. Don’t add Flat Rate. Customers outside Tasmania won’t be able to order.
+Only add Local Pickup method to Tasmania (or relevant) zone. Don’t add Flat Rate. 
+
+However, customers outside Tasmania won’t be able to order.
 
 ---
 
