@@ -12,12 +12,12 @@ This guide covers both the group-level settings and product-level settings.
 
 ## Overview: Two Places to Manage Tags
 
-You need to config your tags to manage:
+You need to configure your tags to manage:
 
 - Membership Rules
 - Products
 
-Both work together to create your membership system, you can find the place to configure them as table below:
+Both work together to create your membership system, you can find the place to make the configuration as table below:
 
 | Item | Location | What It Controls |
 | ---- | ---- | ---- |
@@ -41,7 +41,7 @@ When someone purchases a membership from your club store, they receive a tag. Th
 
 ## Accessing Membership Rules
 
-**Path:** Club Dashboard → Club Admin → Membership Rules + Tags
+**Path:** Your Club's Page > Club Admin > Membership Rules + Tags
 
 **URL Pattern:** `https://tusa-dev.its.utas.edu.au/clubs/clubs-index/{your-club}/rules/`
 
@@ -76,7 +76,7 @@ This means:
 
 - Members with this tag can access the club group
 - On 1 January 2027, the tag automatically expires
-- Members lose access until they renew
+- Members lose access unless renewal (with next year's tag assigned to their account) 
 
 ### Example: Multi-Year Setup
 
@@ -124,7 +124,8 @@ Tag expiry is fully automatic. You don’t need to manually remove old tags or u
 
 At the start of a new membership year:
 
-- Go to Membership Rules + Tags
+- Visit Membership Rules & Tags
+  - Your Club's Page > Club Admin > Membership Rules + Tags
 - Add the new year tag (e.g., “Your Club 2027”)
 - Set expiry to end of that year (31/12/2027)
 - Click Save
