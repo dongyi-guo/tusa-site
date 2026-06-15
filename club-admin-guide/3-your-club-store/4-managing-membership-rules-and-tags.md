@@ -10,23 +10,23 @@ This guide covers both the group-level settings and product-level settings.
 
 ---
 
-## Overview: Two Places to Manage Tags
+## Manage Your Tags
 
 You need to configure your tags to manage:
 
 - Membership Rules
-- Products
+- Membership Products
 
 Both work together to create your membership system, you can find the place to make the configuration as table below:
 
 | Item | Location | What It Controls |
 | ---- | ---- | ---- |
 | **Membership Rules** | Your Club's Page > Club Admin > Membership rules and tags | Which tags grant access to your club group |
-| **Products** | Product Settings (When creating or modifying products) | Which tags are applied on purchase, who can buy |
+| **Membership Products** | Product Settings (When creating or modifying products) | Which tags are applied on purchase, who can buy |
 
 ---
 
-## What can Membership Tags do?
+## Part 1: Membership Rules + Tags
 
 Membership tags can:
 
@@ -39,7 +39,9 @@ When someone purchases a membership from your club store, they receive a tag. Th
 
 ---
 
-## Accessing Membership Rules
+### Accessing Membership Rules + Tags
+
+You can manage your membership rules and tags via **a form under your club's page**:
 
 **Path:** Your Club's Page > Club Admin > Membership Rules + Tags
 
@@ -53,20 +55,18 @@ When someone purchases a membership from your club store, they receive a tag. Th
 
 ---
 
-## How the Form Works
-
 ### Setting Up Tags
 
-You can configure up to **5 tag-expiry pairs** for your club:
+With the form, you can configure up to **5 tag-expiry pairs** for your club:
 
 | Field           | What It Does                                        |
 |-----------------|-----------------------------------------------------|
 | **Tag**         | Select the membership tag (e.g., “Chess Club 2026”) |
 | **Expiry Date** | When this tag should expire (DD/MM/YYYY format)     |
 
-### Example: Annual Membership
+#### Example: Annual Membership
 
-For a typical annual membership:
+Let's say Chess Club has a typical annual membership, and its renewal happens on December 31st:
 
 | Tag             | Expiry     |
 |-----------------|------------|
@@ -78,9 +78,9 @@ This means:
 - On 1 January 2027, the tag automatically expires
 - Members lose access unless renewal (with next year's tag assigned to their account) 
 
-### Example: Multi-Year Setup
+#### Example: Multi-Year Setup
 
-For clubs that want to set up multiple years in advance:
+Let's say Chess Club allows current members to subscribe for coming years:
 
 | Tag             | Expiry     |
 |-----------------|------------|
@@ -88,13 +88,15 @@ For clubs that want to set up multiple years in advance:
 | Chess Club 2027 | 31/12/2027 |
 | Chess Club 2028 | 31/12/2028 |
 
-This allows members to purchase future year memberships now, with each expiring appropriately.
+This allows members to purchase future year memberships with each membership activating and expiring appropriately.
 
 ---
 
-## What Happens When Tags Expire
+### Tag Expiry
 
-### Automatic Processing
+In practice, we recommend all tags should have a maximum five-year expiry to maintain updated and proper access control for club admins.
+
+#### Automatic Processing
 
 A system runs every night at 12:05 AM that:
 
@@ -104,7 +106,7 @@ A system runs every night at 12:05 AM that:
 - **Logs** the expiry for audit purposes
 - **Notifies** TUSA admin of any expiries
 
-### Member Impact
+#### Member Impact
 
 When a member’s tag expires:
 
@@ -112,15 +114,17 @@ When a member’s tag expires:
 - They **cannot see** member-only deals
 - They **need to renew** their membership to regain access
 
-### You Don’t Need to Do Anything
+#### You Don’t Need to Do Anything
 
 Tag expiry is fully automatic. You don’t need to manually remove old tags or update settings when the year ends.
 
 ---
 
-## Common Scenarios
+### Common Scenarios
 
-### Starting a New Year
+You may step into scenarios below regularly:
+
+#### Starting a New Year
 
 At the start of a new membership year:
 
@@ -132,7 +136,7 @@ At the start of a new membership year:
 
 Old expired tags are automatically cleaned up.
 
-### Removing All Tags
+#### Removing All Tags
 
 If you need to remove all membership tags:
 
@@ -141,9 +145,9 @@ If you need to remove all membership tags:
 
 This clears all tag requirements from your club.
 
-### Replacing an Expired Tag
+#### Replacing an Expired Tag
 
-If your current tag has expired and you need to add a new one:
+If your current tag has expired, and you need to add a new one:
 
 - Add the new year tag in slot 1
 - Set “Remove Tag” for other slots (clears old settings)
@@ -151,24 +155,26 @@ If your current tag has expired and you need to add a new one:
 
 ---
 
-## Best Practices
+### Best Practices
 
-### Tag Naming Convention
+To maximum your business performance, we recommend some best practices while setting up your tags:
+
+#### Naming Convention
 
 Use a consistent naming format:
 
 - `Your Club Name YYYY` (e.g., “Chess Club 2026”)
 - This matches the membership tags created during affiliation
 
-### Expiry Dates
+#### Expiry Dates
 
 - Set expiry to **end of the membership period** (e.g., 31/12/2026)
 - Tags expire at **11:59 PM** on the expiry date
 - Processing runs at **12:05 AM** the next day
 
-### Planning Ahead
+#### Planning Ahead
 
-You can set up multiple years in advance:
+You can set up multiple years in advance so:
 
 - Members can purchase early
 - Tags activate immediately but expire on schedule
@@ -176,7 +182,7 @@ You can set up multiple years in advance:
 
 ---
 
-## Understanding the Audit Log
+### Understanding the Audit Log
 
 Every tag change is logged for your club:
 
@@ -191,9 +197,11 @@ TUSA staff can access these logs if issues arise.
 
 ---
 
-## Troubleshooting
+### Troubleshooting
 
-### “I saved tags but members can’t access the group”
+There might be some tricky scenarios:
+
+#### Members can’t access the group even tag's saved
 
 **Check:**
 
@@ -203,14 +211,14 @@ TUSA staff can access these logs if issues arise.
 
 If everything looks right and access still isn’t working, see [Reporting an Issue].
 
-### “Tags expired but members still have access”
+#### Members can still access even tag's expired
 
-**This shouldn’t happen** — an automated daily process removes expired tags. If you notice this:
+**This shouldn’t happen**, an automated daily process removes expired tags. If you notice this:
 
 - Wait 24 hours (the system runs once daily)
 - If still not fixed, see [Reporting an Issue]
 
-### “I can’t see the Membership Rules tab”
+#### I can’t see the Membership Rules tab
 
 **Check:**
 
@@ -220,11 +228,13 @@ If everything looks right and access still isn’t working, see [Reporting an Is
 
 ---
 
-## Part 2: Product Settings (When Creating Products)
+## Part 2: Membership Product Settings
 
 When you create a **membership product** in your store, you get additional tag controls.
 
 ### Accessing Product Tag Settings
+
+You can manage tags for each product:
 
 - Go to Store Manager → Products
 - Create or edit a product
@@ -233,9 +243,7 @@ When you create a **membership product** in your store, you get additional tag c
 
 ### Product Expiry: Auto-Retire Products
 
-**Problem:** You don’t want to accidentally sell “2025 Membership” in 2026.
-
-**Solution:** Set a product expiry date.
+You don’t want to accidentally sell “2025 Membership” in 2026. To avoid this, set a product expiry date for the tag.
 
 | Setting              | What It Does                                |
 |----------------------|---------------------------------------------|
@@ -244,7 +252,7 @@ When you create a **membership product** in your store, you get additional tag c
 
 **Best Practice:** Set expiry to December 31 of the membership year. Adventure clubs might choose end of January to allow for summer trips.
 
-### Apply Tags on Purchase
+### Tag Application / Membership Activation Upon Purchasing
 
 When someone buys this product, give them membership tags:
 
@@ -255,10 +263,12 @@ When someone buys this product, give them membership tags:
 
 #### Example: Multi-Year Membership
 
+Your club can manage multi-year membership with multiple tags with respectively expiries:
+
 - Apply Tags: “Chess Club 2026”, “Chess Club 2027”
 - Purchaser gets access for both years
 
-### Restrict Who Can Purchase
+### Restrictions via Tags
 
 Control who can see and buy your products:
 
@@ -272,7 +282,7 @@ User must have **at least one** of these tags to see the product.
 | Students only        | “Student”                           |
 | Current members only | Your club’s membership tag          |
 
-**Example:** A “2026 Renewal” product that only 2025 members can see.
+**Example:** You can have a “2026 Renewal” product that only 2025 members can see.
 
 #### Excluded Tags (Not)
 
@@ -283,7 +293,7 @@ User must **NOT have** these tags to see the product.
 | Exclude juniors      | “Junior”                    |
 | Exclude non-students | (use Required Tags instead) |
 
-**Example – Adventure Club:** An event where insurance doesn’t cover under-18s:
+**Example:** There is an event where insurance doesn’t cover under-18s:
 
 - Excluded Tags: “Junior”
 - Juniors cannot see or purchase tickets
@@ -297,25 +307,25 @@ You can set restrictions at two levels:
 | **Product level**   | Entire product visibility       |
 | **Variation level** | Individual variation visibility |
 
-**Example – Student vs Non-Student Pricing:**
+#### Example – Student vs Non-Student Pricing:
+
+Let's say Chess Club has their membership's price varies depending on whether buyer is a student.
 
 **Product:** “Chess Club 2026 Membership”
 
-Apply Tags: “Chess Club 2026” (everyone gets this)
+- Apply Tags: “Chess Club 2026” (every member this year can see it)
 
 **Variation 1:** “Student – \$20”
 
-Required Tags: “Student”
-
-Only students see this option
+- Required Tags: “Student”
+- Only students see this option
 
 **Variation 2:** “Non-Student – \$40”
 
-Excluded Tags: “Student”
+- Excluded Tags: “Student”
+- Only non-students see this option
 
-Only non-students see this option
-
-Result: Each person sees only the price tier that applies to them.
+The settings above will ensure each person can only see the price tier that applies to them.
 
 ---
 
@@ -323,32 +333,39 @@ Result: Each person sees only the price tier that applies to them.
 
 ### Scenario 1: Simple Annual Membership
 
-#### Group Settings (Membership Rules + Tags)
+Assume:
+
+- Your club's membership renews every year
+- Everyone can purchase current year's membership
+- Everyone who does not renew will lose their membership automatically
+- Current year's membership product will disappear automatically when it's no longer eligible (this year has passed)
+
+Let's say it's the Chess Club again, the **Group Settings (Membership Rules + Tags)** should be:
 
 - Tag: “Chess Club 2026”
 - Expiry: 31/12/2026
 
-#### Product Settings
+And the **Product Settings** should be:
 
 - Category: Membership
 - Expiry: 31/12/2026
 - Apply Tags: “Chess Club 2026”
 - No restrictions
 
-**Result:** Anyone can buy, gets tag, tag expires end of year, product auto-retires.
+Now anyone can buy, gets tag, tag expires end of year, product auto-retires.
 
 ### Scenario 2: Members-Only Renewal
 
-#### Product Settings:
+#### Product Settings
+
+Let's say Chess Club only wants 2026 members can see and purchase the 2027 membership product right now (renewal).
 
 - Apply Tags: “Chess Club 2027”
 - Required Tags: “Chess Club 2026”
 
-**Result:** Only 2026 members can see and purchase the 2027 renewal.
-
 ### Scenario 3: Age-Restricted Event
 
-#### Product Settings (Event Ticket)
+If an event cannot accommodate underage customers due to reasons such as insurance:
 
 - Excluded Tags: “Junior”
 
@@ -356,19 +373,19 @@ Result: Each person sees only the price tier that applies to them.
 
 ### Scenario 4: Student-Only Discount Variation
 
-#### Product Level:
+**Product:**
 
-- Apply Tags: “Your Club 2026”
+- Apply your product tags, such as: “Your Club 2026”
 
-#### Variation 1 – Student \$30
+**Variation 1 – Student \$30**
 
 - Required Tags: “Student”
 
-#### Variation 2 – General \$50
+**Variation 2 – General \$50**
 
 - Excluded Tags: “Student”
 
-**Result:** Students only see the \$30 option, non-students only see \$50.
+This will make student members only see the \$30 option, and non-students only see \$50.
 
 ---
 
