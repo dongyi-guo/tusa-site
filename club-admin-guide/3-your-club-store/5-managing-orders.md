@@ -13,11 +13,10 @@ This guide covers viewing and managing orders for your club store.
 - Click **Dashboard**
 - Click **Orders** tab
 
-**Direct URL:** `https://tusa-dev.its.utas.edu.au/dashboard/orders/`
+**Direct URL:** `https://tusa-dev.its.utas.edu.au/store-manager/new/#orders`
 
-### Check Your Store First
-
-Before managing orders, check the **welcome bar** at the top of the dashboard. It shows which store you’re managing. Make sure it’s your club’s store.
+> [!CAUTION] Check If It's Your Store
+> Before managing orders, check the **welcome bar** at the top of the dashboard. It shows which store you’re managing. Make sure it’s your club’s store.
 
 ---
 
@@ -26,6 +25,8 @@ Before managing orders, check the **welcome bar** at the top of the dashboard. I
 Orders move through different statuses as they’re processed. TUSA uses both standard WooCommerce statuses and some custom ones.
 
 ### Standard Statuses
+
+An ongoing order (undrafted) can have seven standard statuses:
 
 | Status | What It Means |
 | ---- | ---- |
@@ -55,7 +56,7 @@ TUSA has added these custom statuses for specific scenarios:
 
 ### Order List
 
-The Orders page shows all orders for your store:
+The Orders page shows all orders for your store with information below:
 
 | Column      | What It Shows                        |
 |-------------|--------------------------------------|
@@ -67,7 +68,8 @@ The Orders page shows all orders for your store:
 
 ### Filtering Orders
 
-- Use the filter options to find specific orders:
+You can use the filter options to find specific orders:
+
 - By status (Processing, Completed, etc.)
 - By date range
 - By customer name or email
@@ -86,16 +88,16 @@ Click an order number to see:
 
 ## Processing Orders
 
-### Typical Workflow
+Depends on the type of orders and products/memberships, the order processing will also change accordingly.
 
-#### For Pickup Orders
+### For Pickup Orders
 
 - Order comes in as **Processing**
 - Prepare the order
 - Change status to **Ready for Pickup**
 - Customer arrives → change to **Pickedup**
 
-#### For Shipped Orders
+### For Shipped Orders
 
 - Order comes in as **Processing**
 - Pack and post the order
@@ -103,30 +105,29 @@ Click an order number to see:
 - Optionally add tracking info in order notes
 - When delivered → change to **Delivered** (or let customer confirm)
 
-#### For Digital Products/Memberships
+### For Digital Products/Memberships
 
 - Order comes in as **Processing**
 - Membership tags applied automatically
 - Change status to **Completed**
 
-### Changing Order Status
+> [!TIP] Steps To Change the Status
+> 
+> - Open the order
+> - Find the **Status** dropdown
+> - Select the new status
+> - Click **Update**
 
-- Open the order
-- Find the **Status** dropdown
-- Select the new status
-- Click **Update**
 
-Or from the orders list, use the quick action buttons if available.
+Or use the **quick action button** if available from the orders list,
 
-### Adding Order Notes
+### Order Notes
 
-Use order notes to:
+It is always a good practice to add order notes, you can use order notes to:
 
 - Record tracking numbers
 - Note customer communication
 - Log any issues or special requests
-
-#### Type of Notes
 
 There are two types of notes:
 
