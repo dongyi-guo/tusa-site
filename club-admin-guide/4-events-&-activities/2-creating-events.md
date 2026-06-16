@@ -1,110 +1,87 @@
 # Creating Events
 
-[][1]
-
 This guide explains how to create events for your club. You’ll need to create a draft event before you can submit an event application.
 
-------------------------------------------------------------------------
+---
 
-## The Process Overview[][2]
+## The Process Overview
 
-    1. Create draft event (this guide)
-           ↓
-    Submit event application (see Event Applications guide)
-           ↓
-    Application approved by TUSA
-           ↓
-    Event automatically published and visible to students
+1. Create draft event (this guide)
+2. Submit event application (see Event Applications guide)
+3. Application approved by TUSA
+4. Event automatically published and visible to students
 
 **Important:** Your event won’t appear in the events grid until your event application is approved. Creating the event is just the first step.
 
-------------------------------------------------------------------------
+---
 
-## Creating Your Event[][3]
+## Creating Your Event
 
-### Step 1: Access Store Manager[][4]
+### Step 1: Access Store Manager
 
-Log in to the TUSA website
-
-Go to your **Profile**
-
-Click on the **Store Manager** tab
-
-You’ll see your club’s store name at the top – this confirms which store you’re managing
+- Log in to the TUSA website
+- Go to your **Profile**
+- Click on the **Store Manager** tab
+- You’ll see your club’s store name at the top – this confirms which store you’re managing
 
 **Note:** You can only access one store at a time. Only Club Admins and Club Presidents can access the Store Manager.
 
-### Step 2: Create New Event[][5]
+### Step 2: Create New Event
 
-In Store Manager, navigate to **Events**
+- In Store Manager, navigate to **Events**
+- Click **Add New Event**
 
-Click **Add New Event**
+### Step 3: Enter Event Details
 
-### Step 3: Enter Event Details[][6]
+#### Event Title
 
-**Event Title**
+- Make it clear and descriptive
+- Include your club name if helpful
+- Example: “Photography Club – Golden Hour Shoot at Sandy Bay”
 
-Make it clear and descriptive
+#### Event Description
 
-Include your club name if helpful
+- What the event is about
+- What attendees can expect
+- What to bring (if anything)
+- Any prerequisites or requirements
 
-Example: “Photography Club – Golden Hour Shoot at Sandy Bay”
+#### Date and Time
 
-**Event Description**
+- Start date and time
+- End date and time
+- Make sure these are accurate – they’ll appear on the events calendar
 
-What the event is about
+#### Location
 
-What attendees can expect
+- Venue name
+- Address or room details
+- Any directions or access information
 
-What to bring (if anything)
+#### Featured Image
 
-Any prerequisites or requirements
+- Upload an eye-catching image for your event
+- This appears on the events grid and event page
+- Recommended size: 1200×630 pixels
 
-**Date and Time**
+---
 
-Start date and time
-
-End date and time
-
-Make sure these are accurate – they’ll appear on the events calendar
-
-**Location**
-
-Venue name
-
-Address or room details
-
-Any directions or access information
-
-**Featured Image**
-
-Upload an eye-catching image for your event
-
-This appears on the events grid and event page
-
-Recommended size: 1200×630 pixels
-
-------------------------------------------------------------------------
-
-## Selecting Categories – CRITICAL[][7]
+## Selecting Categories – CRITICAL
 
 Categories control where your event appears and how people find it. **You must select the correct categories** or your event won’t show up in the right places.
 
-> **WARNING: Do NOT create new categories!**
-
-> \> Only use the categories that already exist. If you create a new category:
-
+> [!CAUTION] NEVER Create New Categories!
+>
+> Only use the categories that already exist. If you create a new category:
+>
 > – It will NOT appear in any filters
-
 > – It will NOT work with the events grid
-
 > – Students will NOT be able to find your event
-
 > – The system only recognises existing categories
+>
+> If you think a category is missing, contact TUSA – don’t create it yourself.
 
-> \> If you think a category is missing, contact TUSA – don’t create it yourself.
-
-### Campus Categories[][8]
+### Campus Categories
 
 Select the campus where your event takes place:
 
@@ -117,15 +94,13 @@ Select the campus where your event takes place:
 | **Rozelle Campus**      | Event is at Rozelle (Sydney)      |
 | **Online**              | Event is virtual/online           |
 
-**Examples:**
+For instance:
 
-In-person event at Sandy Bay → tick “Sandy Bay Campus”
+- In-person event at Sandy Bay → tick “Sandy Bay Campus”
+- Online event anyone can join → tick “Online”
+- Hybrid event (in-person + online) → tick the physical campus AND “Online”
 
-Online event anyone can join → tick “Online”
-
-Hybrid event (in-person + online) → tick the physical campus AND “Online”
-
-### Event Type Categories[][9]
+### Event Type Categories
 
 Select the type that best describes your event:
 
@@ -142,47 +117,39 @@ Select the type that best describes your event:
 
 **For most club events, select “Club Events”.**
 
-### Why Categories Matter[][10]
+### Why Categories Matter
 
-Students filter events by campus and type
-
-Wrong categories = students can’t find your event
-
-Events grid shows events filtered by these categories
-
-If you’re at Rozelle and don’t tick Rozelle, Sydney students won’t see you
+- Students filter events by campus and type
+- Wrong categories = students can’t find your event
+- Events grid shows events filtered by these categories
+- If you’re at Rozelle and don’t tick Rozelle, Sydney students won’t see you
 
 **Categories control the facets (filters) on the events page.** If your event isn’t showing when someone filters by a campus or type, check your categories first.
 
-------------------------------------------------------------------------
+---
 
-## Event Types Explained[][11]
+## Event Types
 
 Different types of events appear in different places on the website. Make sure you understand which type applies to your event.
 
-### Club Events[][12]
+### Club Events
 
 These are events run by affiliated clubs and societies:
 
-Created by Club Presidents/Admins through Store Manager
+- Created by Club Presidents/Admins through Store Manager
+- Go through event application process
+- Appear on the main events grid when approved
+- Must select relevant campus categories
 
-Go through event application process
-
-Appear on the main events grid when approved
-
-Must select relevant campus categories
-
-### TUSA Events[][13]
+### TUSA Events
 
 Events run by TUSA departments (not clubs):
 
-Created by TUSA staff
+- Created by TUSA staff
+- May have different approval workflows
+- Appear on events grid with TUSA branding
 
-May have different approval workflows
-
-Appear on events grid with TUSA branding
-
-### Special Program Events[][14]
+### Special Program Events
 
 Some events belong to specific programs and appear on dedicated pages:
 
@@ -196,123 +163,99 @@ Some events belong to specific programs and appear on dedicated pages:
 
 **Important:** If your event is part of one of these programs, you MUST select the program category. Without it, the event won’t appear on the program’s dedicated page.
 
-### Online Events[][15]
+### Online Events
 
 For virtual/online events:
 
-Select the **Online** campus category
+- Select the **Online** campus category
+- Appears in online events filter
+- Can be combined with a physical campus category for hybrid events
 
-Appears in online events filter
+---
 
-Can be combined with a physical campus category for hybrid events
+## Ticketing Options
 
-------------------------------------------------------------------------
+### Free Events
 
-## Ticketing Options[][16]
+- Set ticket price to \$0
+- Students can register to attend
+- Helps you track numbers
 
-### Free Events[][17]
+### Paid Events
 
-Set ticket price to \$0
+- Set your ticket price
+- Payments processed through the system
+- Funds go to your club account
 
-Students can register to attend
+### Capacity Limits
 
-Helps you track numbers
+- Set maximum attendees if needed
+- System automatically closes registration when full
+- Waitlist options may be available
 
-### Paid Events[][18]
+---
 
-Set your ticket price
+## Saving Your Event
 
-Payments processed through the system
-
-Funds go to your club account
-
-### Capacity Limits[][19]
-
-Set maximum attendees if needed
-
-System automatically closes registration when full
-
-Waitlist options may be available
-
-------------------------------------------------------------------------
-
-## Saving Your Event[][20]
-
-### Save as Draft[][21]
+### Save as Draft
 
 When you’ve entered all the details:
 
-Make sure status is set to **Draft**
-
-Click **Save**
-
-Your event is saved but NOT visible to students
+- Make sure status is set to **Draft**
+- Click **Save**
+- Your event is saved but NOT visible to students
 
 **Your event stays as a draft until your event application is approved.**
 
-### Don’t Publish Directly[][22]
+### Don’t Publish Directly
 
 Even if you see a “Publish” option, your event needs to go through the approval process:
 
-Save as draft
+- Save as draft
+- Submit event application
+- Wait for approval
+- Event gets published automatically
 
-Submit event application
+---
 
-Wait for approval
+## After Creating Your Draft Event
 
-Event gets published automatically
-
-------------------------------------------------------------------------
-
-## After Creating Your Draft Event[][23]
-
-### Submit Your Event Application[][24]
+### Submit Your Event Application
 
 Now that you have a draft event, you need to submit an event application:
 
-Go to **Club Dashboard** → **Risk & Events**
+- Go to **Club Dashboard** → **Risk & Events**
+- Click **New Application**
+- The form may let you select your draft event to prefill details
+- Complete the full event application (see [Event Applications guide])
+- Submit for approval
 
-Click **New Application**
+### What Happens Next
 
-The form may let you select your draft event to prefill details
+- **Application reviewed** – TUSA reviews your event application
+- **Approval** – Once approved, your event is automatically published
+- **Visible in grid** – Students can now see and register for your event
+- **Notifications** – You’ll receive confirmation when approved
 
-Complete the full event application (see [Event Applications guide])
+---
 
-Submit for approval
+## Editing Your Event
 
-### What Happens Next[][25]
+### Before Approval
 
-**Application reviewed** – TUSA reviews your event application
+- You can edit your draft event freely
+- Update details, change images, fix typos
+- Changes don’t affect your submitted application (notify TUSA of major changes)
 
-**Approval** – Once approved, your event is automatically published
+### After Approval
 
-**Visible in grid** – Students can now see and register for your event
+- Minor edits (typos, small clarifications) – usually fine
+- Major changes (date, venue, activities) – contact TUSA first
+- May require updated event application for significant changes
 
-**Notifications** – You’ll receive confirmation when approved
+---
 
-------------------------------------------------------------------------
-
-## Editing Your Event[][26]
-
-### Before Approval[][27]
-
-You can edit your draft event freely
-
-Update details, change images, fix typos
-
-Changes don’t affect your submitted application (notify TUSA of major changes)
-
-### After Approval[][28]
-
-Minor edits (typos, small clarifications) – usually fine
-
-Major changes (date, venue, activities) – contact TUSA first
-
-May require updated event application for significant changes
-
-------------------------------------------------------------------------
-
-## Common Mistakes to Avoid[][29]
+## Common Mistakes
 
 | Mistake | Problem | Solution |
 |----|----|----|
@@ -323,89 +266,83 @@ May require updated event application for significant changes
 | Vague title | Students don’t know what it is | Be specific and descriptive |
 | Missing time | Students don’t know when to show up | Always include start AND end time |
 
-------------------------------------------------------------------------
+---
 
-## Tips for Great Events[][30]
+## Best Practice Tips
 
-### Titles That Work[][31]
+To successfully hold a great event, there are some tips you can follow for the best practices.
 
-**Good:** “Board Games Night – Free Pizza & Games”
+### Titles That Work
 
-**Bad:** “Club Event”
+You want your title to be specific and shows genuine attraction to your potential customers:
 
-### Descriptions That Help[][32]
+- **Good:** “Board Games Night – Free Pizza & Games”
+- **Bad:** “Club Event”
 
-What will happen at the event
+### Descriptions That Help
 
-Who it’s for (beginners welcome? Members only?)
+Your event description should at least include essential information such as:
 
-What to bring
+- What will happen at the event
+- Who it’s for (beginners welcome? Members only?)
+- What to bring
+- How to prepare
 
-How to prepare
+### Images That Attract
 
-### Images That Attract[][33]
+Great visuals are always a key to a successful event: 
 
-High quality, well-lit photos
+- Use high quality, well-lit photos
+- Images are relevant to the event type
+- Your club logo or previous event photos work well
+- Avoid blurry or tiny images
 
-Relevant to the event type
+---
 
-Your club logo or previous event photos work well
-
-Avoid blurry or tiny images
-
-------------------------------------------------------------------------
-
-## Cancelling an Event[][34]
+## Cancelling an Event
 
 If you need to cancel:
 
-Contact TUSA as soon as possible
+- Contact TUSA as soon as possible
+- Update the event with cancellation notice
+- Registered attendees should be notified
+- If tickets were sold, refund process may apply
 
-Update the event with cancellation notice
+---
 
-Registered attendees should be notified
+## Frequently Asked Questions
 
-If tickets were sold, refund process may apply
-
-------------------------------------------------------------------------
-
-## Frequently Asked Questions[][35]
-
-### Why isn’t my event showing up?[][36]
+### Why isn’t my event showing up?
 
 Most likely:
 
-Event application hasn’t been approved yet
-
-Wrong categories selected
-
-Event is still in draft status
+- Event application hasn’t been approved yet
+- Wrong categories selected
+- Event is still in draft status
 
 Check your event application status in the Club Dashboard.
 
-### Can I create an event without an event application?[][37]
+### Can I create an event without an event application?
 
 You can create the draft, but it won’t be visible to students until you have an approved event application. All club events need to go through the application process.
 
-### How far in advance should I create events?[][38]
+### How far in advance should I create events?
 
-Create draft: As early as you like
+- Create draft: As early as you like
+- Submit application: At least 1-2 weeks before (longer for events with alcohol)
+- Aim to have approved events visible at least 1 week before for promotion
 
-Submit application: At least 1-2 weeks before (longer for events with alcohol)
-
-Aim to have approved events visible at least 1 week before for promotion
-
-### Can I copy a previous event?[][39]
+### Can I copy a previous event?
 
 Check if there’s a duplicate or copy function available. Otherwise, you’ll need to create a new event, but you can reference previous events for details.
 
-### What if I need to change the date after approval?[][40]
+### What if I need to change the date after approval?
 
 Contact TUSA. Date changes may require an updated event application, especially if the venue booking needs to change.
 
-------------------------------------------------------------------------
+---
 
-## Need Help?[][41]
+## Need Help?
 
 **Email:** clubs@tusa.utas.edu.au
 
