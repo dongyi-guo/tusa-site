@@ -1,21 +1,15 @@
 # TUSA Club Admin Goal Testing Read-Aloud Report
 
-Test subject:
-- Club admin/member account: Club President Lookwhatwecando Withaform
-- Club page: https://tusa-dev.its.utas.edu.au/clubs/clubs-index/lookwhatwecando-withaform/
-- Member/admin page: https://tusa-dev.its.utas.edu.au/my/members/clubpresident-tfc/
+This report tests functionalities of the new TUSA website's C&S part with the club admin account Club President Lookwhatwecando Withaform.
 
-Guardrails used:
-- I did not click final submit, save, create, publish, delete, remove, kick, promote, demote, import, or payment actions.
-- I stopped at the last safe screen before each final strike and logged the URL plus the final action.
-- I did not change live club logo/cover media.
-- I created harmless local upload fixture files for testing intent, but Chrome automation here could not attach local files because the available wrapper does not expose real file-selection support.
+- The club page is at: https://tusa-dev.its.utas.edu.au/clubs/clubs-index/lookwhatwecando-withaform/
+- The account page is at: https://tusa-dev.its.utas.edu.au/my/members/clubpresident-tfc/
 
 ## Executive Summary
 
 Most governance and workflow goals are reachable through the club page under `Club Admin`, `Manage`, `Club Deals`, and `Resources + Forms`. The strongest paths are the Gravity Forms-style workflows: Event Management, Reaffiliation, Bank Signatories, Club Deals, Grant Application, and Grant Claim all expose clear final submit buttons.
 
-The weakest paths are Store Manager and Club Docs. Store Manager shows the account is not enabled for selling, which blocks or hides product/merch creation and makes the Eventin event route unstable. Club Docs is worse from a user p
+The weakest paths are Store Manager and Club Docs. Store Manager shows the account is not enabled for selling, which blocks or hides product/merch creation and makes the Eventin event route unstable. Club Docs is worse from a user.
 
 oint of view: the docs guide says a document library and upload controls should exist, but the live `Club Docs` tab renders only the site header and no document UI for this account.
 
@@ -67,7 +61,7 @@ club-admin-goals
 Path attempted: `profile/Store Management/Club Events`
 
 Primary URL:
-https://tusa-dev.its.utas.edu.au/my/store-manager/eventin/vendor_event/#/events
+https://tusa-dev.its.utas.edu.au/store-manager/eventin/vendor_event/#/events
 
 Related safe setup:
 https://tusa-dev.its.utas.edu.au/clubs/clubs-index/lookwhatwecando-withaform/admin/etn/
@@ -91,7 +85,7 @@ Status:
 Path attempted: `profile/Store Management/Products`
 
 Primary URL:
-https://tusa-dev.its.utas.edu.au/my/store-manager/new/#products
+https://tusa-dev.its.utas.edu.au/store-manager/new/#products
 
 Final strike expected:
 - `Add New Product`, then `Save Product` after entering product name, price, image, category, stock, and publish/draft status.
