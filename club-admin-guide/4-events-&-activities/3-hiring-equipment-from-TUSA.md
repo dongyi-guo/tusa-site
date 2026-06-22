@@ -1,414 +1,281 @@
-# Creating Events
+# Hiring Equipment from TUSA
 
-[][1]
+This guide explains how to hire equipment (marquees, tables, chairs, BBQs, etc.) from the TUSA Hire Store for your club events.
 
-This guide explains how to create events for your club. You’ll need to create a draft event before you can submit an event application.
+---
+
+## Overview
+
+TUSA provides equipment hire for club events. As a club admin, you get an automatic 100% discount when placing orders – but this discount is provisional until your event is approved.
+
+**Key points:**
+
+- **Log in with your club account** (the one holding your Club President / Club Admin / TUSA Staff role) — the discount only applies to that account
+- Place your hire order **before** submitting your event application
+- You need the **order number** for your event application
+- Stock is reserved when you **checkout**, not while in cart
+- The discount is **provisional** — TUSA determines your final price after reviewing your event, in accordance with their policies and procedures
+
+---
+
+## Who Can Hire Equipment
+
+Only these roles get the automatic discount:
+
+| Role               | Access                      |
+|--------------------|-----------------------------|
+| **Club President** | Full access + auto discount |
+| **Club Admin**     | Full access + auto discount |
+| **TUSA Staff**     | Full access + auto discount |
+
+**You must be logged in with the account that holds one of these roles.** The discount is tied to your account, not to the device or browser. If you’re logged in with a personal customer account — or not logged in at all — the discount won’t apply. If you don’t see it at checkout, log out and back in with your club role account.
+
+---
+
+## The Hire Process
+
+### Step 1: Browse the Hire Store
+
+- Go to the **TUSA Hire Store**
+- Browse available equipment
+- Check availability for your dates
+
+### Step 2: Add Items to Cart
+
+- Select the equipment you need
+- Choose your **hire dates** (pickup and return)
+- Add to cart
+
+**Important:** Stock is NOT reserved while in your cart. Don’t leave items sitting – someone else could book them.
+
+### Step 3: Complete Checkout
+
+- Make sure you’re **logged in with your club role account** (see “Who Can Hire Equipment” above)
+- Review your cart
+- The **100% discount coupon** auto-applies for eligible users — you’ll see “Club Equipment Hire (100% off)” in the order totals
+- Complete checkout
+- **Your order total will be \$0**
+
+If the discount line doesn’t appear, you’re almost certainly logged in with the wrong account — log out and back in with your club role account, then return to checkout.
+
+### Step 4: Note Your Order Number
+
+After checkout:
+
+- You’ll see a confirmation with your **order number**
+- **Write this down** – you need it for your event application
+- The order number looks like: \#12345
+
+### Step 5: Submit Event Application
+
+- Go to your club group → Resources → New Application
+- Fill out your event/risk assessment
+- Enter your **hire order number** in Field 197
+- Submit for approval
+
+---
+
+## What Happens Next
+
+1. Your hire order placed (stock reserved, $0 total)
+2. Event application submitted with order number
+3. TUSA reviews your event application
+4. TUSA determines your discount entitlement
+5. Three possible outcomes...
+
+### Outcome 1: Full Discount Approved
+
+- Your order stays at \$0
+- Equipment ready for pickup
+- You’ll receive confirmation
+
+### Outcome 2: Partial Discount
+
+- TUSA adjusts the order price
+- You receive an **invoice by email**
+- Pay the invoice before pickup
+- Equipment released after payment
+
+### Outcome 3: Event Not Approved
+
+- Hire order is **cancelled**
+- Stock is released
+- You’ll be notified
+
+---
+
+## Important Rules
+
+### Stock Reservation
+
+| Stage           | Is Stock Reserved?                |
+|-----------------|-----------------------------------|
+| Items in cart   | **NO** – anyone can book          |
+| Order placed    | **YES** – reserved for your dates |
+| Order cancelled | **NO** – released back            |
+
+**Don’t leave items in your cart** – complete checkout to secure your booking.
+
+### Cart Restrictions[](#cart-restrictions)
+
+You cannot mix hire store items with other products:
+
+| Cart Contents         | Allowed? |
+|-----------------------|----------|
+| Hire items only       | Yes      |
+| Regular products only | Yes      |
+| Hire + regular mixed  | **No**   |
+
+If you need to buy other products, place separate orders.
+
+### Order Visibility[](#order-visibility)
+
+Orders are only visible in the account that placed them. If multiple club admins need to see the order:
+
+Share login for the ordering account, OR
+
+Contact TUSA staff (they can see all orders)
 
 ------------------------------------------------------------------------
 
-## The Process Overview[][2]
+## If You Need to Change or Cancel[](#if-you-need-to-change-or-cancel)
 
-    1. Create draft event (this guide)
-           ↓
-    Submit event application (see Event Applications guide)
-           ↓
-    Application approved by TUSA
-           ↓
-    Event automatically published and visible to students
+### Changing Your Order[](#changing-your-order)
 
-**Important:** Your event won’t appear in the events grid until your event application is approved. Creating the event is just the first step.
+Contact TUSA as soon as possible if you need to:
 
-------------------------------------------------------------------------
+Change dates
 
-## Creating Your Event[][3]
+Add or remove equipment
 
-### Step 1: Access Store Manager[][4]
+Cancel the booking
 
-Log in to the TUSA website
+### Cancellation[](#cancellation)
 
-Go to your **Profile**
+If your event is cancelled:
 
-Click on the **Store Manager** tab
+Contact TUSA immediately
 
-You’ll see your club’s store name at the top – this confirms which store you’re managing
+They will cancel the hire order
 
-**Note:** You can only access one store at a time. Only Club Admins and Club Presidents can access the Store Manager.
-
-### Step 2: Create New Event[][5]
-
-In Store Manager, navigate to **Events**
-
-Click **Add New Event**
-
-### Step 3: Enter Event Details[][6]
-
-**Event Title**
-
-Make it clear and descriptive
-
-Include your club name if helpful
-
-Example: “Photography Club – Golden Hour Shoot at Sandy Bay”
-
-**Event Description**
-
-What the event is about
-
-What attendees can expect
-
-What to bring (if anything)
-
-Any prerequisites or requirements
-
-**Date and Time**
-
-Start date and time
-
-End date and time
-
-Make sure these are accurate – they’ll appear on the events calendar
-
-**Location**
-
-Venue name
-
-Address or room details
-
-Any directions or access information
-
-**Featured Image**
-
-Upload an eye-catching image for your event
-
-This appears on the events grid and event page
-
-Recommended size: 1200×630 pixels
+Stock is released for others
 
 ------------------------------------------------------------------------
 
-## Selecting Categories – CRITICAL[][7]
+## Pickup and Return[](#pickup-and-return)
 
-Categories control where your event appears and how people find it. **You must select the correct categories** or your event won’t show up in the right places.
+### Before Pickup[](#before-pickup)
 
-> **WARNING: Do NOT create new categories!**
+Ensure your event is approved
 
-> \> Only use the categories that already exist. If you create a new category:
+If invoiced, payment must be complete
 
-> – It will NOT appear in any filters
+Bring ID and order confirmation
 
-> – It will NOT work with the events grid
+### At Pickup[](#at-pickup)
 
-> – Students will NOT be able to find your event
+Check all equipment is present
 
-> – The system only recognises existing categories
+Note any existing damage
 
-> \> If you think a category is missing, contact TUSA – don’t create it yourself.
+Get pickup confirmation
 
-### Campus Categories[][8]
+### Return[](#return)
 
-Select the campus where your event takes place:
+Return on the agreed date
 
-| Category                | When to Select                    |
-|-------------------------|-----------------------------------|
-| **Sandy Bay Campus**    | Event is at Sandy Bay             |
-| **Hobart City Campus**  | Event is in Hobart city           |
-| **Inveresk Campus**     | Event is at Inveresk (Launceston) |
-| **Cradle Coast Campus** | Event is at Cradle Coast          |
-| **Rozelle Campus**      | Event is at Rozelle (Sydney)      |
-| **Online**              | Event is virtual/online           |
+Return all items in same condition
 
-**Examples:**
+Report any damage immediately
 
-In-person event at Sandy Bay → tick “Sandy Bay Campus”
-
-Online event anyone can join → tick “Online”
-
-Hybrid event (in-person + online) → tick the physical campus AND “Online”
-
-### Event Type Categories[][9]
-
-Select the type that best describes your event:
-
-| Category                            | When to Select                        |
-|-------------------------------------|---------------------------------------|
-| **Club Events**                     | Standard club activities and events   |
-| **TUSA Events**                     | TUSA-organised (not club) events      |
-| **Food Hub**                        | Food Hub distributions and activities |
-| **UTE (Unique Tassie Experiences)** | UTE program events                    |
-| **Training and Workshops**          | Educational/training sessions         |
-| **Shut Up and Write**               | Writing and study sessions            |
-| **Orientation**                     | O-Week and orientation events         |
-| **Post Graduate Students**          | Postgrad-specific events              |
-
-**For most club events, select “Club Events”.**
-
-### Why Categories Matter[][10]
-
-Students filter events by campus and type
-
-Wrong categories = students can’t find your event
-
-Events grid shows events filtered by these categories
-
-If you’re at Rozelle and don’t tick Rozelle, Sydney students won’t see you
-
-**Categories control the facets (filters) on the events page.** If your event isn’t showing when someone filters by a campus or type, check your categories first.
+**Late returns or damage may affect future hire privileges.**
 
 ------------------------------------------------------------------------
 
-## Event Types Explained[][11]
+## Pricing and Discounts[](#pricing-and-discounts)
 
-Different types of events appear in different places on the website. Make sure you understand which type applies to your event.
+### The 100% Discount[](#the-100-discount)
 
-### Club Events[][12]
+The automatic discount:
 
-These are events run by affiliated clubs and societies:
+Applies at checkout for eligible users
 
-Created by Club Presidents/Admins through Store Manager
+Covers the full hire cost initially
 
-Go through event application process
+Is **provisional** until TUSA approves your event
 
-Appear on the main events grid when approved
+### Final Pricing[](#final-pricing)
 
-Must select relevant campus categories
+TUSA determines your actual entitlement in accordance with their policies and procedures, taking into account factors such as:
 
-### TUSA Events[][13]
+Type of event
 
-Events run by TUSA departments (not clubs):
+Club status
 
-Created by TUSA staff
+Available funding
 
-May have different approval workflows
+Other factors
 
-Appear on events grid with TUSA branding
+You may receive:
 
-### Special Program Events[][14]
+Full discount (100% – pay nothing)
 
-Some events belong to specific programs and appear on dedicated pages:
+Partial discount (pay reduced amount)
 
-| Category | Where It Appears | Examples |
-|----|----|----|
-| **Food Hub** | Food Hub page | Food distributions, cooking classes |
-| **UTE (Unique Tassie Experiences)** | UTE events page | Unique Tassie Experiences program |
-| **Shut Up and Write** | SUW page | Writing/study sessions |
-| **Orientation** | O-Week pages | Orientation week events |
-| **Post Graduate Students** | Postgrad pages | Postgrad-specific events |
+Standard pricing (pay full price)
 
-**Important:** If your event is part of one of these programs, you MUST select the program category. Without it, the event won’t appear on the program’s dedicated page.
+### If You’re Invoiced[](#if-you’re-invoiced)
 
-### Online Events[][15]
+Check your email for the invoice
 
-For virtual/online events:
+Log in to your account
 
-Select the **Online** campus category
+Pay online through WooCommerce
 
-Appears in online events filter
-
-Can be combined with a physical campus category for hybrid events
+Equipment released after payment confirmed
 
 ------------------------------------------------------------------------
 
-## Ticketing Options[][16]
+## Common Questions[](#common-questions)
 
-### Free Events[][17]
+### Why is my order \$0?[](#why-is-my-order-0)
 
-Set ticket price to \$0
+The 100% discount auto-applies to reserve equipment. TUSA will determine your actual entitlement after reviewing your event application.
 
-Students can register to attend
+### Can I hire without an event application?[](#can-i-hire-without-an-event-application)
 
-Helps you track numbers
+No. Hire orders must be linked to an approved event application.
 
-### Paid Events[][18]
+### What if equipment isn’t available for my dates?[](#what-if-equipment-isn’t-available-for-my-dates)
 
-Set your ticket price
+Try alternative dates
 
-Payments processed through the system
+Contact TUSA about waitlist
 
-Funds go to your club account
+Consider alternative equipment
 
-### Capacity Limits[][19]
+### Can someone else pick up for me?[](#can-someone-else-pick-up-for-me)
 
-Set maximum attendees if needed
+Contact TUSA to arrange. They’ll need to know who’s collecting and verify their identity.
 
-System automatically closes registration when full
+### What if I damage equipment?[](#what-if-i-damage-equipment)
 
-Waitlist options may be available
-
-------------------------------------------------------------------------
-
-## Saving Your Event[][20]
-
-### Save as Draft[][21]
-
-When you’ve entered all the details:
-
-Make sure status is set to **Draft**
-
-Click **Save**
-
-Your event is saved but NOT visible to students
-
-**Your event stays as a draft until your event application is approved.**
-
-### Don’t Publish Directly[][22]
-
-Even if you see a “Publish” option, your event needs to go through the approval process:
-
-Save as draft
-
-Submit event application
-
-Wait for approval
-
-Event gets published automatically
+Report it immediately at return. Damage costs may apply depending on circumstances.
 
 ------------------------------------------------------------------------
 
-## After Creating Your Draft Event[][23]
-
-### Submit Your Event Application[][24]
-
-Now that you have a draft event, you need to submit an event application:
-
-Go to **Club Dashboard** → **Risk & Events**
-
-Click **New Application**
-
-The form may let you select your draft event to prefill details
-
-Complete the full event application (see [Event Applications guide])
-
-Submit for approval
-
-### What Happens Next[][25]
-
-**Application reviewed** – TUSA reviews your event application
-
-**Approval** – Once approved, your event is automatically published
-
-**Visible in grid** – Students can now see and register for your event
-
-**Notifications** – You’ll receive confirmation when approved
-
-------------------------------------------------------------------------
-
-## Editing Your Event[][26]
-
-### Before Approval[][27]
-
-You can edit your draft event freely
-
-Update details, change images, fix typos
-
-Changes don’t affect your submitted application (notify TUSA of major changes)
-
-### After Approval[][28]
-
-Minor edits (typos, small clarifications) – usually fine
-
-Major changes (date, venue, activities) – contact TUSA first
-
-May require updated event application for significant changes
-
-------------------------------------------------------------------------
-
-## Common Mistakes to Avoid[][29]
-
-| Mistake | Problem | Solution |
-|----|----|----|
-| No campus selected | Event doesn’t appear for any campus | Always select at least one campus |
-| Wrong campus selected | Students at wrong campus see it | Double-check your venue location |
-| No event type | Harder for students to find | Select at least one event type |
-| Publishing directly | Bypasses approval process | Always save as draft first |
-| Vague title | Students don’t know what it is | Be specific and descriptive |
-| Missing time | Students don’t know when to show up | Always include start AND end time |
-
-------------------------------------------------------------------------
-
-## Tips for Great Events[][30]
-
-### Titles That Work[][31]
-
-**Good:** “Board Games Night – Free Pizza & Games”
-
-**Bad:** “Club Event”
-
-### Descriptions That Help[][32]
-
-What will happen at the event
-
-Who it’s for (beginners welcome? Members only?)
-
-What to bring
-
-How to prepare
-
-### Images That Attract[][33]
-
-High quality, well-lit photos
-
-Relevant to the event type
-
-Your club logo or previous event photos work well
-
-Avoid blurry or tiny images
-
-------------------------------------------------------------------------
-
-## Cancelling an Event[][34]
-
-If you need to cancel:
-
-Contact TUSA as soon as possible
-
-Update the event with cancellation notice
-
-Registered attendees should be notified
-
-If tickets were sold, refund process may apply
-
-------------------------------------------------------------------------
-
-## Frequently Asked Questions[][35]
-
-### Why isn’t my event showing up?[][36]
-
-Most likely:
-
-Event application hasn’t been approved yet
-
-Wrong categories selected
-
-Event is still in draft status
-
-Check your event application status in the Club Dashboard.
-
-### Can I create an event without an event application?[][37]
-
-You can create the draft, but it won’t be visible to students until you have an approved event application. All club events need to go through the application process.
-
-### How far in advance should I create events?[][38]
-
-Create draft: As early as you like
-
-Submit application: At least 1-2 weeks before (longer for events with alcohol)
-
-Aim to have approved events visible at least 1 week before for promotion
-
-### Can I copy a previous event?[][39]
-
-Check if there’s a duplicate or copy function available. Otherwise, you’ll need to create a new event, but you can reference previous events for details.
-
-### What if I need to change the date after approval?[][40]
-
-Contact TUSA. Date changes may require an updated event application, especially if the venue booking needs to change.
-
-------------------------------------------------------------------------
-
-## Need Help?[][41]
+## Need Help?[](#need-help)
 
 **Email:** clubs@tusa.utas.edu.au
 
 **In Person:** Visit the TUSA office
 
-**Dashboard:** Use the feedback form
+**Online:** Use the contact form on the website
+
+------------------------------------------------------------------------
+
+## Related Guides[](#related-guides)
+
+[Event Applications](#event-applications) – Submitting your event application
+
+[Creating Events](#creating-events) – Setting up your event
