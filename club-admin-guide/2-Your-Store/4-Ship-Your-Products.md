@@ -1,4 +1,4 @@
-# Setting Up Shipping for Your Store
+# Ship Your Products
 
 If you’re selling physical products (merchandise, not memberships or tickets), you need to set up shipping. This guide explains how store shipping works.
 

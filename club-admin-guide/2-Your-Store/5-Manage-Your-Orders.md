@@ -1,4 +1,4 @@
-# Managing Orders
+# Manage Your Orders
 
 This guide covers viewing and managing orders for your club store.
 
