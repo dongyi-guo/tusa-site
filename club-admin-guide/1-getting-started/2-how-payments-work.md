@@ -1,4 +1,4 @@
-# Stripe & Payments
+# How Payments Work
 
 Stripe is the financial platform used in TUSA for clubs to accept payments, manage billing and revenues, and customise their own business models.
 
@@ -78,12 +78,6 @@ The Stripe account is connected to the club, not the individual. TUSA staff upda
 ### What fees does Stripe charge?
 
 Stripe charges standard transaction fees on each sale. Check [Stripe’s pricing page](https://stripe.com/au/pricing) for current Australian rates.
-
-### How do I add staff to help in my store?
-
-- Club admins and president are automatically store staff.
-- Anyone you promote to **Organiser** in your club group also gets store access automatically.
-- For temporary staff, such as concierge or event assistant scanning tickets at an event, go to **Profile \> Store Management \> Team**. See [Managing Store Staff](../7-managing-your-club/3-managing-store-staff.md) for the full guide.
 
 ---
 

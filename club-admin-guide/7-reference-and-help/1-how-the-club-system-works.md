@@ -6,40 +6,6 @@ This guide explains how clubs are set up in the TUSA system and why it works the
 
 ------------------------------------------------------------------------
 
-## The Two Sides of Every Club[][2]
-
-Every TUSA club has two sides that work together:
-
-### 1. The Club Store — Public Facing[][3]
-
-The store is your club’s **public face**. Anyone can see it.
-
-| What’s Visible | Description |
-|----|----|
-| **Club Profile** | Your name, logo, description, social links |
-| **Events Archive** | Past and upcoming event tickets |
-| **Merchandise** | Club merch for sale |
-| **Deals Teasers** | Public preview of member deals (full details are hidden) |
-| **Membership Products** | How people join your club |
-
-**Key point:** When someone purchases a membership product from your store, they receive a **membership tag** — that tag is what unlocks the private side of your club.
-
-### 2. The Members-Only Group — Private[][4]
-
-The group is your club’s **private community**. Only members who hold the membership tag can get in.
-
-| What’s Private          | Description                        |
-|-------------------------|------------------------------------|
-| **News Feed**           | Club announcements and discussions |
-| **Member Directory**    | See who’s in your club             |
-| **Club Documents**      | Constitutions, minutes, resources  |
-| **Full Deal Details**   | Complete discount codes and offers |
-| **Member Interactions** | Comments, posts, connections       |
-
-**The membership tag is the key:** Buying membership in the store grants the tag, which unlocks the group.
-
-------------------------------------------------------------------------
-
 ## The Club President Account: A Permanent Position[][5]
 
 This is the most important concept to understand.
@@ -48,10 +14,10 @@ This is the most important concept to understand.
 
 Think of the club president account like a throne in a monarchy:
 
-| Element | Description |
-|----|----|
-| **The Throne** | The user account itself — permanent, never changes |
-| **The Monarch** | The person sitting on it — changes over time |
+| Element           | Description                                                  |
+| ----------------- | ------------------------------------------------------------ |
+| **The Throne**    | The user account itself — permanent, never changes           |
+| **The Monarch**   | The person sitting on it — changes over time                 |
 | **The Nameplate** | The personal details on the profile — gets updated when the person changes |
 
 **The throne (account) stays. The person sitting on it changes.**
@@ -70,15 +36,15 @@ Must persist year after year
 
 ### What Stays the Same vs What Changes[][8]
 
-| Permanent (The Account) | Updates Each Year (The Person) |
-|----|----|
-| Username and login email | Real name |
-| Public role label (“President — Chess Club”) | Personal email |
-| Store ownership | Phone number |
-| Group admin status | Student ID |
-| Faculty / course |  |
-| Address |  |
-| Club role title |  |
+| Permanent (The Account)                      | Updates Each Year (The Person) |
+| -------------------------------------------- | ------------------------------ |
+| Username and login email                     | Real name                      |
+| Public role label (“President — Chess Club”) | Personal email                 |
+| Store ownership                              | Phone number                   |
+| Group admin status                           | Student ID                     |
+| Faculty / course                             |                                |
+| Address                                      |                                |
+| Club role title                              |                                |
 
 ### The Public Role Label[][9]
 
@@ -112,19 +78,19 @@ The rolodex is an internal directory that shows TUSA staff and club administrato
 
 ### Why the Rolodex Exists[][12]
 
-| Scenario | What’s Needed |
-|----|----|
+| Scenario                  | What’s Needed                                                |
+| ------------------------- | ------------------------------------------------------------ |
 | **Emergency at an event** | Need to call the actual president, not “President — Chess Club” |
-| **Compliance follow-up** | Need to email the real person about missing paperwork |
-| **Year-round contact** | Need to know who’s currently in each role |
-| **Handover verification** | Need to confirm new committee details are correct |
+| **Compliance follow-up**  | Need to email the real person about missing paperwork        |
+| **Year-round contact**    | Need to know who’s currently in each role                    |
+| **Handover verification** | Need to confirm new committee details are correct            |
 
 ### What the Rolodex Shows[][13]
 
 The rolodex pulls from your profile fields, so it always reflects the **current person** in each role:
 
 | Field          | Example                   |
-|----------------|---------------------------|
+| -------------- | ------------------------- |
 | Real Name      | “Sarah Smith”             |
 | Personal Email | “sarah.smith@utas.edu.au” |
 | Phone          | “0412 345 678”            |
@@ -137,7 +103,7 @@ The rolodex pulls from your profile fields, so it always reflects the **current 
 The rolodex updates automatically because it pulls from live profile data:
 
 | Event                        | What Happens                         |
-|------------------------------|--------------------------------------|
+| ---------------------------- | ------------------------------------ |
 | **Initial Affiliation**      | New club’s officers added to rolodex |
 | **Annual Reaffiliation**     | All officer details refreshed        |
 | **Mid-year Profile Updates** | Reflect immediately                  |
@@ -184,10 +150,10 @@ Your store and group connections are preserved
 
 The **login email** stays the same year after year (often a club email like `president@chessclub.org`). But your **personal email** field must always be the **current person’s individual email**.
 
-| Field | Purpose | Example |
-|----|----|----|
-| Login Email | Account access — usually a club email | president@chessclub.org |
-| Personal Email | Reaches the actual human | sarah.smith@utas.edu.au |
+| Field          | Purpose                               | Example                 |
+| -------------- | ------------------------------------- | ----------------------- |
+| Login Email    | Account access — usually a club email | president@chessclub.org |
+| Personal Email | Reaches the actual human              | sarah.smith@utas.edu.au |
 
 **Why does this matter?** When TUSA needs to contact the president personally, they reach Sarah, not “whoever happens to check the club inbox.”
 
@@ -222,7 +188,7 @@ The next person uses (or creates) their own account
 ### Committee Member Access[][22]
 
 | What They Get        | What It Means                          |
-|----------------------|----------------------------------------|
+| -------------------- | -------------------------------------- |
 | Group admin status   | Can manage group settings and posts    |
 | Store staff access   | Can manage products and orders         |
 | Committee role badge | Identifies their role in the directory |

@@ -1,4 +1,4 @@
-# Adding Products to Your Club Store
+# Adding Products to Your Store
 
 This guide will show you how to add products to your club’s store, whether they are merchandise, memberships, or event tickets.
 
@@ -16,7 +16,7 @@ This guide will show you how to add products to your club’s store, whether the
 ### Product Types You Can Sell
 
 | Type              | Examples                                 | Needs Shipping? |
-|-------------------|------------------------------------------|-----------------|
+| ----------------- | ---------------------------------------- | --------------- |
 | **Merchandise**   | T-shirts, hoodies, stickers, mugs        | Yes             |
 | **Memberships**   | Annual membership, multi-year membership | No (digital)    |
 | **Event Tickets** | Event entry, workshop registration       | No (digital)    |
@@ -100,10 +100,10 @@ Add images for your product to attract your customers:
 - Find the **Category** section
 - Select the category that fits your product:
 
-| Category | Use For |
-| --- | --- |
-| **Merchandise** | Physical items (shirts, stickers, etc.)            |
-| **Membership**  | Club membership products                           |
+| Category        | Use For                                                      |
+| --------------- | ------------------------------------------------------------ |
+| **Merchandise** | Physical items (shirts, stickers, etc.)                      |
+| **Membership**  | Club membership products                                     |
 | **Tickets**     | Event entry (although you might use the event's ticketing system) |
 
 **Warning: ONLY use existing categories.**
@@ -164,7 +164,7 @@ Attributes are provided as options (like Size or Colour).
 For each variation, you need to set:
 
 | Field     | What to Enter                               |
-|-----------|---------------------------------------------|
+| --------- | ------------------------------------------- |
 | **Price** | The price for this specific variation       |
 | **Stock** | How many you have (optional)                |
 | **Image** | Photo of this specific variation (optional) |
@@ -217,7 +217,7 @@ Your products appear in your club’s store page:
 Troubleshoot your product's settings:
 
 | Issue                 | Solution                 |
-|-----------------------|--------------------------|
+| --------------------- | ------------------------ |
 | Status is “Draft”     | Change to “Published”    |
 | No category selected  | Add appropriate category |
 | Price is \$0 or empty | Enter a valid price      |
@@ -254,7 +254,7 @@ Troubleshoot your product's settings:
 ### What Makes a Good Product Image
 
 | Do                    | Don’t                             |
-|-----------------------|-----------------------------------|
+| --------------------- | --------------------------------- |
 | Good lighting         | Dark or blurry photos             |
 | Clear view of product | Cluttered backgrounds             |
 | Consistent style      | Different styles for each product |
@@ -277,13 +277,13 @@ Troubleshoot your product's settings:
 
 ## Common Mistakes
 
-| Mistake | Why It’s Bad | How to Fix |
-|----|----|----|
-| No price set | Product can’t be purchased | Enter a price |
-| Wrong category | Product doesn’t appear where expected | Select correct category |
-| No image | Looks unprofessional, less sales | Upload a clear photo |
-| Variations without prices | Customers can’t select options | Set price for each variation |
-| Creating new categories | They won’t work in the system | Use existing categories only |
+| Mistake                   | Why It’s Bad                          | How to Fix                   |
+| ------------------------- | ------------------------------------- | ---------------------------- |
+| No price set              | Product can’t be purchased            | Enter a price                |
+| Wrong category            | Product doesn’t appear where expected | Select correct category      |
+| No image                  | Looks unprofessional, less sales      | Upload a clear photo         |
+| Variations without prices | Customers can’t select options        | Set price for each variation |
+| Creating new categories   | They won’t work in the system         | Use existing categories only |
 
 ---
 

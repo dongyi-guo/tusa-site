@@ -23,7 +23,7 @@ TUSA provides equipment hire for club events. As a club admin, you get an automa
 Only these roles get the automatic discount:
 
 | Role               | Access                      |
-|--------------------|-----------------------------|
+| ------------------ | --------------------------- |
 | **Club President** | Full access + auto discount |
 | **Club Admin**     | Full access + auto discount |
 | **TUSA Staff**     | Full access + auto discount |
@@ -109,7 +109,7 @@ After checkout:
 ### Stock Reservation
 
 | Stage           | Is Stock Reserved?                |
-|-----------------|-----------------------------------|
+| --------------- | --------------------------------- |
 | Items in cart   | **NO** – anyone can book          |
 | Order placed    | **YES** – reserved for your dates |
 | Order cancelled | **NO** – released back            |
@@ -121,7 +121,7 @@ After checkout:
 You cannot mix hire store items with other products:
 
 | Cart Contents         | Allowed? |
-|-----------------------|----------|
+| --------------------- | -------- |
 | Hire items only       | Yes      |
 | Regular products only | Yes      |
 | Hire + regular mixed  | **No**   |

@@ -1,4 +1,4 @@
-# Refunding Customers
+# Refund Customers
 
 This guide covers how to refund a customer when something goes wrong with an order — a faulty product, a cancelled event, a member changing their mind, anything that needs money to flow back.
 
@@ -29,13 +29,13 @@ You **never log into Stripe directly**. Clubs don’t have Stripe dashboard acce
 
 Pause and think:
 
-| Question | Why it matters |
-|----|----|
-| **Is this within your refund policy?** | Some things you’ve sold (e.g., event tickets close to the date, custom merch) might have a no-refund rule. Check what you’ve told members. |
-| **Has the order been fulfilled?** | Refunding a posted order is fine — but the customer still has the item. Decide if you want it back first. |
-| **Is the order from your store?** | Check the welcome bar at the top of the dashboard — it shows which store you’re managing. Make sure the order is yours. |
+| Question                                       | Why it matters                                               |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| **Is this within your refund policy?**         | Some things you’ve sold (e.g., event tickets close to the date, custom merch) might have a no-refund rule. Check what you’ve told members. |
+| **Has the order been fulfilled?**              | Refunding a posted order is fine — but the customer still has the item. Decide if you want it back first. |
+| **Is the order from your store?**              | Check the welcome bar at the top of the dashboard — it shows which store you’re managing. Make sure the order is yours. |
 | **Should you refund the full amount or part?** | Partial refunds are common (e.g., shipping refunded but item kept). |
-| **Have you talked to the customer?** | A refund without a “we’ve sorted it” message can feel cold. Always include a note. |
+| **Have you talked to the customer?**           | A refund without a “we’ve sorted it” message can feel cold. Always include a note. |
 
 If you’re not sure whether to refund, contact `clubs@tusa.utas.edu.au` for guidance before processing.
 
@@ -105,10 +105,10 @@ Clubs don’t have access to the Stripe dashboard, so you can’t check your bal
 
 If a refund pushes your balance below \$0, it gets resolved one of two ways:
 
-| Option | How it works |
-|----|----|
+| Option                      | How it works                                                 |
+| --------------------------- | ------------------------------------------------------------ |
 | **The next sales clear it** | When new orders come in, Stripe applies the incoming money to clear the negative balance first before paying out the rest to your club’s account. So if your balance is -\$50 and a new \$30 sale comes in, your balance becomes -\$20 and nothing pays out to you. The next sale of \$20+ clears it. |
-| **Top up the balance** | TUSA can help arrange a top-up if your sales volume isn’t going to clear the balance soon enough. This is the path for end-of-semester refunds when you’re not running events. |
+| **Top up the balance**      | TUSA can help arrange a top-up if your sales volume isn’t going to clear the balance soon enough. This is the path for end-of-semester refunds when you’re not running events. |
 
 You’ll need TUSA’s help with the top-up route — clubs can’t do this themselves.
 
@@ -127,12 +127,12 @@ When the customer paid, the system applied tags to them — for events, that’s
 
 ### What this means in practice
 
-| Order type | What’s certain | What you should do |
-|----|----|----|
-| **Event ticket** | The money refunds correctly. A refund doesn’t remove the ticket-tier tag for you. | After refunding, check the member’s profile or tag list. If the ticket-tier tag is still applied and shouldn’t be, **remove it yourself** — as club president or admin you manage your own members’ tags. |
-| **Membership** | The money refunds correctly. The member’s access tag may or may not be removed automatically depending on how their membership was set up. | After refunding a membership, check the member’s profile to confirm their tag/access reflects what you intended. If they’re still showing as a member, **remove the membership tag / take them off your member list yourself.** |
-| **Physical product (merch)** | Just the money goes back. No tags to worry about. | Decide separately whether to ask for the item back. |
-| **Hire equipment** | Hire orders are handled by TUSA, not by clubs. | Email `clubs@tusa.utas.edu.au` if a hire refund is needed. |
+| Order type                   | What’s certain                                               | What you should do                                           |
+| ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Event ticket**             | The money refunds correctly. A refund doesn’t remove the ticket-tier tag for you. | After refunding, check the member’s profile or tag list. If the ticket-tier tag is still applied and shouldn’t be, **remove it yourself** — as club president or admin you manage your own members’ tags. |
+| **Membership**               | The money refunds correctly. The member’s access tag may or may not be removed automatically depending on how their membership was set up. | After refunding a membership, check the member’s profile to confirm their tag/access reflects what you intended. If they’re still showing as a member, **remove the membership tag / take them off your member list yourself.** |
+| **Physical product (merch)** | Just the money goes back. No tags to worry about.            | Decide separately whether to ask for the item back.          |
+| **Hire equipment**           | Hire orders are handled by TUSA, not by clubs.               | Email `clubs@tusa.utas.edu.au` if a hire refund is needed.   |
 
 > **Always verify after a refund.** Don’t trust that a tag has been removed automatically — open the member’s profile and check. If the access hasn’t been pulled, **remove it yourself** — club presidents and admins manage their own members’ tags.
 
@@ -142,11 +142,11 @@ When the customer paid, the system applied tags to them — for events, that’s
 
 Once you click refund, here’s what the customer experiences:
 
-| Time | What they see |
-|----|----|
-| **Immediately** | Refund confirmation email from your store |
-| **Same day** | The refund shows as “pending” in their bank account or card statement |
-| **5–10 business days** | The money is actually back on their card |
+| Time                   | What they see                                                |
+| ---------------------- | ------------------------------------------------------------ |
+| **Immediately**        | Refund confirmation email from your store                    |
+| **Same day**           | The refund shows as “pending” in their bank account or card statement |
+| **5–10 business days** | The money is actually back on their card                     |
 
 Stripe controls the timing of when banks process the refund — there’s nothing you (or even TUSA) can do to speed this up. If a customer asks why it’s taking so long, tell them the standard 5–10 business days and offer to check the refund status in your dashboard if they’re worried.
 
@@ -195,13 +195,13 @@ Two ways:
 
 ## When You Can’t Refund
 
-| Situation | What to do |
-|----|----|
-| **Refund button doesn’t appear or won’t submit** | The order might already be fully refunded, an existing refund request might still be pending, or the payment status might be wrong. Check the order status first. If you genuinely need to refund and can’t, contact `clubs@tusa.utas.edu.au`. |
-| **Order is from a long time ago** | Stripe has time limits on how far back refunds can be processed. If the dashboard refund won’t go through and the order is old, contact `clubs@tusa.utas.edu.au` — TUSA can help work out an alternative way to settle with the customer. |
-| **Customer’s card was cancelled or expired** | The refund typically still goes through to their bank — banks handle redirecting refunds to closed accounts. The customer might need to follow up with their bank, but the money does usually reach them. |
+| Situation                                                    | What to do                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Refund button doesn’t appear or won’t submit**             | The order might already be fully refunded, an existing refund request might still be pending, or the payment status might be wrong. Check the order status first. If you genuinely need to refund and can’t, contact `clubs@tusa.utas.edu.au`. |
+| **Order is from a long time ago**                            | Stripe has time limits on how far back refunds can be processed. If the dashboard refund won’t go through and the order is old, contact `clubs@tusa.utas.edu.au` — TUSA can help work out an alternative way to settle with the customer. |
+| **Customer’s card was cancelled or expired**                 | The refund typically still goes through to their bank — banks handle redirecting refunds to closed accounts. The customer might need to follow up with their bank, but the money does usually reach them. |
 | **Customer is asking for a refund but it’s outside your policy** | You’re not obliged to refund. Politely explain your policy and what they signed up for. If you do refund anyway as a goodwill gesture, add a clear order note so future you understands why. |
-| **Customer paid by bank transfer or cash** | This is rare on the website. If it happens, don’t use the refund button — talk to `clubs@tusa.utas.edu.au` for the right way to record it. |
+| **Customer paid by bank transfer or cash**                   | This is rare on the website. If it happens, don’t use the refund button — talk to `clubs@tusa.utas.edu.au` for the right way to record it. |
 
 ---
 
@@ -234,15 +234,15 @@ Disputes are stressful — they’re rare for clubs but they can happen. The sin
 
 ### Where everything is
 
-| For… | Go to |
-|----|----|
-| Refunding an order | Store Manager → Orders → open the order → Request Refund |
-| Checking past refunds | Store Manager → Orders → filter by status “Refunded” |
-| Checking your Stripe balance | Email `clubs@tusa.utas.edu.au` — clubs don’t have direct access |
-| Customer asking when their refund will arrive | Tell them 5–10 business days from when you processed it |
-| Verifying member access was actually removed | Open the member’s profile after the refund, check tags |
-| Help with a stuck refund or balance question | Email `clubs@tusa.utas.edu.au` |
-| A dispute notification | Email `clubs@tusa.utas.edu.au` immediately — don’t wait |
+| For…                                          | Go to                                                        |
+| --------------------------------------------- | ------------------------------------------------------------ |
+| Refunding an order                            | Store Manager → Orders → open the order → Request Refund     |
+| Checking past refunds                         | Store Manager → Orders → filter by status “Refunded”         |
+| Checking your Stripe balance                  | Email `clubs@tusa.utas.edu.au` — clubs don’t have direct access |
+| Customer asking when their refund will arrive | Tell them 5–10 business days from when you processed it      |
+| Verifying member access was actually removed  | Open the member’s profile after the refund, check tags       |
+| Help with a stuck refund or balance question  | Email `clubs@tusa.utas.edu.au`                               |
+| A dispute notification                        | Email `clubs@tusa.utas.edu.au` immediately — don’t wait      |
 
 ---
 

@@ -1,4 +1,4 @@
-# Managing Store Staff
+# Manage Store People and Staff
 
 [][1]
 
@@ -94,12 +94,12 @@ Click **Search Users**
 
 Review the search results:
 
-| Status | What It Means |
-|----|----|
-| **Add to My Store** (button) | Available – click to add them |
-| **Already your staff** | They’re already on your team |
+| Status                                  | What It Means                           |
+| --------------------------------------- | --------------------------------------- |
+| **Add to My Store** (button)            | Available – click to add them           |
+| **Already your staff**                  | They’re already on your team            |
 | **Already assigned to: \[Store Name\]** | They work at another store – cannot add |
-| **Store Owner – Cannot Add** | They own their own store – cannot add |
+| **Store Owner – Cannot Add**            | They own their own store – cannot add   |
 
 Click **Add to My Store** for the person you want
 
@@ -145,7 +145,7 @@ Receive login details by email (if auto-password selected)
 The **Current Staff** tab shows everyone assigned to your store:
 
 | Column      | Description                        |
-|-------------|------------------------------------|
+| ----------- | ---------------------------------- |
 | **Name**    | Staff member’s display name        |
 | **Email**   | Their email address                |
 | **Added**   | When they were added to your store |
@@ -183,6 +183,16 @@ Remove yourself (the store owner)
 
 Delete user accounts – only remove store access
 
+### Remove Temporary Staff
+
+If you added helpers just for this event, remember to remove their store access:
+
+- Go to **Store Dashboard** → **Team**
+- Find anyone who was only helping for this event
+- Click **Remove from Store**
+
+Event cleanup isn’t just putting things in the bin – it includes checking who has access to your store and customer data!
+
 ------------------------------------------------------------------------
 
 ## Common Questions[][13]
@@ -195,12 +205,12 @@ If you need the same person at multiple stores, contact TUSA for assistance.
 
 ### What’s the difference between “staff”, “organizer”, and “owner”?[][15]
 
-| Role | Group Powers | Store Powers |
-|----|----|----|
-| **Store Owner** (president) | Full group control | Full store control, manage staff |
-| **Group Organizer** | Manage members, announcements | Automatic store staff access |
-| **Store Staff** (manual) | None (unless also organizer) | Process orders, scan tickets |
-| **Regular Member** | Participate in group | Shop only |
+| Role                        | Group Powers                  | Store Powers                     |
+| --------------------------- | ----------------------------- | -------------------------------- |
+| **Store Owner** (president) | Full group control            | Full store control, manage staff |
+| **Group Organizer**         | Manage members, announcements | Automatic store staff access     |
+| **Store Staff** (manual)    | None (unless also organizer)  | Process orders, scan tickets     |
+| **Regular Member**          | Participate in group          | Shop only                        |
 
 **Key point:** Group organizers automatically get store staff access. If you promote someone to organizer in your group, they can immediately access your store dashboard.
 
@@ -223,6 +233,12 @@ Only add people you trust with customer information.
 ### Should I remove event helpers after the event?[][18]
 
 Yes! Event cleanup includes checking your store access. Go to Team → Current Staff and remove anyone who was only helping for that event. This keeps your customer data secure and your staff list tidy.
+
+### How do I add staff to help in my store?
+
+- Club admins and president are automatically store staff.
+- Anyone you promote to **Organiser** in your club group also gets store access automatically.
+- For temporary staff, such as concierge or event assistant scanning tickets at an event, go to **Profile \> Store Management \> Team**. See [Managing Store Staff](../7-managing-your-club/3-managing-store-staff.md) for the full guide.
 
 ### How do I make someone a store owner instead of staff?[][19]
 

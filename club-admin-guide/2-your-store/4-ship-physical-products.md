@@ -11,7 +11,7 @@ You will need to set up shipping for your physical products.
 **No physical products? - Skip this Guide.**
 
 | Product Type                           | Shipping Required?   |
-|----------------------------------------|----------------------|
+| -------------------------------------- | -------------------- |
 | Merchandise (t-shirts, stickers, etc.) | **Yes**              |
 | Memberships                            | No – digital product |
 | Event Tickets                          | No – digital product |
@@ -26,12 +26,12 @@ Shipping zones are geographic regions where shipping can be offered **set up and
 
 Available zones are listed below:
 
-| Zone | Who It Covers |
-| --- | --- |
+| Zone               | Who It Covers                               |
+| ------------------ | ------------------------------------------- |
 | **Sandy Bay Area** | Postcodes 7001-7007 (Sandy Bay campus area) |
-| **Rozelle** | Postcodes 2035-2040 (Sydney campus area) |
-| **Tasmania** | All of Tasmania |
-| **Australia** | All of Australia |
+| **Rozelle**        | Postcodes 2035-2040 (Sydney campus area)    |
+| **Tasmania**       | All of Tasmania                             |
+| **Australia**      | All of Australia                            |
 
 **Currently, International Shipping is NOT allowed.**
 
@@ -88,7 +88,7 @@ If customers can collect from your club's room or campus:
 For clubs selling merchandise occasionally:
 
 | Zone      | Method       | Price   | Notes                            |
-|-----------|--------------|---------|----------------------------------|
+| --------- | ------------ | ------- | -------------------------------- |
 | Australia | Flat Rate    | \$15.50 | Covers postage anywhere in Aus   |
 | Tasmania  | Local Pickup | Free    | Collection from campus/club room |
 
@@ -129,7 +129,7 @@ With the recommended configuration:
 You will need to update order's shipping status as order proceeds:
 
 | Status               | When to Use                         |
-|----------------------|-------------------------------------|
+| -------------------- | ----------------------------------- |
 | **Processing**       | You’re preparing the order          |
 | **Ready for pickup** | Order ready for customer collection |
 | **On the way**       | You’ve posted/shipped it            |
@@ -172,11 +172,11 @@ NO. International shipping is blocked at the platform level.
 
 #### Recommendations
 
-| Item Size | Suggested Price |
-| --- | --- |
-| **Small items** (stickers, badges) | \$5-10 |
-| **Medium items** (t-shirts) | \$12-15 |
-| **Large items** (hoodies) | \$15-20 |
+| Item Size                          | Suggested Price |
+| ---------------------------------- | --------------- |
+| **Small items** (stickers, badges) | \$5-10          |
+| **Medium items** (t-shirts)        | \$12-15         |
+| **Large items** (hoodies)          | \$15-20         |
 
 **Or use flat rate:** \$15.50 covers most things
 

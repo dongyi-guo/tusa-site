@@ -23,7 +23,7 @@ This guide covers how to check in attendees at your club events using the QR cod
 Each event in your list shows three action icons:
 
 | Icon                   | Action                         |
-|------------------------|--------------------------------|
+| ---------------------- | ------------------------------ |
 | **Pencil**             | Edit event details             |
 | **QR Code with bar**   | Launch QR scanner for check-in |
 | **Kebab (three dots)** | More options menu              |
@@ -66,7 +66,7 @@ Each event in your list shows three action icons:
 Click the **kebab menu** (three dots) on any event to access:
 
 | Option            | What It Does                   |
-|-------------------|--------------------------------|
+| ----------------- | ------------------------------ |
 | **Attendee List** | View everyone who has a ticket |
 | **RSVP Report**   | See RSVP responses             |
 | **Bookings**      | View booking details           |
@@ -160,15 +160,7 @@ After the event, you can use the attendee list to:
 - Report on event success
 - Follow up with no-shows if needed
 
-### Cleanup: Remove Temporary Staff
 
-If you added helpers just for this event, remember to remove their store access:
-
-- Go to **Store Dashboard** → **Team**
-- Find anyone who was only helping for this event
-- Click **Remove from Store**
-
-Event cleanup isn’t just putting things in the bin – it includes checking who has access to your store and customer data!
 
 ---
 

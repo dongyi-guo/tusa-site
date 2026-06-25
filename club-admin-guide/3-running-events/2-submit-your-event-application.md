@@ -1,4 +1,4 @@
-# Submitting Event Applications
+# Submit Your Event Applications
 
 This guide covers event applications, risk assessments, temporary stall permits, and liquor permits for your club activities.
 
@@ -22,7 +22,7 @@ Event applications are submitted through the **Resources** tab in your club grou
 ### What You’ll Find in Resources[][4]
 
 | Section                 | Purpose                               |
-|-------------------------|---------------------------------------|
+| ----------------------- | ------------------------------------- |
 | **New Application**     | Start event/stall/liquor applications |
 | **Ongoing/Completed**   | Track submitted applications          |
 | **Medical Disclosures** | View attendee medical forms           |
@@ -50,7 +50,7 @@ When you submit an event application, the form asks about your event and automat
 No matter what your event is, these risks apply to **all events**:
 
 | Risk                    | What It Covers                           |
-|-------------------------|------------------------------------------|
+| ----------------------- | ---------------------------------------- |
 | Activities and Games    | Any activities at your event             |
 | Emergency Management    | Emergency procedures and contacts        |
 | Waste Management        | Rubbish and recycling                    |
@@ -430,7 +430,7 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 ### Timeline[][46]
 
 | Type                      | Typical Processing |
-|---------------------------|--------------------|
+| ------------------------- | ------------------ |
 | Simple events             | 2-3 business days  |
 | Events with alcohol       | 7-10 business days |
 | Complex/adventure events  | 5-7 business days  |
@@ -440,12 +440,12 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 
 ### Possible Outcomes[][47]
 
-| Status | What It Means |
-|----|----|
-| **Approved** | Good to go |
+| Status                       | What It Means                                     |
+| ---------------------------- | ------------------------------------------------- |
+| **Approved**                 | Good to go                                        |
 | **Approved with Conditions** | Approved, but you must meet specific requirements |
-| **Returned for Amendment** | We need changes or more information |
-| **Declined** | Not approved – see feedback for reasons |
+| **Returned for Amendment**   | We need changes or more information               |
+| **Declined**                 | Not approved – see feedback for reasons           |
 
 ### If Returned for Amendment[][48]
 

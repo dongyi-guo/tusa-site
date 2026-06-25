@@ -26,14 +26,14 @@ Your member type badge (Student, Club Admin, Club President, etc.)
 
 ### Profile Tabs[][4]
 
-| Tab | What’s Here | URL Pattern |
-|----|----|----|
-| **Activity** | Your posts and activity feed | `/my/members/{username}/` |
-| **Profile** | Your personal information | `/my/members/{username}/profile/` |
-| **Groups** | Clubs you belong to | `/my/members/{username}/groups/` |
-| **Deals** | Your personal deals list | `/my/members/{username}/deals/` |
-| **Documents** | Your personal documents | `/my/members/{username}/documents/` |
-| **Settings** | Account settings | `/my/members/{username}/settings/` |
+| Tab           | What’s Here                  | URL Pattern                         |
+| ------------- | ---------------------------- | ----------------------------------- |
+| **Activity**  | Your posts and activity feed | `/my/members/{username}/`           |
+| **Profile**   | Your personal information    | `/my/members/{username}/profile/`   |
+| **Groups**    | Clubs you belong to          | `/my/members/{username}/groups/`    |
+| **Deals**     | Your personal deals list     | `/my/members/{username}/deals/`     |
+| **Documents** | Your personal documents      | `/my/members/{username}/documents/` |
+| **Settings**  | Account settings             | `/my/members/{username}/settings/`  |
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ There are two ways to access club deals. They show different information.
 **Example:** `https://tusa-dev.its.utas.edu.au/my/members/a-lined-design/deals/`
 
 | What You See                 | Description                          |
-|------------------------------|--------------------------------------|
+| ---------------------------- | ------------------------------------ |
 | **Your avatar and name**     | Confirms your identity               |
 | **Deals you’re entitled to** | Based on your club memberships       |
 | **Full deal details**        | Discount codes, instructions         |
@@ -65,7 +65,7 @@ There are two ways to access club deals. They show different information.
 **Example:** `https://tusa-dev.its.utas.edu.au/clubs/clubs-index/tusa/deals/`
 
 | What You See                 | Description                   |
-|------------------------------|-------------------------------|
+| ---------------------------- | ----------------------------- |
 | **Club branding**            | Club name and logo            |
 | **Available deals**          | All deals for this club       |
 | **Deal details**             | Information about each deal   |
@@ -76,7 +76,7 @@ There are two ways to access club deals. They show different information.
 ### Which Path to Use?[][8]
 
 | Situation                       | Best Path                                 |
-|---------------------------------|-------------------------------------------|
+| ------------------------------- | ----------------------------------------- |
 | Showing ID at a business        | Profile Deals Tab (shows your name/photo) |
 | Browsing available deals        | Either works                              |
 | Checking if a deal exists       | Club Group path                           |
@@ -111,16 +111,16 @@ Find and click your club
 
 ### Club Group Tabs[][11]
 
-| Tab | What’s Here | Who Can See |
-|----|----|----|
-| **Activity** | Club news feed and posts | Members |
-| **Documents** | Club documents (constitution, minutes) | Members |
-| **Deals** | Club deals and discounts (admins can also add/edit) | Members + Admins |
-| **Events** | Club events | Members (some public) |
-| **Photos** | Club photo albums | Members |
-| **Club Docs** | Document library and uploads | Admins only |
-| **Resources + Forms** | Event applications, compliance forms, grants | Admins only |
-| **Manage** | Member management, settings | Admins only |
+| Tab                   | What’s Here                                         | Who Can See           |
+| --------------------- | --------------------------------------------------- | --------------------- |
+| **Activity**          | Club news feed and posts                            | Members               |
+| **Documents**         | Club documents (constitution, minutes)              | Members               |
+| **Deals**             | Club deals and discounts (admins can also add/edit) | Members + Admins      |
+| **Events**            | Club events                                         | Members (some public) |
+| **Photos**            | Club photo albums                                   | Members               |
+| **Club Docs**         | Document library and uploads                        | Admins only           |
+| **Resources + Forms** | Event applications, compliance forms, grants        | Admins only           |
+| **Manage**            | Member management, settings                         | Admins only           |
 
 ### Club Docs Tab (Admins Only)[][12]
 
@@ -129,7 +129,7 @@ The Club Docs tab is where club admins manage official club documents.
 **URL:** `https://tusa-dev.its.utas.edu.au/clubs/clubs-index/{club-slug}/club-documents/`
 
 | Section              | What’s Here                               |
-|----------------------|-------------------------------------------|
+| -------------------- | ----------------------------------------- |
 | **Document Library** | View all uploaded club documents          |
 | **Add a Doc**        | Upload new documents to your club library |
 
@@ -160,7 +160,7 @@ Current Deals – browse available deals for this club
 **What Admins See:**
 
 | Section           | What’s Here                                        |
-|-------------------|----------------------------------------------------|
+| ----------------- | -------------------------------------------------- |
 | **Current Deals** | View all active deals                              |
 | **Add a Deal**    | Create a new deal (via Gravity Form)               |
 | **Edit Deals**    | Modify or remove existing deals (via Gravity Form) |
@@ -192,7 +192,7 @@ Follow the instructions provided in each document/form
 **Events Section:** `https://tusa-dev.its.utas.edu.au/clubs/clubs-index/{club-slug}/resources/events/`
 
 | Section                 | What’s Here                                     |
-|-------------------------|-------------------------------------------------|
+| ----------------------- | ----------------------------------------------- |
 | **New Application**     | Start a new event/risk/stall/liquor application |
 | **Ongoing/Completed**   | View status of submitted applications           |
 | **Medical Disclosures** | Medical forms submitted by attendees            |
@@ -211,12 +211,12 @@ Access compliance documents submitted by attendees
 
 **Grants Section:** `https://tusa-dev.its.utas.edu.au/clubs/clubs-index/{club-slug}/resources/grants/`
 
-| Section | What’s Here |
-|----|----|
-| **How Grants Work** | Information about the grant system |
-| **Grants Applied For** | Your club’s grant applications and their status |
-| **Grant Application Form** | Apply for a new grant |
-| **Grant Claims** | Claim funds for approved grants |
+| Section                    | What’s Here                                     |
+| -------------------------- | ----------------------------------------------- |
+| **How Grants Work**        | Information about the grant system              |
+| **Grants Applied For**     | Your club’s grant applications and their status |
+| **Grant Application Form** | Apply for a new grant                           |
+| **Grant Claims**           | Claim funds for approved grants                 |
 
 **Grant Claims Process:**
 
@@ -234,9 +234,9 @@ See [Applying for Grants] for full details.
 
 Some tabs are intentionally hidden:
 
-| Hidden Tab | Why It’s Hidden |
-|----|----|
-| **Members** | Privacy – members don’t need to see who else is in the club. We don’t use contact/chat features. |
+| Hidden Tab       | Why It’s Hidden                                              |
+| ---------------- | ------------------------------------------------------------ |
+| **Members**      | Privacy – members don’t need to see who else is in the club. We don’t use contact/chat features. |
 | **Send Invites** | Wrong method for adding members. Use membership tags via product purchases instead. |
 
 ------------------------------------------------------------------------
@@ -250,7 +250,7 @@ The club store is the public-facing shop for each club.
 ### What’s in the Store[][17]
 
 | Section            | What’s Here                       | Access               |
-|--------------------|-----------------------------------|----------------------|
+| ------------------ | --------------------------------- | -------------------- |
 | **About**          | Club description, social links    | Public               |
 | **Products**       | Merchandise, memberships, tickets | Public               |
 | **Events**         | Event tickets for sale            | Public               |
@@ -259,7 +259,7 @@ The club store is the public-facing shop for each club.
 ### Store vs Group Deals[][18]
 
 | Store Deals           | Group Deals        |
-|-----------------------|--------------------|
+| --------------------- | ------------------ |
 | Public teaser only    | Full details       |
 | Shows what exists     | Shows how to use   |
 | Encourages membership | Rewards membership |
@@ -325,7 +325,7 @@ Or navigate via: Profile → Store Manager → Dashboard
 ### Dashboard Tabs[][25]
 
 | Tab                    | What’s Here                   |
-|------------------------|-------------------------------|
+| ---------------------- | ----------------------------- |
 | **Dashboard Home**     | Overview and quick actions    |
 | **Products**           | Manage store products         |
 | **Orders**             | View and manage orders        |
@@ -346,7 +346,7 @@ This is where you download member lists for reaffiliation and record-keeping.
 ### For Regular Members[][28]
 
 | I want to…          | Go to…                        |
-|---------------------|-------------------------------|
+| ------------------- | ----------------------------- |
 | See my deals        | Profile → Deals tab           |
 | Find club documents | My club group → Documents tab |
 | Check club events   | My club group → Events tab    |
@@ -356,7 +356,7 @@ This is where you download member lists for reaffiliation and record-keeping.
 ### For Club Admins[][29]
 
 | I want to…         | Go to…                                      |
-|--------------------|---------------------------------------------|
+| ------------------ | ------------------------------------------- |
 | Manage products    | Dashboard → Products                        |
 | Export member list | Dashboard → Club Admin → Stats + CSV Export |
 | Post announcement  | Club group → Activity (create post)         |
@@ -366,7 +366,7 @@ This is where you download member lists for reaffiliation and record-keeping.
 ### For Club Presidents[][30]
 
 | I want to…             | Go to…                        |
-|------------------------|-------------------------------|
+| ---------------------- | ----------------------------- |
 | Complete reaffiliation | Dashboard → Reaffiliation tab |
 | Manage store settings  | Dashboard → Settings          |
 | Update committee       | Reaffiliation form (annual)   |

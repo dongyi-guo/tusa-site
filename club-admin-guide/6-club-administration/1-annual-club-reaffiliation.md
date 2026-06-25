@@ -27,7 +27,7 @@ You maintain your affiliated status and benefits
 ## When Does Reaffiliation Happen?[][3]
 
 | Timing                  | What Happens               |
-|-------------------------|----------------------------|
+| ----------------------- | -------------------------- |
 | **Late Semester 2**     | Reaffiliation period opens |
 | **Semester Break**      | Main reaffiliation window  |
 | **Start of Semester 1** | Deadline approaches        |
@@ -60,7 +60,7 @@ The club president account is the **permanent keystone** of your club. It cannot
 ### What This Means[][6]
 
 | What Stays             | What Changes                              |
-|------------------------|-------------------------------------------|
+| ---------------------- | ----------------------------------------- |
 | The user account       | The person’s name (in the profile fields) |
 | The login email        | The person’s contact details              |
 | The store connection   | Phone, student ID, address                |
@@ -96,9 +96,9 @@ This is important to understand before completing reaffiliation.
 
 ### Two Types of Accounts[][10]
 
-| Account Type | Purpose | Example |
-|----|----|----|
-| **Personal Account** | Your own individual account | sarah.smith@utas.edu.au |
+| Account Type           | Purpose                              | Example                 |
+| ---------------------- | ------------------------------------ | ----------------------- |
+| **Personal Account**   | Your own individual account          | sarah.smith@utas.edu.au |
 | **Club Admin Account** | Shared account that gets handed down | president@chessclub.org |
 
 ### Personal Accounts[][11]
@@ -148,7 +148,7 @@ You understand you’re updating “the club’s” profile, not yours
 **This is critical:** Even if you’re using a club admin (handed-down) account, you still need to provide YOUR personal email in the “Personal Email” field.
 
 | Field              | What Goes Here                                  |
-|--------------------|-------------------------------------------------|
+| ------------------ | ----------------------------------------------- |
 | **Account Email**  | The login email (can be shared club email)      |
 | **Personal Email** | YOUR actual personal email (must be individual) |
 
@@ -166,10 +166,10 @@ You cannot have multiple people logging in with the same email address. Each per
 
 ### Two Email Fields Explained[][17]
 
-| Field | Purpose | Must Be Unique? |
-|----|----|----|
-| **Account Email (Login)** | The email you log in with | YES – one per person |
-| **Personal/Alternate Email** | Secondary contact, informational | No – can be shared |
+| Field                        | Purpose                          | Must Be Unique?      |
+| ---------------------------- | -------------------------------- | -------------------- |
+| **Account Email (Login)**    | The email you log in with        | YES – one per person |
+| **Personal/Alternate Email** | Secondary contact, informational | No – can be shared   |
 
 Think of it this way:
 
@@ -243,11 +243,11 @@ We don’t mind that you all share access to chessclub@gmail.com – that’s up
 
 ### Common Mistakes[][21]
 
-| Mistake | Problem | Solution |
-|----|----|----|
-| All committee members use same login email | Can’t create multiple accounts | Only president uses shared email as login; others use personal emails |
-| Role-based email removed but person kept | Confusion about who the account belongs to | Either keep the role email (update details) OR remove it and add person with personal email |
-| Personal email user left but account kept | Wrong person has access | Remove them from reaffiliation |
+| Mistake                                    | Problem                                    | Solution                                                     |
+| ------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ |
+| All committee members use same login email | Can’t create multiple accounts             | Only president uses shared email as login; others use personal emails |
+| Role-based email removed but person kept   | Confusion about who the account belongs to | Either keep the role email (update details) OR remove it and add person with personal email |
+| Personal email user left but account kept  | Wrong person has access                    | Remove them from reaffiliation                               |
 
 ------------------------------------------------------------------------
 
@@ -595,7 +595,7 @@ You can continue operating while processing
 ### What Access Do Committee Members Get?[][47]
 
 | Role            | Club Dashboard | Store Admin | Group Admin |
-|-----------------|----------------|-------------|-------------|
+| --------------- | -------------- | ----------- | ----------- |
 | President       | Full Access    | Full Access | Organiser   |
 | Treasurer       | Full Access    | Full Access | Admin       |
 | Secretary       | Full Access    | Limited     | Admin       |

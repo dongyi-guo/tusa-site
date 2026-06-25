@@ -68,8 +68,8 @@ You will be invited to submit a full affiliation application if:
 
 Once you are invited to apply, you’ll need to prepare following documents:
 
-| Document|What It Is|
-| ---| --- |
+| Document            | What It Is                                         |
+| ------------------- | -------------------------------------------------- |
 | **Constitution**    | Your club’s rules and governance structure         |
 | **Meeting minutes** | Record of your founding meeting                    |
 | **Member list**     | List of founding members (minimum number required) |
@@ -96,8 +96,8 @@ For your affiliation application, it must include:
 
 When your application is approved, the system automatically creates:
 
-|Item|What You Get|
-|---|---|
+| Item                   | What You Get                               |
+| ---------------------- | ------------------------------------------ |
 | **Club group**         | Your private group on the TUSA website     |
 | **President account**  | Login for managing the club                |
 | **Committee accounts** | Logins for your executive members          |
@@ -112,7 +112,7 @@ You’ll receive login details by email and can start setting up your club.
 
 The whole affiliation process will take approximately **2-4 weeks**.
 
-![affiliation_timeline](../media/affiliation_timeline.png)
+![affiliation_timeline](/Users/dongyi-guo/Documents/club-admin-guide/media/affiliation_timeline.png)
 
 Plan ahead if you want to be affiliated by a specific date.
 

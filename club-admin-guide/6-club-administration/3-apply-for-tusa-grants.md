@@ -1,4 +1,4 @@
-# Applying for TUSA Grants
+# Apply for TUSA Grants
 
 [][1]
 
@@ -10,12 +10,12 @@ This guide explains how to apply for grants to fund your club’s activities, ev
 
 TUSA offers several grant programs throughout the year to support club activities:
 
-| Grant Type | Purpose | Typical Amount |
-|----|----|----|
-| Event Grants | Funding for club events and activities | Varies by event |
-| Equipment Grants | Purchase equipment for your club | Up to approved limits |
-| Development Grants | Training, workshops, competitions | Varies |
-| Special Purpose Grants | Specific initiatives announced periodically | As advertised |
+| Grant Type             | Purpose                                     | Typical Amount        |
+| ---------------------- | ------------------------------------------- | --------------------- |
+| Event Grants           | Funding for club events and activities      | Varies by event       |
+| Equipment Grants       | Purchase equipment for your club            | Up to approved limits |
+| Development Grants     | Training, workshops, competitions           | Varies                |
+| Special Purpose Grants | Specific initiatives announced periodically | As advertised         |
 
 **Note:** Available grants change throughout the year. Check the grants page to see what’s currently open.
 
@@ -104,7 +104,7 @@ Any relevant permits or approvals
 Or navigate: Club Group → Resources + Forms tab → Grants
 
 | Tab                        | What’s Here                        |
-|----------------------------|------------------------------------|
+| -------------------------- | ---------------------------------- |
 | **How Grants Work**        | Information about the grant system |
 | **Grants Applied For**     | Your applications and their status |
 | **Grant Application Form** | Apply for a new grant              |
@@ -201,7 +201,7 @@ Submit your application
 ### Possible Outcomes[][15]
 
 | Status                 | What It Means                                  |
-|------------------------|------------------------------------------------|
+| ---------------------- | ---------------------------------------------- |
 | **Approved**           | Full amount granted – funds will be processed  |
 | **Partially Approved** | Some items/amounts approved – see notes        |
 | **Request for Info**   | We need more information – respond promptly    |
@@ -249,10 +249,10 @@ Resubmit for continued processing
 
 **Grant approval and receiving funds are two separate steps:**
 
-| Step | What It Is |
-|----|----|
+| Step               | What It Is                                                 |
+| ------------------ | ---------------------------------------------------------- |
 | **Grant Approval** | Your application is approved – you have a grant allocation |
-| **Grant Claim** | You submit a claim form to actually receive the money |
+| **Grant Claim**    | You submit a claim form to actually receive the money      |
 
 **Approval does NOT automatically send you money.** You need to submit a Grant Claim Form to receive your funds.
 

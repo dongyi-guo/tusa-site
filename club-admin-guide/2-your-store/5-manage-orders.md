@@ -15,8 +15,7 @@ This guide covers viewing and managing orders for your club store.
 
 **Direct URL:** `https://tusa-dev.its.utas.edu.au/store-manager/new/#orders`
 
-> [!CAUTION] Check If It's Your Store
-> Before managing orders, check the **welcome bar** at the top of the dashboard. It shows which store you’re managing. Make sure it’s your club’s store.
+**Check If It's Your Store Before managing orders**, check the **Welcome Bar** at the top of the dashboard. It shows which store you’re managing. Make sure it’s your club’s store.
 
 ---
 
@@ -28,27 +27,27 @@ Orders move through different statuses as they’re processed. TUSA uses both st
 
 An ongoing order (undrafted) can have seven standard statuses:
 
-| Status | What It Means |
-| ---- | ---- |
-| **Pending Payment** | Order placed but payment not yet received |
-| **Processing** | Payment received, order ready to be fulfilled |
-| **Completed** | Order fully fulfilled |
-| **Cancelled** | Order cancelled (by you or customer) |
-| **Refunded** | Payment returned to customer |
-| **Failed** | Payment failed |
-| **On Hold** | Waiting for something (payment verification, stock, etc.) |
+| Status              | What It Means                                             |
+| ------------------- | --------------------------------------------------------- |
+| **Pending Payment** | Order placed but payment not yet received                 |
+| **Processing**      | Payment received, order ready to be fulfilled             |
+| **Completed**       | Order fully fulfilled                                     |
+| **Cancelled**       | Order cancelled (by you or customer)                      |
+| **Refunded**        | Payment returned to customer                              |
+| **Failed**          | Payment failed                                            |
+| **On Hold**         | Waiting for something (payment verification, stock, etc.) |
 
 ### Custom Statuses
 
 TUSA has added these custom statuses for specific scenarios:
 
-| Status | What It Means | When to Use |
-| ---- | ---- | ---- |
-| **Ready for Pickup** | Order prepared and waiting for customer collection | When order is packed and ready |
-| **Pickedup** | Customer has collected their order | When customer collects in person |
-| **On the Way** | Order dispatched for delivery | When you’ve posted/shipped the order |
-| **Delivered** | Order received by customer | When delivery confirmed |
-| **Returned from Hire** | Hire equipment returned | For TUSA Hire Store items |
+| Status                 | What It Means                                      | When to Use                          |
+| ---------------------- | -------------------------------------------------- | ------------------------------------ |
+| **Ready for Pickup**   | Order prepared and waiting for customer collection | When order is packed and ready       |
+| **Pickedup**           | Customer has collected their order                 | When customer collects in person     |
+| **On the Way**         | Order dispatched for delivery                      | When you’ve posted/shipped the order |
+| **Delivered**          | Order received by customer                         | When delivery confirmed              |
+| **Returned from Hire** | Hire equipment returned                            | For TUSA Hire Store items            |
 
 ---
 
@@ -59,7 +58,7 @@ TUSA has added these custom statuses for specific scenarios:
 The Orders page shows all orders for your store with information below:
 
 | Column      | What It Shows                        |
-|-------------|--------------------------------------|
+| ----------- | ------------------------------------ |
 | **Order**   | Order number (click to view details) |
 | **Date**    | When the order was placed            |
 | **Status**  | Current order status                 |
@@ -112,7 +111,7 @@ Depends on the type of orders and products/memberships, the order processing wil
 - Change status to **Completed**
 
 > [!TIP] Steps To Change the Status
-> 
+>
 > - Open the order
 > - Find the **Status** dropdown
 > - Select the new status

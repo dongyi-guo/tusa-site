@@ -1,4 +1,4 @@
-# Creating Events
+# Creating an Event
 
 This guide explains how to create events for your club. You’ll need to create a draft event before you can submit an event application.
 
@@ -70,23 +70,21 @@ This guide explains how to create events for your club. You’ll need to create 
 
 Categories control where your event appears and how people find it. **You must select the correct categories** or your event won’t show up in the right places.
 
-> [!CAUTION] NEVER Create New Categories!
->
-> Only use the categories that already exist. If you create a new category:
->
-> – It will NOT appear in any filters
-> – It will NOT work with the events grid
-> – Students will NOT be able to find your event
-> – The system only recognises existing categories
->
-> If you think a category is missing, contact TUSA – don’t create it yourself.
+**NEVER Create New Categories!** Only use the categories that already exist. If you create a new category:
+
+* It will NOT appear in any filters
+* It will NOT work with the events grid
+* Students will NOT be able to find your event
+* The system only recognises existing categories
+
+If you think a category is missing, contact TUSA – don’t create it yourself.
 
 ### Campus Categories
 
 Select the campus where your event takes place:
 
 | Category                | When to Select                    |
-|-------------------------|-----------------------------------|
+| ----------------------- | --------------------------------- |
 | **Sandy Bay Campus**    | Event is at Sandy Bay             |
 | **Hobart City Campus**  | Event is in Hobart city           |
 | **Inveresk Campus**     | Event is at Inveresk (Launceston) |
@@ -105,7 +103,7 @@ For instance:
 Select the type that best describes your event:
 
 | Category                            | When to Select                        |
-|-------------------------------------|---------------------------------------|
+| ----------------------------------- | ------------------------------------- |
 | **Club Events**                     | Standard club activities and events   |
 | **TUSA Events**                     | TUSA-organised (not club) events      |
 | **Food Hub**                        | Food Hub distributions and activities |
@@ -153,13 +151,13 @@ Events run by TUSA departments (not clubs):
 
 Some events belong to specific programs and appear on dedicated pages:
 
-| Category | Where It Appears | Examples |
-|----|----|----|
-| **Food Hub** | Food Hub page | Food distributions, cooking classes |
-| **UTE (Unique Tassie Experiences)** | UTE events page | Unique Tassie Experiences program |
-| **Shut Up and Write** | SUW page | Writing/study sessions |
-| **Orientation** | O-Week pages | Orientation week events |
-| **Post Graduate Students** | Postgrad pages | Postgrad-specific events |
+| Category                            | Where It Appears | Examples                            |
+| ----------------------------------- | ---------------- | ----------------------------------- |
+| **Food Hub**                        | Food Hub page    | Food distributions, cooking classes |
+| **UTE (Unique Tassie Experiences)** | UTE events page  | Unique Tassie Experiences program   |
+| **Shut Up and Write**               | SUW page         | Writing/study sessions              |
+| **Orientation**                     | O-Week pages     | Orientation week events             |
+| **Post Graduate Students**          | Postgrad pages   | Postgrad-specific events            |
 
 **Important:** If your event is part of one of these programs, you MUST select the program category. Without it, the event won’t appear on the program’s dedicated page.
 
@@ -257,14 +255,14 @@ Now that you have a draft event, you need to submit an event application:
 
 ## Common Mistakes
 
-| Mistake | Problem | Solution |
-|----|----|----|
-| No campus selected | Event doesn’t appear for any campus | Always select at least one campus |
-| Wrong campus selected | Students at wrong campus see it | Double-check your venue location |
-| No event type | Harder for students to find | Select at least one event type |
-| Publishing directly | Bypasses approval process | Always save as draft first |
-| Vague title | Students don’t know what it is | Be specific and descriptive |
-| Missing time | Students don’t know when to show up | Always include start AND end time |
+| Mistake               | Problem                             | Solution                          |
+| --------------------- | ----------------------------------- | --------------------------------- |
+| No campus selected    | Event doesn’t appear for any campus | Always select at least one campus |
+| Wrong campus selected | Students at wrong campus see it     | Double-check your venue location  |
+| No event type         | Harder for students to find         | Select at least one event type    |
+| Publishing directly   | Bypasses approval process           | Always save as draft first        |
+| Vague title           | Students don’t know what it is      | Be specific and descriptive       |
+| Missing time          | Students don’t know when to show up | Always include start AND end time |
 
 ---
 
