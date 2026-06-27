@@ -10,11 +10,13 @@ This guide will assist you on managing products to your store, normally, you cou
 | **Memberships**   | Annual membership, multi-year membership | No (digital)    |
 | **Event Tickets** | Event entry, workshop registration       | No (digital)    |
 
-## Use Proper Account
+> **Make sure you use the correct account**
+>
+> You can **ONLY** do this with a **Club President** or **Club Admin** account, not your personal account.
+>
+> Only these accounts can access the "Store Management" page on the **Account Page**
 
-You can **ONLY** do this with a **Club President** or **Club Admin** account, not your personal account.
-
-These accounts can access the "Store Management" page on the **Account Page**
+---
 
 ## Visit Store Manager
 

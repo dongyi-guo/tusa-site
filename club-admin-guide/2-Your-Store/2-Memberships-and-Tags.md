@@ -1,12 +1,17 @@
-# Sell Memberships
+# Memberships and Tags
 
-This guide explains how to create products that give buyers membership to your club. When someone purchases a membership product, they automatically get access to your club’s private group.
+Membership is not just a title, it is a symbol of belonging. Create a membership product to segue others into your club.
 
-**Before reading this:** Make sure you’ve read [Adding Products](./1-adding-products-to-your-club-store.md) for the basics.
+Membership product is a type of product, please make sure you’ve read [Your Products](./1-Your-Products.md) page for the basics.
+
+On the TUSA website, memberships work through **tags.** When customer purchases your membership product:
+
+- Customer's account will be added with your membership tag upon your setting
+- With the tag, the account will automatically gain access to your club’s private group
 
 ---
 
-## How Membership Products Work
+## Membership Products
 
 After the customer purchases a membership product:
 
@@ -15,8 +20,6 @@ After the customer purchases a membership product:
 2. The customer will gain access to your club group.
    - They can see: deals, documents, news feed, member content.
 3. When the tag expires, the customer's access will be revoked.
-
----
 
 ## Before You Create a Membership Product
 

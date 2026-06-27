@@ -1,4 +1,4 @@
-# Annual Club Reaffiliation
+# Annual Reaffiliation
 
 [][1]
 

@@ -30,8 +30,6 @@ All you need to provide is your **club bank account details**:
 
 If you *haven’t* already provided these during affiliation, contact the Clubs team to supply the information.
 
----
-
 ## What if it doesn't work?
 
 **DO NOT try to fix or reconnect it yourself!**
@@ -51,8 +49,6 @@ Once it happens, **ONLY** TUSA will be able to fix this. Please:
 * **Report the disconnection**
 
 TUSA will handle the rest on your behalf.
-
----
 
 ## Change Bank Details
 

@@ -115,9 +115,9 @@ The whole affiliation process will take approximately **2-4 weeks**, plan ahead 
 
 ![affiliation_timeline](../../club-admin-guide/media/affiliation_timeline.png)
 
+---
+
 ## Frequently Asked Questions (FAQs)
-
-
 
 ### Can I skip the EOI and just apply for affiliation?
 
