@@ -1,70 +1,52 @@
-# Uploading and Managing Club Documents
+# Club Documents
 
 [][1]
 
-Your club has a central document library where you can store important files. Upload once, use everywhere – no more re-uploading the same insurance certificate for every application.
+Your club has a central document library. Upload once, use everywhere, no more re-uploading. It's a secure storage for all your club's important files:
 
-------------------------------------------------------------------------
+- Insurance certificates
 
-## What Is the Club Document Library?[][2]
+- RSA and First Aid certificates
 
-The document library is your club’s secure storage for important files:
+- Constitution and governance documents
 
-Insurance certificates
+- Financial reports
 
-RSA and First Aid certificates
+- Meeting minutes
 
-Constitution and governance documents
+- Any other club documents
 
-Financial reports
+---
 
-Meeting minutes
+## Why Should I Use?
 
-Any other club documents
+This club document library comes with various benefits:
 
-### Benefits[][3]
-
-| Benefit                         | How It Helps                                                 |
+| Benefits                        | How It Helps                                                 |
 | ------------------------------- | ------------------------------------------------------------ |
 | **Upload once, use everywhere** | Select existing documents in applications instead of re-uploading |
 | **Year-on-year continuity**     | Documents stay with the club when committee changes          |
 | **Expiry tracking**             | Track when certificates need renewing                        |
 | **Always accessible**           | Committee members can access anytime                         |
-| **Audit trail**                 | See who uploaded what and when                               |
+| **Audit trail**                 | See who uploaded what and when (Only for TUSA Staff)         |
 
 ------------------------------------------------------------------------
 
-## Accessing Your Document Library[][4]
+## Where Is It?
 
-Log in to the TUSA website
+The library can be accessed on the **club page > Club Docs > Document Library** tab. Here you’ll see a list of all documents uploaded by your club with columns:
 
-Go to your **Club Dashboard**
+- Document name/description
+- Expiry date
+- Details
 
-Click on the **Club Documents** tab
-
-Here you’ll see all documents uploaded by your club, with details like:
-
-Document name
-
-Category
-
-Expiry date (if applicable)
-
-Who uploaded it
-
-Upload date
+- Download
 
 ------------------------------------------------------------------------
 
-## Uploading Documents[][5]
+## Upload Documents
 
-### Step 1: Go to Club Documents[][6]
-
-Club Dashboard → **Club Documents** tab
-
-Click **Upload Document** or **Add New**
-
-### Step 2: Fill in Document Details[][7]
+To upload a new document, same under your club page and Club Docs tab, navigate to **Add a Doc** sub tab. You will see the form to upload your new document:
 
 | Field                 | What to Enter                                                |
 | --------------------- | ------------------------------------------------------------ |
@@ -73,23 +55,19 @@ Click **Upload Document** or **Add New**
 | **Expiry Date**       | For certificates – when does it expire? (optional)           |
 | **Notes**             | Any additional information (optional)                        |
 
-### Step 3: Upload the File[][8]
+After filling all the required fields, attach the document in **Upload Document**, and click the **Upload Document** button to finish the upload. Please do mind for the document:
 
-Click to upload or drag and drop
+- Accepted formats: PDF, DOC, DOCX, JPG, PNG
 
-Accepted formats: PDF, DOC, DOCX, JPG, PNG
-
-Maximum file size: 10MB
-
-### Step 4: Save[][9]
-
-Click **Save** or **Submit** to add the document to your library.
+- Maximum file size: 10MB
 
 ------------------------------------------------------------------------
 
 ## Document Categories[][10]
 
-Choosing the right category is important – it helps you find documents later and ensures they appear in the right sections when you’re completing applications.
+**It is very important to choose the right categories for your document**, it helps you find documents later and ensures they appear in the right sections when you’re completing applications. If you upload a document with the wrong category, you might not see it when completing applications. Each section of an application will show documents filtered by category.
+
+You can select multiple categories for a single document if it fits more than one.
 
 | Category                                | What to Upload                                     |
 | --------------------------------------- | -------------------------------------------------- |
@@ -106,43 +84,11 @@ Choosing the right category is important – it helps you find documents later a
 | **Affiliation/Reaffiliation Documents** | Auto-set when uploading during affiliation         |
 | **Grant Applications**                  | Auto-set when uploading during grant applications  |
 
-You can select multiple categories for a single document if it fits more than one.
-
-**Tip:** If you upload a document with the wrong category, you might not see it when completing applications. Each section of an application shows documents filtered by category.
-
-------------------------------------------------------------------------
-
-## Using Documents in Applications[][11]
-
-When you’re completing an event application or grant application, you don’t need to re-upload documents that are already in your library.
-
-### Selecting Existing Documents[][12]
-
-Look for checkboxes listing your club’s documents
-
-Tick the boxes for documents you want to attach
-
-Documents appear based on their category
-
-**Example:** When completing the insurance section of an event application, you’ll see checkboxes for documents in your “Insurance & Liability” category.
-
-### Uploading New Documents During Applications[][13]
-
-You can also upload new documents directly while completing an application:
-
-Look for “Upload additional documents” sections
-
-Documents you upload here automatically get added to your club’s document library
-
-They’ll be available for future applications too
-
 ------------------------------------------------------------------------
 
 ## Expiry Date Tracking[][14]
 
-For time-sensitive documents like certificates, always set an expiry date.
-
-### Documents That Typically Expire[][15]
+For time-sensitive documents like certificates, always set an expiry date:
 
 | Document Type                  | Typical Validity            |
 | ------------------------------ | --------------------------- |
@@ -152,41 +98,43 @@ For time-sensitive documents like certificates, always set an expiry date.
 | Working With Vulnerable People | 5 years                     |
 | Food Handling Certificates     | Varies                      |
 
-### Why Track Expiry Dates[][16]
+You set an expiry for the document to:
 
-Know when to renew before it’s too late
+- Know when to renew before it’s too late
 
-Avoid delays on applications due to expired documents
+- Avoid delays on applications due to expired documents
 
-TUSA can help remind you when documents are expiring
-
-------------------------------------------------------------------------
-
-## Managing Existing Documents[][17]
-
-### Viewing Documents[][18]
-
-Click on any document to view details
-
-Download documents as needed
-
-### Editing Documents[][19]
-
-You can update document names, categories, and notes
-
-To replace an expired document, upload the new version as a new document
-
-### Deleting Documents[][20]
-
-Old or incorrect documents can be deleted
-
-Be careful – deleted documents can’t be recovered
-
-Don’t delete documents that are referenced in active applications
+- TUSA can help remind you when documents are expiring
 
 ------------------------------------------------------------------------
 
-## Who Can Access Club Documents?[][21]
+## Manage Documents[][17]
+
+### View Documents[][18]
+
+- Click on any document to view details
+
+- Download documents as needed
+
+### Edit Documents[][19]
+
+- You can update document names, categories, and notes
+
+- To replace an expired document, upload the new version as a new document
+
+### Delete Documents[][20]
+
+- Old or incorrect documents can be deleted
+
+- Be careful – deleted documents can’t be recovered
+
+- Don’t delete documents that are referenced in active applications
+
+------------------------------------------------------------------------
+
+## Who Can Access?
+
+Documents are only visible to your club and TUSA staff – not to other clubs or the public.
 
 | Role                   | Access                                               |
 | ---------------------- | ---------------------------------------------------- |
@@ -195,43 +143,41 @@ Don’t delete documents that are referenced in active applications
 | **TUSA Staff**         | Can view all club documents (for compliance/support) |
 | **Other club members** | No access to document library                        |
 
-Documents are only visible to your club and TUSA staff – not to other clubs or the public.
-
 ------------------------------------------------------------------------
 
-## Tips for Good Document Management[][22]
+## Best Practices
 
 ### Naming Conventions[][23]
 
-Use clear, consistent names:
+- Use clear, consistent names:
 
-**Good:** “Public Liability Insurance Certificate 2026”
+  - **Good:** “Public Liability Insurance Certificate 2026”
 
-**Bad:** “scan001.pdf”
+  - **Bad:** “scan001.pdf”
 
-Include the year for documents that get renewed annually.
+- Include the year for documents that get renewed annually.
 
 ### Keep Documents Current[][24]
 
-Upload new versions when documents are renewed
+- Upload new versions when documents are renewed
 
-Set expiry dates so you know when to renew
+- Set expiry dates so you know when to renew
 
-Remove outdated documents to avoid confusion
+- Remove outdated documents to avoid confusion
 
 ### Upload Early[][25]
 
-Don’t wait until you’re submitting an application to upload documents:
+- Don’t wait until you’re submitting an application to upload documents:
 
-Upload insurance certificates as soon as you receive them
+- Upload insurance certificates as soon as you receive them
 
-Upload meeting minutes after each AGM
+- Upload meeting minutes after each AGM
 
-Keep your library up to date throughout the year
+- Keep your library up to date throughout the year
 
 ------------------------------------------------------------------------
 
-## Common Questions[][26]
+## Frequently Asked Questions (FAQs)
 
 ### Why can’t I see my document in an application?[][27]
 
@@ -241,33 +187,15 @@ Check the document category. Applications show documents filtered by category �
 
 ### Can I upload the same document twice?[][28]
 
-You can, but it’s not recommended. If you need to update a document, either:
+**You can, but it’s not recommended**. If you need to update a document, either:
 
-Upload the new version as a new document with a clear name (e.g., “2026” vs “2025”)
+- Upload the new version as a new document with a clear name (e.g., “2026” vs “2025”)
 
-Delete the old version and upload the replacement
+- Delete the old version and upload the replacement
 
 ### What happens to documents when the committee changes?[][29]
 
 Documents stay with the club, not with individual people. When you hand over to a new committee, they’ll have access to all the club’s documents.
-
-### Can other clubs see our documents?[][30]
-
-No. Your documents are only visible to:
-
-Your club’s admins and president
-
-TUSA staff
-
-### What file types can I upload?[][31]
-
-PDF (recommended for most documents)
-
-DOC, DOCX (Word documents)
-
-JPG, PNG (images, scanned documents)
-
-Maximum size: 10MB per file
 
 ### How do I upload multiple documents at once?[][32]
 

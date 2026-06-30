@@ -8,7 +8,7 @@ The key takeaway is: **Your club admin accounts can be role-based, meaning they 
 
 ## The Club President Account
 
-Your club's president account is **the most permanent** existence to your club, your club exists as long as this account exists. Also it is the only role that connects to your store, which means the club president account is **permanently linked** to your club’s store as the owner. This connection:
+Your club's president account is **the most permanent** existence to your club, your club exists as long as this account exists. Also it is the only role that connects to your store, which means the club president account is **permanently linked** to your club’s store as the **owner**. This connection:
 
 - Cannot be transferred to a different account
 
@@ -154,6 +154,24 @@ If the account has a personal email address, such as `sarah.smith@utas.edu.au` :
 
 - **If they’re NOT a member:** removed from the group entirely
 
+### Which One Should I Use?
+
+#### Use Personal Account If:
+
+- Cleaner separation between you and the role
+
+- Your personal contributions stay linked to you
+
+- Easier transition when you leave
+
+#### Use Club Admin Role-based Account if
+
+- Your club has an established handover process
+
+- You have a club email address
+
+- You understand you’re updating “the club’s” profile, not yours
+
 ### Committee Member Access
 
 Different committee member will have different access to different things:
@@ -165,6 +183,84 @@ Different committee member will have different access to different things:
 | Committee role badge | Identifies their role in the directory |
 
 ------------------------------------------------------------------------
+
+## Accounts v.s. Email Addresses
+
+In terms of accounts and email addresses, there are some golden rules:
+
+- **One email address == One user account**
+- Each person **must use** their own unique login email
+
+- **Never have** multiple people logging into the same account for various tasks
+
+### Two Email Fields Explained[][17]
+
+| Field                        | Purpose                          | Must Be Unique?      |
+| ---------------------------- | -------------------------------- | -------------------- |
+| **Account Email (Login)**    | The email you log in with        | YES – one per person |
+| **Personal/Alternate Email** | Secondary contact, informational | No – can be shared   |
+
+### For Role-Based Club Emails[][18]
+
+Example: treasurer@club.com, president@club.com, secretary@club.com
+
+- Each role email is a separate user account
+
+- When committee changes, the ACCOUNT stays but PERSONAL DETAILS change
+
+- New treasurer updates their name, phone, student ID on the treasurer@club.com account
+
+- Login credentials get handed to the new person
+
+**Example:**
+
+    treasurer@club.com account:
+      Last year: Sarah Smith's details
+      This year: John Brown's details (Sarah handed over login to John)
+
+**If a role is removed:**\
+If you had assistanttreasurer@club.com last year but don’t have that role this year – remove that account entirely from the reaffiliation.
+
+### Scenario 2: Personal Email Accounts[][19]
+
+Your committee members use their own emails (realname@utas.edu.au)
+
+**How it works:**
+
+Each person has their own account
+
+When someone leaves committee, remove them (they get demoted to regular member)
+
+When someone joins, add them with their personal email
+
+**If someone leaves:**\
+If sarah.smith@utas.edu.au was secretary last year but isn’t on committee this year – remove them from the reaffiliation form.
+
+### Scenario 3: One Shared Club Email[][20]
+
+Your club has ONE email address that everyone shares (e.g., chessclub@gmail.com)
+
+**The challenge:** Only ONE person can have this as their login email.
+
+**Solution:**
+
+**President** uses chessclub@gmail.com as their Account Email (login)
+
+**Everyone else** uses their PERSONAL email as their Account Email
+
+Everyone can list chessclub@gmail.com as their Alternate/Personal Email field
+
+**Example:**
+
+    President account:
+      Account Email (login): chessclub@gmail.com
+      Personal Email: president.realname@utas.edu.auTreasurer account:
+      Account Email (login): treasurer.realname@utas.edu.au
+      Personal Email: chessclub@gmail.com (shared access noted here)Secretary account:
+      Account Email (login): secretary.realname@utas.edu.au
+      Personal Email: chessclub@gmail.com (shared access noted here)
+
+We don’t mind that you all share access to chessclub@gmail.com – that’s up to you. But each person needs their own unique login email to have their own account.
 
 ## Main Take-aways
 

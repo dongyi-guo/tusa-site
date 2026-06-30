@@ -21,7 +21,7 @@ Once connected, TUSA will **create** and **maintain** the connection between you
   - Stripe has a standard payout schedule, the money will reach the account in scheduled time
 - TUSA can provide support with admin access
 
-## What should we do?
+## What Should We Do?
 
 All you need to provide is your **club bank account details**:
 
@@ -30,7 +30,7 @@ All you need to provide is your **club bank account details**:
 
 If you *haven’t* already provided these during affiliation, contact the Clubs team to supply the information.
 
-## What if it doesn't work?
+## What If It Does't Work?
 
 **DO NOT try to fix or reconnect it yourself!**
 

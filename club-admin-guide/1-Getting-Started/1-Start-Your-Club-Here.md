@@ -40,7 +40,7 @@ The meeting is for you to:
 - Get guidance on your constitution and documentation
 - Ask any questions you have
 
-### What to prepare?
+### What To Prepare?
 
 Please be ready with your meeting by having:
 
@@ -79,7 +79,7 @@ You will need to nominate your founding executive committee, this includes:
 - Treasurer (required)
 - Any other optional committee roles as per your constitution
 
-### What should be there?
+### What Should Be There?
 
 Your application **MUST** include:
 
