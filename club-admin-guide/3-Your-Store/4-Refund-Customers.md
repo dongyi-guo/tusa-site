@@ -1,16 +1,18 @@
 # Refund Customers
 
-This guide covers how to refund a customer when something goes wrong with an order — a faulty product, a cancelled event, a member changing their mind, anything that needs money to flow back.
+There could always be something going wrong, but we got you covered. No matter it is a faulty product, a cancelled event, or a member changing their mind, you will be able to flow the money back and keep your customer in trust and promise of the quality work you and your club supplies.
 
-You handle refunds entirely through your **Store Manager dashboard**. You don’t need to log in anywhere else, and you don’t need access to Stripe — your dashboard does the talking to Stripe behind the scenes when you click refund.
+You handle refunds **entirely on Store Manager, no Stripe, nowhere else.** Your Stripe will also update according to the TUSA website. 
 
 ---
 
-## How Refunds Work Here
+## How Does It Work?
 
-The customer paid through Stripe when they checked out. That money lands in your club’s Stripe balance and **pays out to your club’s bank account within the day** — it doesn’t sit in escrow. When you process a refund, the money goes back to the customer from your Stripe balance, and your balance drops by that amount.
+Eventually, when your customers check out, they pay through Stripe, **the money will go to Stripe balance first and pays out to your club’s bank account within the day** and it doesn’t sit in escrow. 
 
-The whole flow:
+When you process a refund, the money goes back to the customer **from your Stripe balance**, and your balance drops by that amount.
+
+Basically
 
 - You click **Request Refund** on the order in your dashboard
 - You enter the quantity, refund amount, and a reason
@@ -20,8 +22,6 @@ The whole flow:
 - Your Stripe balance reflects the refund
 
 You **never log into Stripe directly**. Clubs don’t have Stripe dashboard access — your Store Manager dashboard talks to Stripe behind the scenes, and that’s the only tool you need.
-
-> **Important:** because Stripe pays out to you within the day, refunds come from your *current* Stripe balance — not from a holding account. If you’ve already withdrawn the money or spent it on club costs, refunding may push your balance negative. See [Where the refund money comes from](#where-the-refund-money-comes-from) below.
 
 ---
 
@@ -43,11 +43,10 @@ If you’re not sure whether to refund, contact `clubs@tusa.utas.edu.au` for gui
 
 ## Full Refund
 
-Use this when the customer is getting all their money back.
+To give your customers all their money back.
 
-### Step-by-step
-
-- Open the **Store Manager dashboard** → **Orders**
+- Open the **Store Manager**
+- Navigate to **Orders** tab, and then click **All Orders **
 - Find the order and click it to open the order details
 - Click the **Request Refund** button
 - **Quantity:** how many of each item you’re refunding (for a full refund, all of them)
@@ -102,6 +101,8 @@ You can think of it as: **Stripe is now lending you the money to refund the cust
 Clubs don’t have access to the Stripe dashboard, so you can’t check your balance yourself before processing a refund. **TUSA is your source of truth on this.** If you’re about to process anything bigger than a small refund — or if you’re processing several refunds at once — email `clubs@tusa.utas.edu.au` first and TUSA will let you know where your balance is sitting.
 
 ### How a negative balance gets cleared
+
+**Important:** because Stripe pays out to you within the day, refunds come from your *current* Stripe balance — not from a holding account. If you’ve already withdrawn the money or spent it on club costs, refunding may push your balance negative. See [Where the refund money comes from](#where-the-refund-money-comes-from) below.
 
 If a refund pushes your balance below \$0, it gets resolved one of two ways:
 

@@ -1,31 +1,16 @@
 # Manage Your Orders
 
-This guide covers viewing and managing orders for your club store.
+You can access your store's current orders by visiting **your profile page > Store Manager**, then click on the **Orders** tab and choose the **All Orders** expanded tab.
+
+- **Direct URL:** `https://tusa-dev.its.utas.edu.au/store-manager/new/#orders`
+
+**ALWAYS check if this is your store**, check the **welcome bar** at the top of the dashboard. It shows the name of the club's store you are managing.
 
 ---
 
-## Accessing Orders
+## Order Status
 
-### Getting There
-
-- Go to your **Profile**
-- Click **Store Manager**
-- Click **Dashboard**
-- Click **Orders** tab
-
-**Direct URL:** `https://tusa-dev.its.utas.edu.au/store-manager/new/#orders`
-
-**Check If It's Your Store Before managing orders**, check the **Welcome Bar** at the top of the dashboard. It shows which store you’re managing. Make sure it’s your club’s store.
-
----
-
-## Understanding Order Statuses
-
-Orders move through different statuses as they’re processed. TUSA uses both standard WooCommerce statuses and some custom ones.
-
-### Standard Statuses
-
-An ongoing order (undrafted) can have seven standard statuses:
+Orders move through different status as they’re processed, an ongoing order (undrafted) can have seven standard statuses:
 
 | Status              | What It Means                                             |
 | ------------------- | --------------------------------------------------------- |

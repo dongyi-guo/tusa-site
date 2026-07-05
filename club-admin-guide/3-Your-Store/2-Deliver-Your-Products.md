@@ -1,26 +1,22 @@
-# Ship Your Products
+# Deliver Your Products
 
-If you’re selling physical products (merchandise, not memberships or tickets), you need to set up shipping. This guide explains how store shipping works.
+If you’re selling physical products such as merchandises (T-shirts, stickers, etc.), you will need to setup pickup or shipping to deliver your products to the customers.
 
----
+**If you don't sell physical products, simple skip this guide.** Digital products as below will skip shipping setup automatically:
 
-## Do I Need Shipping?
+- Memberships
 
-You will need to set up shipping for your physical products.
+- Event Tickets
 
-**No physical products? - Skip this Guide.**
+- Downloads
 
-| Product Type                           | Shipping Required?   |
-| -------------------------------------- | -------------------- |
-| Merchandise (t-shirts, stickers, etc.) | **Yes**              |
-| Memberships                            | No – digital product |
-| Event Tickets                          | No – digital product |
+**Currently, International Shipping is NOT allowed.**
 
 ---
 
 ## Shipping Zones
 
-Shipping zones are geographic regions where shipping can be offered **set up and defined by TUSA**. You cannot create zones or modify zone's settings, but you will set your **shipping rates** within them.
+Shipping zones are geographic regions where shipping can be offered **set up and defined by TUSA. You cannot create zones or modify zone's settings**, but you will set your **shipping rates** within them.
 
 ### Available Zones
 
@@ -32,8 +28,6 @@ Available zones are listed below:
 | **Rozelle**        | Postcodes 2035-2040 (Sydney campus area)    |
 | **Tasmania**       | All of Tasmania                             |
 | **Australia**      | All of Australia                            |
-
-**Currently, International Shipping is NOT allowed.**
 
 ### Multiple Zone Matching
 
@@ -47,7 +41,7 @@ The customer will see shipping options from **all matching zones** and choose wh
 
 ---
 
-## Setting Up Your Shipping Rates
+## Shipping Rates
 
 ### Step 1: Go to Shipping Settings
 
@@ -83,20 +77,41 @@ If customers can collect from your club's room or campus:
 
 ---
 
-## Recommended Configuration for Most Clubs
+## Step-by-Step: First Time Setup
 
-For clubs selling merchandise occasionally:
+If you’ve never set up shipping before, do this:
+
+- **Go to:** Store Manager → Settings → Shipping
+- **Find:** Australia zone
+- **Click:** Add Shipping Method
+- **Select:** Flat Rate
+- **Enter:** 15.50 (or your preferred amount)
+- **Click:** Save
+
+That’s it! All Australian customers can now order your physical products.
+
+**Optional extra:**
+
+- Find Tasmania zone
+- Add Local Pickup
+- Enter collection location
+- Save
+- Now Tasmanian customers can choose pickup instead.
+
+---
+
+## Recommended Configuration
+
+We recommend setting your rate as:
 
 | Zone      | Method       | Price   | Notes                            |
 | --------- | ------------ | ------- | -------------------------------- |
 | Australia | Flat Rate    | \$15.50 | Covers postage anywhere in Aus   |
 | Tasmania  | Local Pickup | Free    | Collection from campus/club room |
 
-This configuration works for most situations.
-
 ---
 
-## What Customers Will See
+## What Will Customers See?
 
 When a customer checks out with a physical product:
 
@@ -124,7 +139,7 @@ With the recommended configuration:
 
 ---
 
-## Shipping Statuses
+## Order Status
 
 You will need to update order's shipping status as order proceeds:
 
@@ -136,7 +151,7 @@ You will need to update order's shipping status as order proceeds:
 | **Picked up**        | Customer has collected it           |
 | **Delivered**        | Customer has received it            |
 
-### Updating Order Status
+### Update Order Status
 
 To update order status, while at Store Manager:
 
@@ -148,73 +163,9 @@ To update order status, while at Store Manager:
 
 ---
 
-## Common Questions
+## Common Issues
 
-### “Customer says they can’t check out”
-
-Possible causes could be:
-
-- Product is physical but shipping not configured
-- You haven’t set up any shipping methods
-- Customer's address is international (blocked)
-
-**Fix:** Add at least Flat Rate to Australia zone.
-
-### “Customer sees too many options”
-
-**This is intended.** If they match multiple zones, they see all options. They choose what works for them.
-
-### “Can we ship internationally?”
-
-NO. International shipping is blocked at the platform level.
-
-### “What should I charge for shipping?”
-
-#### Recommendations
-
-| Item Size                          | Suggested Price |
-| ---------------------------------- | --------------- |
-| **Small items** (stickers, badges) | \$5-10          |
-| **Medium items** (t-shirts)        | \$12-15         |
-| **Large items** (hoodies)          | \$15-20         |
-
-**Or use flat rate:** \$15.50 covers most things
-
-You need to consider:
-
-- Australia Post costs
-- Packaging
-- Time consumed
-
-### “Can I offer free shipping?”
-
-Yes! Set Flat Rate to \$0. Or only offer Local Pickup (which is usually free).
-
-### “What if I only want local pickup?”
-
-Only add Local Pickup method to Tasmania (or relevant) zone. Don’t add Flat Rate. 
-
-However, customers outside Tasmania won’t be able to order.
-
----
-
-## Products That Don’t Need Shipping
-
-These products skip shipping automatically:
-
-**Memberships** – Digital products
-
-**Event Tickets** – Digital products
-
-**Downloads** – Digital products
-
-You don’t need to do anything special – they just work.
-
----
-
-## Troubleshooting
-
-### “No shipping options available” Error
+### “No shipping options available”
 
 If customer sees this error message at checkout, the cause might be:
 
@@ -247,26 +198,49 @@ This might happen if:
 
 ---
 
-## Step-by-Step: First Time Setup
+## Frequently Asked Questions (FAQs)
 
-If you’ve never set up shipping before, do this:
+### “Customer says they can’t check out”
 
-- **Go to:** Store Manager → Settings → Shipping
-- **Find:** Australia zone
-- **Click:** Add Shipping Method
-- **Select:** Flat Rate
-- **Enter:** 15.50 (or your preferred amount)
-- **Click:** Save
+Possible causes could be:
 
-That’s it! All Australian customers can now order your physical products.
+- Product is physical but shipping not configured
+- You haven’t set up any shipping methods
+- Customer's address is international (blocked)
 
-**Optional extra:**
+Make sure you at least add the flat rate to the Australian zone.
 
-- Find Tasmania zone
-- Add Local Pickup
-- Enter collection location
-- Save
-- Now Tasmanian customers can choose pickup instead.
+### “Customer sees too many options”
+
+**This is intended.** If they match multiple zones, they see all options. They choose what works for them.
+
+### “What should I charge for shipping?”
+
+#### Recommendations
+
+| Item Size                          | Suggested Price |
+| ---------------------------------- | --------------- |
+| **Small items** (stickers, badges) | \$5-10          |
+| **Medium items** (t-shirts)        | \$12-15         |
+| **Large items** (hoodies)          | \$15-20         |
+
+**Or use flat rate:** \$15.50 covers most things
+
+You need to consider:
+
+- Australia Post costs
+- Packaging
+- Time consumed
+
+### “Can I offer free shipping?”
+
+Yes! Simply set flat rate to \$0. Or only offer local pickup (which is usually free).
+
+### “What if I only want local pickup?”
+
+Only add Local Pickup method to Tasmania (or relevant) zone. Don’t add Flat Rate. 
+
+**This will prevent customers outside Tasmania from ordering.**
 
 ---
 

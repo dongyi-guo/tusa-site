@@ -27,7 +27,7 @@ You must submit an EOI via **EOI Form**, located on the TUSA website under Clubs
 
 ---
 
-## Step 2: Meeting with a Club Officer
+## Step 2: Meet with a Club Officer
 
 Once your EOI form is submitted, a TUSA Club Officer will contact you for a meeting.
 
