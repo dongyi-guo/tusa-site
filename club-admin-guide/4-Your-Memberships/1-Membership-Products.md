@@ -194,6 +194,91 @@ Both student and non-student purchasers get the same membership tag – they jus
 
 ---
 
+## Members-Only Products
+
+You can display a product that only existing members can buy.
+
+### Example: Renewal Product
+
+An example could be Membership Renewal, you want your club's 2025 members can purchase 2026 membership early but not anyone else. You could set a Membership Renewal Product that is Members-Only.
+
+**In your product's settings:**
+
+- Apply Tags: “Your Club 2026”
+- Required Tags (Any): “Your Club 2025”
+
+**Result:** Only people with the 2025 tag can see this product.
+
+### Example: Member-Exclusive Merchandise
+
+You may want special merchandise only sold to club members.
+
+**In your product's settings:**
+
+- Required Tags (Any): “Your Club 2026”
+
+**Result:** Only current members can see and purchase.
+
+---
+
+## The Two Sides of Every Club[][2]
+
+Every TUSA club has two sides that work together:
+
+### 1. The Public-Facing Club Store
+
+The store is your club’s **public face**. Anyone can see it.
+
+| What’s Visible          | Description                                              |
+| ----------------------- | -------------------------------------------------------- |
+| **Club Profile**        | Your name, logo, description, social links               |
+| **Events Archive**      | Past and upcoming event tickets                          |
+| **Merchandise**         | Club merch for sale                                      |
+| **Deals Teasers**       | Public preview of member deals (full details are hidden) |
+| **Membership Products** | How people join your club                                |
+
+**Key point:** When someone purchases a membership product from your store, they receive a **membership tag** — that tag is what unlocks the private side of your club.
+
+### 2. The Private Members-Only Group
+
+The group is your club’s **private community**. Only members who hold the membership tag can get in.
+
+| What’s Private          | Description                        |
+| ----------------------- | ---------------------------------- |
+| **News Feed**           | Club announcements and discussions |
+| **Member Directory**    | See who’s in your club             |
+| **Club Documents**      | Constitutions, minutes, resources  |
+| **Full Deal Details**   | Complete discount codes and offers |
+| **Member Interactions** | Comments, posts, connections       |
+
+**The membership tag is the key:** Buying membership in the store grants the tag, which unlocks the group.
+
+---
+
+## Excluding Certain Users
+
+Some products shouldn’t be available to everyone.
+
+### Excluding Juniors
+
+You may have some products that under-18s can’t purchase (insurance, legal requirements).
+
+**In your product's settings:**
+
+- Excluded Tags: “Junior”
+
+**Result:** Anyone with the “Junior” tag cannot see this product.
+
+### Common Exclusions
+
+| Exclude These         | Use Excluded Tag                    |
+| --------------------- | ----------------------------------- |
+| Under-18s             | “Junior”                            |
+| Non-students          | Use Required Tags “Student” instead |
+| Specific member types | The relevant tag                    |
+
+---
+
 ## Checklist
 
 Before your membership product is ready:

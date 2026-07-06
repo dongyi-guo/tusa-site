@@ -116,7 +116,7 @@ After checkout:
 
 **Don’t leave items in your cart** – complete checkout to secure your booking.
 
-### Cart Restrictions[](#cart-restrictions)
+### Cart Restrictions
 
 You cannot mix hire store items with other products:
 
@@ -128,154 +128,154 @@ You cannot mix hire store items with other products:
 
 If you need to buy other products, place separate orders.
 
-### Order Visibility[](#order-visibility)
+### Order Visibility
 
 Orders are only visible in the account that placed them. If multiple club admins need to see the order:
 
-Share login for the ordering account, OR
+- Share login for the ordering account, OR
 
-Contact TUSA staff (they can see all orders)
+- Contact TUSA staff (they can see all orders)
 
 ------------------------------------------------------------------------
 
-## If You Need to Change or Cancel[](#if-you-need-to-change-or-cancel)
+## If You Need to Change or Cancel
 
-### Changing Your Order[](#changing-your-order)
+### Changing Your Order
 
 Contact TUSA as soon as possible if you need to:
 
-Change dates
+- Change dates
 
-Add or remove equipment
+- Add or remove equipment
 
-Cancel the booking
+- Cancel the booking
 
-### Cancellation[](#cancellation)
+### Cancellation
 
 If your event is cancelled:
 
-Contact TUSA immediately
+- Contact TUSA immediately
 
-They will cancel the hire order
+- They will cancel the hire order
 
-Stock is released for others
+- Stock is released for others
 
 ------------------------------------------------------------------------
 
-## Pickup and Return[](#pickup-and-return)
+## Pickup and Return
 
-### Before Pickup[](#before-pickup)
+### Before Pickup
 
-Ensure your event is approved
+- Ensure your event is approved
 
-If invoiced, payment must be complete
+- If invoiced, payment must be complete
 
-Bring ID and order confirmation
+- Bring ID and order confirmation
 
-### At Pickup[](#at-pickup)
+### At Pickup
 
-Check all equipment is present
+- Check all equipment is present
 
-Note any existing damage
+- Note any existing damage
 
-Get pickup confirmation
+- Get pickup confirmation
 
-### Return[](#return)
+### Return
 
-Return on the agreed date
+- Return on the agreed date
 
-Return all items in same condition
+- Return all items in same condition
 
-Report any damage immediately
+- Report any damage immediately
 
 **Late returns or damage may affect future hire privileges.**
 
 ------------------------------------------------------------------------
 
-## Pricing and Discounts[](#pricing-and-discounts)
+## Pricing and Discounts
 
-### The 100% Discount[](#the-100-discount)
+### The 100% Discount
 
 The automatic discount:
 
-Applies at checkout for eligible users
+- Applies at checkout for eligible users
 
-Covers the full hire cost initially
+- Covers the full hire cost initially
 
-Is **provisional** until TUSA approves your event
+- Is **provisional** until TUSA approves your event
 
-### Final Pricing[](#final-pricing)
+### Final Pricing
 
 TUSA determines your actual entitlement in accordance with their policies and procedures, taking into account factors such as:
 
-Type of event
+- Type of event
 
-Club status
+- Club status
 
-Available funding
+- Available funding
 
-Other factors
+- Other factors
 
 You may receive:
 
-Full discount (100% – pay nothing)
+- Full discount (100% – pay nothing)
 
-Partial discount (pay reduced amount)
+- Partial discount (pay reduced amount)
 
-Standard pricing (pay full price)
+- Standard pricing (pay full price)
 
-### If You’re Invoiced[](#if-you’re-invoiced)
+### If You’re Invoiced
 
-Check your email for the invoice
+- Check your email for the invoice
 
-Log in to your account
+- Log in to your account
 
-Pay online through WooCommerce
+- Pay online through WooCommerce
 
-Equipment released after payment confirmed
+- Equipment released after payment confirmed
 
 ------------------------------------------------------------------------
 
-## Common Questions[](#common-questions)
+## Frequently Asked Questions (FAQs)
 
-### Why is my order \$0?[](#why-is-my-order-0)
+### Why is my order \$0?
 
 The 100% discount auto-applies to reserve equipment. TUSA will determine your actual entitlement after reviewing your event application.
 
-### Can I hire without an event application?[](#can-i-hire-without-an-event-application)
+### Can I hire without an event application?
 
 No. Hire orders must be linked to an approved event application.
 
-### What if equipment isn’t available for my dates?[](#what-if-equipment-isn’t-available-for-my-dates)
+### What if equipment isn’t available for my dates?
 
-Try alternative dates
+- Try alternative dates
 
-Contact TUSA about waitlist
+- Contact TUSA about waitlist
 
-Consider alternative equipment
+- Consider alternative equipment
 
-### Can someone else pick up for me?[](#can-someone-else-pick-up-for-me)
+### Can someone else pick up for me?
 
 Contact TUSA to arrange. They’ll need to know who’s collecting and verify their identity.
 
-### What if I damage equipment?[](#what-if-i-damage-equipment)
+### What if I damage equipment?
 
 Report it immediately at return. Damage costs may apply depending on circumstances.
 
 ------------------------------------------------------------------------
 
-## Need Help?[](#need-help)
+## Related Guides
+
+[Event Applications](#event-applications) – Submitting your event application
+
+[Creating Events](#creating-events) – Setting up your event
+
+---
+
+## Need Help?
 
 **Email:** clubs@tusa.utas.edu.au
 
 **In Person:** Visit the TUSA office
 
 **Online:** Use the contact form on the website
-
-------------------------------------------------------------------------
-
-## Related Guides[](#related-guides)
-
-[Event Applications](#event-applications) – Submitting your event application
-
-[Creating Events](#creating-events) – Setting up your event

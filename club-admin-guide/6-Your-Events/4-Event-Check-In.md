@@ -1,4 +1,4 @@
-# Checking In Event Attendees
+# Event Check-In
 
 This guide covers how to check in attendees at your club events using the QR code scanner and manage attendance.
 
@@ -159,8 +159,6 @@ After the event, you can use the attendee list to:
 - Compare to ticket sales
 - Report on event success
 - Follow up with no-shows if needed
-
-
 
 ---
 
