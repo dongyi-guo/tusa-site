@@ -1,0 +1,7 @@
+site_name: TUSA Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
