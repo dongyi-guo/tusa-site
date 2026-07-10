@@ -1,7 +1,66 @@
 site_name: TUSA Docs
+
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.top
     - toc.integrate
+    - toc.follow
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 4
+
+nav:
+  - Club Admin Guide:
+      - club-admin-guide/index.md
+      - Getting Started:
+          - club-admin-guide/1-Getting-Started/index.md
+          - Start Your Club Here: club-admin-guide/1-Getting-Started/1-Start-Your-Club-Here.md
+          - Manage Payments (Stripe): club-admin-guide/1-Getting-Started/2-manage-payments-stripe.md
+          - Website Navigation: club-admin-guide/1-Getting-Started/3-Website-Navigation.md
+          - How Accounts Work: club-admin-guide/1-Getting-Started/4-How-Accounts-Work.md
+          - Report Your Issue: club-admin-guide/1-Getting-Started/5-Report-Your-Issue.md
+      - Your Club:
+          - club-admin-guide/2-Your-Club/index.md
+          - Annual Reaffiliation: club-admin-guide/2-Your-Club/1-Annual-Reaffiliation.md
+          - Club Documents: club-admin-guide/2-Your-Club/2-Club-Documents.md
+          - Grants: club-admin-guide/2-Your-Club/3-Grants.md
+      - Your Store:
+          - club-admin-guide/3-Your-Store/index.md
+          - Your Products: club-admin-guide/3-Your-Store/1-Your-Products.md
+          - Deliver Your Products: club-admin-guide/3-Your-Store/2-Deliver-Your-Products.md
+          - Manage Your Orders: club-admin-guide/3-Your-Store/3-Manage-Your-Orders.md
+          - Refund Customers: club-admin-guide/3-Your-Store/4-Refund-Customers.md
+      - Your Memberships:
+          - club-admin-guide/4-Your-Memberships/index.md
+          - Membership Products: club-admin-guide/4-Your-Memberships/1-Membership-Products.md
+          - Membership Rules and Tags: club-admin-guide/4-Your-Memberships/2-Membership-Rules-and-Tags.md
+      - Your People:
+          - club-admin-guide/5-Your-People/index.md
+          - Manage Your Members: club-admin-guide/5-Your-People/1-Manage-Your-Members.md
+          - Manage Your Store Staff: club-admin-guide/5-Your-People/2-Manage-Your-Store-Staff.md
+      - Your Events:
+          - club-admin-guide/6-Your-Events/index.md
+          - Create an Event: club-admin-guide/6-Your-Events/1-Create-An-Event.md
+          - Event Applications: club-admin-guide/6-Your-Events/2-Event-Applications.md
+          - Hire From TUSA: club-admin-guide/6-Your-Events/3-Hire-From-TUSA.md
+          - Event Check-In: club-admin-guide/6-Your-Events/4-Event-Check-In.md
+  - Student Help Centre:
+      - student-help-centre/index.md
+      - Clubs & Societies:
+          - student-help-centre/1-clubs-&societies/index.md
+          - Joining Clubs: student-help-centre/1-clubs-&societies/1-joining-clubs.md
+          - Starting a New Club: student-help-centre/1-clubs-&societies/2-starting-a-new-club.md
+      - Events:
+          - student-help-centre/2-events/index.md
+          - Finding and Attending Events: student-help-centre/2-events/1-finding-and-attending-events.md
+          - Compliance Forms for Event Attendees: student-help-centre/2-events/2-compliance-forms-for-event-attendees.md
+      - Volunteering:
+          - student-help-centre/3-volunteering/index.md
+          - Food Hub Volunteering: student-help-centre/3-volunteering/1-food-hub-volunteering.md
