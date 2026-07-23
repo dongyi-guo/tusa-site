@@ -1,12 +1,12 @@
 # Annual Reaffiliation
 
-[][1]
+
 
 Every year, clubs must complete the reaffiliation process to remain active and affiliated with TUSA. This guide will walk you through everything you need to know about reaffiliation.
 
 Before this guide, please make sure you have understood [How Accounts Work](../1-Getting-Started/4-How-Accounts-Work.md) for the TUSA site.
 
-------------------------------------------------------------------------
+---
 
 ## What Is It?
 
@@ -22,7 +22,7 @@ Reaffiliation is the annual renewal process for all TUSA clubs. It ensures that:
 
 **Think of it like renewing your club’s membership with TUSA each year.**
 
-------------------------------------------------------------------------
+---
 
 ## When Is it?
 
@@ -40,9 +40,9 @@ Reaffiliation period **starts from late semester 2 to the start of semester 1, c
 - Reaffiliation starts
 - Deadline approaches
 
-------------------------------------------------------------------------
+---
 
-## Who Should Do It?[][4]
+## Who Should Do It?
 
 The **Club President** (or **acting president**) should complete the reaffiliation form as:
 
@@ -59,7 +59,7 @@ The **Club President** (or **acting president**) should complete the reaffiliati
 
 **Tip:** You can prepare the information with your committee, but only the president should be the one submitting the final form.
 
-------------------------------------------------------------------------
+---
 
 ## What Will Happen?
 
@@ -82,7 +82,7 @@ Besides the club president account, there are two types of accounts:
 
 | Account Type           | Purpose                              | Example                 |
 | ---------------------- | ------------------------------------ | ----------------------- |
-| **Personal Account**   | Your own individual account          | sarah.smith@utas.edu.au |
+| **Personal Account**   | Your own individual account          | alex.morgan@example.edu.au |
 | **Club Admin Account** | Shared account that gets handed down | president@chessclub.org |
 
 #### For Personal Accounts
@@ -124,7 +124,7 @@ For best practice, there are some situations you may want to avoid:
 | Role-based email removed but person kept   | Confusion about who the account belongs to | Either keep the role email (update details) OR remove it and add person with personal email |
 | Personal email user left but account kept  | Wrong person has access                    | Remove them from reaffiliation                               |
 
-------------------------------------------------------------------------
+---
 
 ## What to Prepare?
 
@@ -223,7 +223,7 @@ This means the membership list you export should reflect accurate, up-to-date st
 
 Clubs must have at least 50% students on their executive committees. A president can be a non-student, as long as associates don’t exceed 50% of the executive. If a committee member’s status changes mid-year (via the annual confirmation), it may affect your club’s ratio — TUSA will work with you if this happens.
 
-------------------------------------------------------------------------
+---
 
 ## Committee Review
 
@@ -262,7 +262,7 @@ When your reaffiliation is processed:
 
 This is an annual cleanup all club presidents should do to make sure only current committee members are included.
 
-------------------------------------------------------------------------
+---
 
 ## Step-by-Step Guide
 
@@ -275,7 +275,7 @@ This is an annual cleanup all club presidents should do to make sure only curren
 - Navigate to the **Resources + Forms** tab
 - Navigate to the **Reaffiliation** sub-tab
 
-### Step 2: Review Pre-filled Information[][35]
+### Step 2: Review Pre-filled Information
 
 The form will pre-fill with some information, please make sure they are correct or as your demand:
 
@@ -361,7 +361,7 @@ Attach the membership list as discussed before:
 
 - Upload the file in the membership attachment section
 
-### Step 7: Manage Media (Optional)[][40]
+### Step 7: Manage Media (Optional)
 
 You can keep or update media for your club such as logo/icon, banner/featured image.
 
@@ -379,7 +379,7 @@ For your media files, some tips could be:
 
 - Keep file sizes under 2MB
 
-### Step 8: Review and Submit[][41]
+### Step 8: Review and Submit
 
 - Check all information is correct
 
@@ -389,7 +389,7 @@ For your media files, some tips could be:
 
 Then you are good to go!
 
-------------------------------------------------------------------------
+---
 
 ## What Happens Then?
 
@@ -412,9 +412,9 @@ When your reaffiliation is processed:
 
 Reaffiliation usually takes **3-5 business days**, although it may take **up to 2 weeks**. Your club can continue operating while processing.
 
-------------------------------------------------------------------------
+---
 
-## Committee Member Access[][46]
+## Committee Member Access
 
 Different committee member roles have different accesses, the account will have relevant access based on the role assigned to it:
 
@@ -425,13 +425,13 @@ Different committee member roles have different accesses, the account will have 
 | Secretary       | Full Access    | Limited     | Admin       |
 | Other Committee | Limited        | Limited     | Moderator   |
 
-------------------------------------------------------------------------
+---
 
 ## Common Issues and Solutions
 
 There are some common scearios that could be tricky, and there are some troubleshootings:
 
-### “I can’t see the reaffiliation form”[][50]
+### “I can’t see the reaffiliation form”
 
 **Possible causes:**
 
@@ -443,7 +443,7 @@ There are some common scearios that could be tricky, and there are some troubles
 
 **Solution:** Contact TUSA to verify your account is set up correctly.
 
-### “My committee member’s details aren’t pre-filling”[][51]
+### “My committee member’s details aren’t pre-filling”
 
 **Possible causes:**
 
@@ -453,27 +453,27 @@ There are some common scearios that could be tricky, and there are some troubles
 
 **Solution:** Manually enter their details – this is normal for new members.
 
-### “I made a mistake in my submission”[][52]
+### “I made a mistake in my submission”
 
 **Solution:** Contact TUSA as soon as possible. We can make corrections before processing is complete.
 
-### “Our president has changed mid-year”[][53]
+### “Our president has changed mid-year”
 
 **Solution:** Contact TUSA to transfer presidency. The new president should then complete reaffiliation.
 
-### “We missed the deadline”[][54]
+### “We missed the deadline”
 
 **Solution:** Contact TUSA immediately. Late reaffiliation may be possible with explanation, but your club benefits may be temporarily suspended.
 
-### “A removed committee member still has admin access”[][55]
+### “A removed committee member still has admin access”
 
 **Solution:** Reaffiliation processing takes a few business days. If they still have admin access after a week, contact TUSA. Note: If they were a club member, they should now be a regular member (not admin). If they weren’t a club member, they should be removed from the group entirely.
 
-### “I’m using a club email but not getting notifications”[][56]
+### “I’m using a club email but not getting notifications”
 
 **Check:** Make sure your **Personal Email** field has YOUR email, not the club email. Notifications go to personal email.
 
-------------------------------------------------------------------------
+---
 
 ## Checklist
 
@@ -527,23 +527,23 @@ Here is a check list for you while completing your reaffiliation:
 
 - [ ] Verify removed committee members no longer have admin access
 
-------------------------------------------------------------------------
+---
 
 ## Frequently Asked Questions (FAQs)
 
-### Do we need to reaffiliate if nothing has changed?[][58]
+### Do we need to reaffiliate if nothing has changed?
 
 **Yes**. Even if nothing has changed, you still need to complete reaffiliation to confirm your club is still active.
 
-### What if we’re changing presidents during reaffiliation?[][59]
+### What if we’re changing presidents during reaffiliation?
 
 Complete a president change request first, then have the new president do reaffiliation. Or contact TUSA to coordinate.
 
-### Can someone other than the president complete this?[][60]
+### Can someone other than the president complete this?
 
 In exceptional circumstances, another executive member may be able to complete it. Contact TUSA to arrange this.
 
-### What happens if we don’t reaffiliate?[][61]
+### What happens if we don’t reaffiliate?
 
 - Your club status becomes inactive
 
@@ -555,15 +555,15 @@ In exceptional circumstances, another executive member may be able to complete i
 
 - You may need to re-apply for affiliation
 
-### Do all committee members need TUSA accounts?[][62]
+### Do all committee members need TUSA accounts?
 
 **Yes**. All committee members should have accounts on the TUSA website to receive appropriate access.
 
-### Can we change our club name during reaffiliation?[][63]
+### Can we change our club name during reaffiliation?
 
 **No**. Name changes require a separate application. Contact TUSA if you need to change your club’s name.
 
-### Can I use the club email for my personal email field?[][64]
+### Can I use the club email for my personal email field?
 
 **No.** Your personal email must be your own individual email address. This ensures:
 
@@ -575,7 +575,7 @@ In exceptional circumstances, another executive member may be able to complete i
 
 - The account/login email can be a shared club email, but personal email must be individual.
 
-### How do I hand over the club admin account to the new president?[][65]
+### How do I hand over the club admin account to the new president?
 
 If your club uses a handed-down account:
 

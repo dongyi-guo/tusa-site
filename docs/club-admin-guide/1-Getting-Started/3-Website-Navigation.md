@@ -1,6 +1,6 @@
 # Website Navigation
 
-[][1]
+
 
 This guide will help you navigate the TUSA website and find what you need. As a club admin, it is important for you to be familar with **three** pages:
 
@@ -10,7 +10,7 @@ This guide will help you navigate the TUSA website and find what you need. As a 
 
 We will also cover important tabs in these pages.
 
-------------------------------------------------------------------------
+---
 
 ## Your Account Page
 
@@ -165,7 +165,7 @@ After grants submission, the funds will be processed on club's previously approv
 
 **Important:** Grant application approval **DOES NOT MEAN** receiving money. You must submit a Grant Claim to receive funds (except startup grants).
 
-------------------------------------------------------------------------
+---
 
 ## Store Manager (Admin Only)
 
@@ -205,6 +205,6 @@ You may need to be demoted to regular member first, then re-promote, as getting 
 
 This avoids access conflicts and keeps things clear, zero confusion about which store you’re managing.
 
-------------------------------------------------------------------------
+---
 
 *Keep your profile updated for the best experience across the TUSA platform.*

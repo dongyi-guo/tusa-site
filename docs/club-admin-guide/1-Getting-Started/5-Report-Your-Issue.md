@@ -16,9 +16,9 @@ The scenario applies to anything on the site:
 
 And many other things.
 
-------------------------------------------------------------------------
+---
 
-## Where to send it[][12]
+## Where to send it
 
 Email the TUSA Clubs & Societies team: **clubs@tusa.edu.au**
 
@@ -48,7 +48,7 @@ A screenshot can justify most of things in one go. Capture the **whole browser w
 
 That’s it. Send it through, and TUSA staff will diagnose.
 
-------------------------------------------------------------------------
+---
 
 ## What's Next?
 
@@ -62,35 +62,35 @@ If the site is **down for everyone** (not just you) or **money is involved** (a 
 
 For everything else, a normal message is fine. TUSA will reply once the issue has been diagnosed.
 
-------------------------------------------------------------------------
+---
 
-## Common situations[][5]
+## Common situations
 
-### “The page is blank”[][6]
+### “The page is blank”
 
 - Refresh once (Ctrl+R / Cmd+R) — sometimes it’s a momentary load issue.
 
 - If it’s still blank: send the five things. Don’t clear caches or change settings.
 
-### “I got an error message”[][7]
+### “I got an error message”
 
 - Take a screenshot of the **whole error**, including any red banner, popup, or text on the page.
 
 - Send the five things plus the screenshot.
 
-### “It worked yesterday and doesn’t today”[][8]
+### “It worked yesterday and doesn’t today”
 
 - Note **what’s different** if anything — different browser, different device, different login.
 
 - Send the five things and mention “this worked \[when\].”
 
-### “Email didn’t arrive”[][9]
+### “Email didn’t arrive”
 
 - Check your spam/junk folder first.
 
 - If not there: send the five things plus *which email address* you were expecting it at and *roughly when* it should have arrived.
 
-### “I followed the instructions but got stuck at step X”[][10]
+### “I followed the instructions but got stuck at step X”
 
 - Tell TUSA which guide and which step. *e.g. “Adding Products guide, step 3 — the button isn’t there.”*
 

@@ -4,7 +4,7 @@ This guide will explain how clubs and accounts are set up in the TUSA system. Re
 
 The key takeaway is: **Your club admin accounts can be role-based, meaning they are separated from your personal accounts.** Your personal account/information will be **linked** to your role's club admin account, and will be **detached** after you leave. You **separate** your club's admin role/tasks from your club's member role/tasks by logging into different accounts.
 
-------------------------------------------------------------------------
+---
 
 ## The Club President Account
 
@@ -59,14 +59,14 @@ This is deliberate. The account represents the **position**, not the individual.
 
 ### About Emails
 
-It is very critical to make your personal email unique. The **login email** stays the same year after year (often a club email like `president@chessclub.org`). But your **personal email** field must always be the **current person’s individual email** (Let's say it's Sarah).
+It is very critical to make your personal email unique. The **login email** stays the same year after year (often a club email like `president@chessclub.org`). But your **personal email** field must always be the **current person’s individual email** (let's say it's Alex Morgan).
 
 | Field          | Purpose                               | Example                 |
 | -------------- | ------------------------------------- | ----------------------- |
 | Login Email    | Account access — usually a club email | president@chessclub.org |
-| Personal Email | Reaches the actual human              | sarah.smith@utas.edu.au |
+| Personal Email | Reaches the actual human              | alex.morgan@example.edu.au |
 
-When TUSA needs to contact the president personally, they reach Sarah, not “whoever happens to check the club inbox.”
+When TUSA needs to contact the president personally, they reach Alex, not “whoever happens to check the club inbox.”
 
 ---
 
@@ -74,7 +74,7 @@ When TUSA needs to contact the president personally, they reach Sarah, not “wh
 
 There are various situations that a club admin needs to be contacted:
 
-### [][12]
+
 
 | Scenario                  | What’s Needed                                                |
 | ------------------------- | ------------------------------------------------------------ |
@@ -93,12 +93,12 @@ The actual person’s information can be found on **Club Admin Account Page:**
 
 | Field                               | Example                                                      |
 | ----------------------------------- | ------------------------------------------------------------ |
-| Your real name                      | “Dongyi Guo”                                                 |
-| Your personal email                 | “dongyi.guo@utas.edu.au”                                     |
-| Personal phone number               | “0469 963 369”                                               |
-| Student number                      | “662970”                                                     |
-| Current enrolled faculty and course | “School of ICT, College of Science and Engineering, Master of Information Technology Systems” |
-| Anstralian address                  | “1/137 Redwood Road, Kingston TAS 7050”                      |
+| Your real name                      | “Alex Morgan”                                                |
+| Your personal email                 | “alex.morgan@example.edu.au”                                 |
+| Personal phone number               | “0400 123 456”                                               |
+| Student number                      | “123456”                                                     |
+| Current enrolled faculty and course | “College of Arts, Law and Education, Bachelor of Arts”      |
+| Anstralian address                  | “12 Sample Street, Hobart TAS 7000”                          |
 | Current UTAS student                | "Yes"                                                        |
 
 This information is required during club's **affiliation and reaffiliation**, and it pulls from relevant personal account's live profile data. Hence. it will always be the current person in this role.
@@ -124,7 +124,7 @@ The club admin's personal details are **internal**, it is not visible to regular
 
 This protects personal contact details while still allowing the right people to reach the right person.
 
-------------------------------------------------------------------------
+---
 
 ## Other Club Admin / Exec Committee Accounts
 
@@ -140,7 +140,7 @@ If the account has a role-based email address, such as `treasurer@club.org` , or
 
 ### Scenario Two: Personal Emails
 
-If the account has a personal email address, such as `sarah.smith@utas.edu.au` :
+If the account has a personal email address, such as `alex.morgan@example.edu.au` :
 
 - Account belongs to the person, not the role
 
@@ -182,7 +182,7 @@ Different committee member will have different access to different things:
 | Store staff access   | Can manage products and orders         |
 | Committee role badge | Identifies their role in the directory |
 
-------------------------------------------------------------------------
+---
 
 ## Accounts v.s. Email Addresses
 
@@ -193,14 +193,14 @@ In terms of accounts and email addresses, there are some golden rules:
 
 - **Never have** multiple people logging into the same account for various tasks
 
-### Two Email Fields Explained[][17]
+### Two Email Fields Explained
 
 | Field                        | Purpose                          | Must Be Unique?      |
 | ---------------------------- | -------------------------------- | -------------------- |
 | **Account Email (Login)**    | The email you log in with        | YES – one per person |
 | **Personal/Alternate Email** | Secondary contact, informational | No – can be shared   |
 
-### For Role-Based Club Emails[][18]
+### For Role-Based Club Emails
 
 Example: treasurer@club.com, president@club.com, secretary@club.com
 
@@ -215,13 +215,13 @@ Example: treasurer@club.com, president@club.com, secretary@club.com
 **Example:**
 
     treasurer@club.com account:
-      Last year: Sarah Smith's details
-      This year: John Brown's details (Sarah handed over login to John)
+      Last year: Alex Morgan's details
+      This year: John Brown's details (Alex handed over login to John)
 
 **If a role is removed:**\
 If you had assistanttreasurer@club.com last year but don’t have that role this year – remove that account entirely from the reaffiliation.
 
-### Scenario 2: Personal Email Accounts[][19]
+### Scenario 2: Personal Email Accounts
 
 Your committee members use their own emails (realname@utas.edu.au)
 
@@ -234,9 +234,9 @@ When someone leaves committee, remove them (they get demoted to regular member)
 When someone joins, add them with their personal email
 
 **If someone leaves:**\
-If sarah.smith@utas.edu.au was secretary last year but isn’t on committee this year – remove them from the reaffiliation form.
+If alex.morgan@example.edu.au was secretary last year but isn’t on committee this year – remove them from the reaffiliation form.
 
-### Scenario 3: One Shared Club Email[][20]
+### Scenario 3: One Shared Club Email
 
 Your club has ONE email address that everyone shares (e.g., chessclub@gmail.com)
 
@@ -296,7 +296,7 @@ The president account is the **keystone** that holds the store and group togethe
 
 - **Update your details annually** — during reaffiliation
 
-------------------------------------------------------------------------
+---
 
 ## Separate Your Personal Activity from the Club's 
 
@@ -323,9 +323,9 @@ One example could be:
 - **Club purchase:** Hiring equipment for a club event — **use the club admin account**
 - **Personal purchase:** Buying something for yourself — **use your personal account**
 
-------------------------------------------------------------------------
+---
 
-## Related Guides[][31]
+## Related Guides
 
 [Annual Reaffiliation] — How to update club details each year
 
@@ -333,6 +333,6 @@ One example could be:
 
 [Reporting an Issue] — When something’s not working
 
-------------------------------------------------------------------------
+---
 
 *This setup is what lets your club continue year after year, no matter who’s leading.*

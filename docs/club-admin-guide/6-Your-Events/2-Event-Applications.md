@@ -19,7 +19,7 @@ Event applications are submitted through the **Resources** tab in your club grou
 
 **Direct URL:** `https://tusa-dev.its.utas.edu.au/clubs/clubs-index/{your-club}/resources/events/`
 
-### What You’ll Find in Resources[][4]
+### What You’ll Find in Resources
 
 | Section                 | Purpose                               |
 | ----------------------- | ------------------------------------- |
@@ -427,7 +427,7 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 
 ## The Approval Process
 
-### Timeline[][46]
+### Timeline
 
 | Type                      | Typical Processing |
 | ------------------------- | ------------------ |
@@ -438,7 +438,7 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 
 **Plan ahead!** Submit well before your event date.
 
-### Possible Outcomes[][47]
+### Possible Outcomes
 
 | Status                       | What It Means                                     |
 | ---------------------------- | ------------------------------------------------- |
@@ -447,7 +447,7 @@ For regular, repeated activities (weekly training, monthly meetups), you can sub
 | **Returned for Amendment**   | We need changes or more information               |
 | **Declined**                 | Not approved – see feedback for reasons           |
 
-### If Returned for Amendment[][48]
+### If Returned for Amendment
 
 - Check your email for feedback
 

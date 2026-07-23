@@ -221,7 +221,7 @@ You may want special merchandise only sold to club members.
 
 ---
 
-## The Two Sides of Every Club[][2]
+## The Two Sides of Every Club
 
 Every TUSA club has two sides that work together:
 

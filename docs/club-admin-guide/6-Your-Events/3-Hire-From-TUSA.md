@@ -136,7 +136,7 @@ Orders are only visible in the account that placed them. If multiple club admins
 
 - Contact TUSA staff (they can see all orders)
 
-------------------------------------------------------------------------
+---
 
 ## If You Need to Change or Cancel
 
@@ -160,7 +160,7 @@ If your event is cancelled:
 
 - Stock is released for others
 
-------------------------------------------------------------------------
+---
 
 ## Pickup and Return
 
@@ -190,7 +190,7 @@ If your event is cancelled:
 
 **Late returns or damage may affect future hire privileges.**
 
-------------------------------------------------------------------------
+---
 
 ## Pricing and Discounts
 
@@ -234,7 +234,7 @@ You may receive:
 
 - Equipment released after payment confirmed
 
-------------------------------------------------------------------------
+---
 
 ## Frequently Asked Questions (FAQs)
 
@@ -262,7 +262,7 @@ Contact TUSA to arrange. They’ll need to know who’s collecting and verify th
 
 Report it immediately at return. Damage costs may apply depending on circumstances.
 
-------------------------------------------------------------------------
+---
 
 ## Related Guides
 

@@ -1,10 +1,10 @@
 # Managing Club Members
 
-[][1]
+
 
 This guide will explain how to manage members in your club group. More importantly, it will explain when you **should** and **shouldn’t** use these tools.
 
-------------------------------------------------------------------------
+---
 
 ## Add Members
 
@@ -24,9 +24,9 @@ When someone purchases a membership product:
 
 **This is the correct flow. Don’t bypass it.**
 
-------------------------------------------------------------------------
+---
 
-## Member Management[][3]
+## Member Management
 
 ### Where Is It?
 
@@ -87,7 +87,7 @@ Promoting someone to Organizer gives them significant access:
 
 Only promote people you trust with full club management and access to customer information (names, emails, order history).
 
-##### The Vendor Staff Limitation[][13]
+##### The Vendor Staff Limitation
 
 **Critical rule:** A user can only be vendor staff for ONE store at a time.
 
@@ -167,9 +167,9 @@ For a complete removal, you need to contact TUSA. They can:
 
 - Handle serious issues appropriately
 
-------------------------------------------------------------------------
+---
 
-## Member Roles Explained[][16]
+## Member Roles Explained
 
 | Role          | Group Access                    | Store Access      | Can Manage |
 | ------------- | ------------------------------- | ----------------- | ---------- |
@@ -237,11 +237,11 @@ Follow the steps on the page:
 
 **For regular member sign-ups, always use the store** – this ensures proper tracking and tag expiry.
 
-------------------------------------------------------------------------
+---
 
-## Summary: Do’s and Don’ts[][27]
+## Summary: Do’s and Don’ts
 
-### DO[][28]
+### DO
 
 ✓ Have members purchase membership (even if free)
 
@@ -253,7 +253,7 @@ Follow the steps on the page:
 
 ✓ Use CSV import for bulk migration from legacy systems
 
-### DON’T[][29]
+### DON’T
 
 ✗ Use “Add Members” to add regular members
 
@@ -265,7 +265,7 @@ Follow the steps on the page:
 
 ✗ Use CSV import instead of the store for regular sign-ups
 
-------------------------------------------------------------------------
+---
 
 ## Junior Members
 
@@ -284,7 +284,7 @@ Junior members require special consideration for several reasons:
 | **Adventure activities** | Higher risk activities need explicit parental approval       |
 | **Alcohol events**       | Juniors cannot attend or purchase tickets to events serving alcohol |
 
-### Parental Consent Requirements[][33]
+### Parental Consent Requirements
 
 **Before a junior member can participate in club activities, you must have a signed parental consent form on file.**
 
@@ -298,7 +298,7 @@ Junior members require special consideration for several reasons:
 
 - No consent = no participation
 
-### How to See Your Junior Members[][34]
+### How to See Your Junior Members
 
 Your club’s member list export shows junior members:
 
@@ -310,7 +310,7 @@ Your club’s member list export shows junior members:
 
 - Download the CSV for a complete list with “Is a Junior” column
 
-### Before Events: The Junior Checklist[][35]
+### Before Events: The Junior Checklist
 
 Before running an event where juniors may attend:
 
@@ -324,7 +324,7 @@ Before running an event where juniors may attend:
 
 - **Turn away** any junior without consent on file (explain they need parent to submit form first)
 
-### Adventure Clubs: Extra Considerations[][36]
+### Adventure Clubs: Extra Considerations
 
 If your club runs adventure activities (bushwalking, camping, water sports, etc.), junior participation requires:
 
@@ -336,7 +336,7 @@ If your club runs adventure activities (bushwalking, camping, water sports, etc.
 
 - Consider having parent contact details readily available during activities
 
-### Events with Alcohol[][37]
+### Events with Alcohol
 
 **Junior members cannot attend events where alcohol is served.**
 
@@ -348,9 +348,9 @@ The website automatically restricts alcohol event tickets using membership tags 
 
 - Refund their ticket if applicable
 
-------------------------------------------------------------------------
+---
 
-## Related Guides[][38]
+## Related Guides
 
 [Creating Membership Products] – The right way to add members
 
@@ -362,6 +362,6 @@ The website automatically restricts alcohol event tickets using membership tags 
 
 [Event Applications] – Risk assessment and event approval
 
-------------------------------------------------------------------------
+---
 
 *Members join through the store. Manage \> Members is for admin access, not membership.*

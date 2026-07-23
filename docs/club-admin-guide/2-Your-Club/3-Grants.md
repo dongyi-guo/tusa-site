@@ -11,7 +11,7 @@ TUSA offers several grant programs throughout the year to support club activitie
 
 **Note:** Available grants change throughout the year. Check this page to see what’s currently open.
 
-------------------------------------------------------------------------
+---
 
 ## Before You Apply
 
@@ -35,7 +35,7 @@ If your bank details **are changing:**
 
 - Submit a new **Change to Bank Signatories** form on **your club page > Club Admin tab > Bank Signatories sub-tab** and wait for TUSA Clubs Admin approval before expecting payments
 
-### Eligibility[][5]
+### Eligibility
 
 To apply for grants, your club must:
 
@@ -79,7 +79,7 @@ Before starting your application, make sure you have:
 
 - Any relevant permits or approvals
 
-------------------------------------------------------------------------
+---
 
 ## How Do I Apply?
 
@@ -125,7 +125,7 @@ There will be a third tab bar, seguing to different functions as named:
 
 - Read the grant description and requirements carefully
 
-### Step 3: Complete the Application Form[][11]
+### Step 3: Complete the Application Form
 
 The form automatically prefills with your club details, so you can focus on the specifics of what you’re applying for.
 
@@ -158,7 +158,7 @@ The form automatically prefills with your club details, so you can focus on the 
 
 Upload all your supporting documents, any documents you upload here automatically get added to your club’s document library for future use.
 
-### Step 4: Review and Submit[][12]
+### Step 4: Review and Submit
 
 - Double-check all information is accurate
 
@@ -166,15 +166,15 @@ Upload all your supporting documents, any documents you upload here automaticall
 
 - Submit your application
 
-------------------------------------------------------------------------
+---
 
-## What Then?[][13]
+## What Then?
 
 You’ll receive confirmation your application was submitted, TUSA staff will check whether your application is complete and assess it against the grant criteria. You’ll be notified of the outcome as soon as we make a decision.
 
 A simple application might take **1-2 weeks**, while complex application could take up to **4 weeks**, at the start of the semester it could take longer. Please plan ahead to avoid any inconvinences.
 
-------------------------------------------------------------------------
+---
 
 ## Track Your Application
 
@@ -218,7 +218,7 @@ On your **club page**, navigate to **Resources + Forms > Grants > Grant Claims:*
 
 - Supporting documents (receipts, invoices, proof of expenditure)
 
-### Claiming in Stages[][23]
+### Claiming in Stages
 
 You don’t have to claim the full approved amount at once. If your grant was approved for \$500, you can submit a claim for \$200 now and another for \$300 later. The system keeps track of how much you’ve already claimed and how much is still available.
 
@@ -234,7 +234,7 @@ You don’t have to claim the full approved amount at once. If your grant was ap
 
 **Important:** When a staff member approves or rejects your claim, any notes they write are included in the email you receive. Read these carefully — they may contain conditions, feedback, or instructions for next steps.
 
-### Requirements for Payout[][25]
+### Requirements for Payout
 
 Before funds can be released, you must have:
 
@@ -254,7 +254,7 @@ If any of these are missing, your funds will be held. However, once everything i
 
 - Keep receipts for all purchases
 
-### Acquittal Requirements[][26]
+### Acquittal Requirements
 
 After your event or purchase:
 
@@ -268,7 +268,7 @@ After your event or purchase:
 
 **Important:** Failure to acquit grants may affect future applications.
 
-------------------------------------------------------------------------
+---
 
 ## Dos And Don'ts
 
@@ -296,31 +296,31 @@ After your event or purchase:
 
 - Miss submission deadlines
 
-------------------------------------------------------------------------
+---
 
-## Frequently Asked Questions[][28]
+## Frequently Asked Questions
 
-### Can we apply for multiple grants?[][29]
+### Can we apply for multiple grants?
 
 **Yes**, you can have multiple grant applications, but not for the same items/expenses. Each grant application should be for distinct funding needs.
 
-### What if our event is cancelled?[][30]
+### What if our event is cancelled?
 
 Contact TUSA immediately. Depending on circumstances, you may need to return funds or reallocate them with approval.
 
-### Can we change what we spend the grant on?[][31]
+### Can we change what we spend the grant on?
 
 Minor variations may be okay, but significant changes need prior approval. Contact TUSA before making changes to your funded activities.
 
-### How long do we have to use the funds?[][32]
+### How long do we have to use the funds?
 
 Grants typically need to be used within the semester/period specified. Check your approval letter for specific requirements.
 
-### What if we spend less than approved?[][33]
+### What if we spend less than approved?
 
 Return any unused funds or seek approval to reallocate to related expenses.
 
-### Why haven’t we received our grant funds?[][34]
+### Why haven’t we received our grant funds?
 
 Check these common issues:
 
@@ -334,11 +334,11 @@ All three must be in place before funds are released.
 
 **For startup grants:** You don’t need a claim form, but you still need approved bank details.
 
-### Our bank details have changed – what do we do?[][35]
+### Our bank details have changed – what do we do?
 
 Submit a new **Change to Bank Signatories** form via your Club Dashboard. Wait for TUSA Clubs Admin approval before expecting any grant payments to the new account.
 
-### We’re a new club – when do we get our startup grant?[][36]
+### We’re a new club – when do we get our startup grant?
 
 New clubs receive a startup grant as part of affiliation, but it can only be paid out once you have:
 
@@ -350,9 +350,9 @@ New clubs receive a startup grant as part of affiliation, but it can only be pai
 
 - Submit your bank details as soon as your account is open to avoid delays.
 
-------------------------------------------------------------------------
+---
 
-## Need Help?[][37]
+## Need Help?
 
 **Email:** clubs@tusa.edu.au
 
