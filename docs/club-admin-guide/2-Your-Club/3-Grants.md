@@ -222,7 +222,7 @@ On your **club page**, navigate to **Resources + Forms > Grants > Grant Claims:*
 
 You don’t have to claim the full approved amount at once. If your grant was approved for \$500, you can submit a claim for \$200 now and another for \$300 later. The system keeps track of how much you’ve already claimed and how much is still available.
 
-**Note:** You won’t be able to submit a claim that exceeds your remaining balance. Nice try though.
+**Note:** You won’t be able to submit a claim that exceeds your remaining balance. Nice try.
 
 ### What Happens After You Submit a Claim
 

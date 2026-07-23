@@ -1,7 +1,5 @@
 # Annual Reaffiliation
 
-
-
 Every year, clubs must complete the reaffiliation process to remain active and affiliated with TUSA. This guide will walk you through everything you need to know about reaffiliation.
 
 Before this guide, please make sure you have understood [How Accounts Work](../1-Getting-Started/4-How-Accounts-Work.md) for the TUSA site.

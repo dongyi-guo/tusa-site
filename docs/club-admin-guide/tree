@@ -1,0 +1,35 @@
+club-admin-guide/
+├── 1-Start-Here/
+│   ├── 1-Join-and-Set-Up-Your-Club.md
+│   ├── 2-Find-Your-Way-Around.md
+│   ├── 3-How-Club-Accounts-Work.md
+│   ├── 4-Take-Payments.md
+│   └── 5-Get-Help-and-Report-a-Problem.md
+├── 2-Manage-Your-Club/
+│   ├── 1-Renew-Your-Club.md
+│   ├── 2-Upload-and-Manage-Club-Paperwork.md
+│   ├── 3-Keep-Documents-Current.md
+│   └── 4-Apply-for-Club-Funding.md
+├── 3-Sell-for-Your-Club/
+│   ├── 1-Sell-Memberships.md
+│   ├── 2-Set-Membership-Access-and-Expiry.md
+│   ├── 3-Sell-Merch.md
+│   ├── 4-Sell-Tickets.md
+│   ├── 5-Deliver-Orders.md
+│   └── 6-Refund-a-Payment.md
+├── 4-Look-After-People/
+│   ├── 1-Add-Members.md
+│   ├── 2-Manage-Committee-Access.md
+│   ├── 3-Manage-Club-Helpers.md
+│   └── 4-Import-Members-in-Bulk.md
+├── 5-Run-Events/
+│   ├── 1-Create-an-Event.md
+│   ├── 2-Get-Event-Approval.md
+│   ├── 3-Event-Food-and-Drink-Rules.md
+│   ├── 4-Event-Infrastructure-and-Equipment.md
+│   ├── 5-Event-Travel-and-Transport.md
+│   ├── 6-Event-Outdoor-and-Adventure-Rules.md
+│   ├── 7-Hire-Equipment-from-TUSA.md
+│   └── 8-Check-People-In.md
+└── 6-Get-Help/
+    └── 1-Report-a-Problem.md

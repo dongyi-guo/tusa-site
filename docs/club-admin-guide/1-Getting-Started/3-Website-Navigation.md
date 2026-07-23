@@ -1,7 +1,5 @@
 # Website Navigation
 
-
-
 This guide will help you navigate the TUSA website and find what you need. As a club admin, it is important for you to be familar with **three** pages:
 
 1. Your account page
